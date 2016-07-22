@@ -1,0 +1,22 @@
+title: The Art, Science, and Engineering of Programming
+
+host: http://programming-journal.org
+baseurl: /
+
+highlighter: rouge
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+
+host: 0.0.0.0
+# EOF

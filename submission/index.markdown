@@ -1,0 +1,37 @@
+---
+title: Submissions
+category: For Authors
+order: 800
+
+---
+## Submission Process
+Papers submitted to *The Art, Science, and Engineering of Programming* must use the the [online submission system][submit]. Upon submission, authors receive an automatic acknowledgement, and the papers are routed to a handling editor. The handling editor oversees the review process.
+
+## Typesetting
+*Template coming soon.*
+
+
+## Language and Page Limits
+Papers must be written in English using high standards of writing. Papers that show poor mastery of the English language may be disqualified without review.
+
+The main part of the paper should not exceed 10 pages (in the provided style of the journal), but there is no limit for bibliography and appendices. The page limit for the main part of the paper is is in place in order to keep the paper on focus and to avoid overloading the reviewers. Authors are encouraged to move important details to appendices, which may be consulted by the reviewers. In some cases, if authors feel that the main part requires substantially more pages, they should explain the reasons why in the additional comments field of the submission form; examples of these cases may include papers with substantial source code listings, and essays. Papers whose length is incommensurate with their contribution will be rejected.
+
+The submission is required to contain an [ACM subject classification][ccs].
+
+## Abstract
+Each submission must be accompanied by a plain-language abstract of up to 500 words that presents the key points in the paper in a manner understandable by experienced practitioners and researchers in nearby disciplines. The abstract should avoid mathematical symbols whenever possible, and it must address the following:
+
+* **Context**: What is the broad context of the work? What is the importance of the general research area? 
+* **Inquiry**: What problem or question does the paper address? How has this problem or question been addressed by others (if at all)? 
+* **Approach**: What did was done that unveiled new knowledge? 
+* **Knowledge**: What new facts were uncovered? If the research was not results oriented, what new capabilities are enabled by the work? 
+* **Grounding**: What argument, feasibility proof, artifacts, or results and evaluation support this work? 
+* **Importance**: Why does this work matter? 
+
+The absence of an abstract conforming to this specification is grounds for the rejection of the paper without review.
+
+## Attribution, Prior Papers, and Concurrent Submissions
+Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review on another journal or conference.
+
+[submit]: tbd
+[ccs]: https://dl.acm.org/ccs/ccs.cfm

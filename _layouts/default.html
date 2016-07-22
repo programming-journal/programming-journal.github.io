@@ -1,0 +1,185 @@
+---
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{site.title}}</title>
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/stylesheets/pygment_trac.css">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="{{ site.baseurl }}favicon.ico" />
+    <style type="text/css">
+/*      * {outline: 1px dotted green;}*/
+      body { padding-top: 70px;} .externalLink::after { content: ' ⇗'; }
+      nav {font-family: "Fira Sans", sans-serif;}
+      nav .featured {font-weight: bold;} nav#mainnav .active { font-style: italic }
+      nav ul { padding-left: 0px; list-style-type: none;}
+      .banner {font-size: 32px; padding-bottom: 4px; border-bottom: 12px solid rgb(25.5%,41%,88.4%);}
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    {% assign home = site.pages | where:'menutitle', 'About' | first %}
+    {% comment %} 
+    {% assign responsible = site.pages | where:'responsible', true | first %}
+    {% assign responsibleurl = responsible.url %}
+    {% assign responsibleshort = responsible.short %}
+    {% assign responsibletilte = responsible.title %}
+    {% endcomment %} 
+    {% assign responsibleurl = "http://programming-conference.org/steering/" %}
+    {% assign responsibleshort = "AOSA" %}
+    {% assign pages = site.pages | where: 'name', 'index.markdown' | sort:"order" %}
+    {% assign all_categories = pages | group_by: "category" | sort: 'name' | reverse %}
+    {% assign local_pages = pages %}
+    <div class="container">
+      <div class="row hidden-sm hidden-xs">
+        <div class="col-md-12">
+          <div class="banner" >{{site.title}}</div>
+        </div>
+      </div>
+      <div class="row">
+
+        <div class="col-lg-9 col-md-12">
+          {% assign featured_seen = false %}
+          {% for feature in pages %}
+              {% if feature.featured %}
+                {% unless featured_seen %}
+          <div class="well">
+                  {% assign featured_seen = true %}
+                {% endunless %}
+                {% if feature.external %}
+                  {% assign murl = feature.external %}
+                {% else %}
+                  {% assign murl = feature.url | remove: "index.html" %}
+                {% endif %}
+            <a href="{{ murl }}">
+              <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+              &nbsp;{{ feature.featured }}
+            </a><br>
+              {% endif %}
+            {% endfor %}
+            {% if featured_seen %}
+          </div>
+            {% endif %}
+          <section>
+            <h1>{{page.title}}</h1>
+            {% include submenu.html %}
+            {% if page.lead %}<div class="lead">{{page.lead}}</div>{% endif %}
+            {{content}}
+          </section>
+        </div>
+        <div class="col-lg-3 col-md-12">
+          <div class="visible-md pull-right">
+            <img src="{{ site.baseurl }}assets/programming.svg" style="height: 10em; padding: 0 1em;" alt="" title="‹Programming›">
+          </div>
+          <header id="navbarheader" class="visible-sm visible-xs">
+            <nav class="navbar navbar-default navbar-fixed-top">
+              <div class="container">
+                <div class="navbar-header">
+                  {% assign murl = home.url|remove:'index.html' %}
+                  <a id="programming-navbar-mobile" class="pull-left" href="{{ murl }}">
+                    <img style="height: 3em; padding: .5ex 1em" alt="{{ home.title }}" src="{{ site.baseurl }}assets/programming.svg">
+                  </a>
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                  <ul>
+                  {% for category in all_categories %}
+                  <li  class="h3"  id="{{category.name | uri_escape | downcase }}">{{category.name}}</li>
+                  {% assign local_pages = category.items %}
+                  <ul class="nav navbar-nav">
+                    {% for menuitem in local_pages %}
+                      {% assign liclass = '' %}
+                      {% if menuitem.title == page.title %}
+                        {% capture liclass %}{{ liclass }} active{% endcapture %}
+                      {% endif %}
+                      {% if menuitem.featured %}
+                        {% capture liclass %}{{ liclass }} featured{% endcapture %}
+                      {% endif %}
+                      <li class="{{ liclass }}">
+                      {% if menuitem.external %}
+                        {% assign murl = menuitem.external %}
+                      {% else %}
+                        {% assign murl = menuitem.url|remove:'index.html' %}
+                      {% endif %}
+                      <a href="{{murl}}">
+                        {% if menuitem.short %}
+                          {{menuitem.short }}
+                        {% elsif menuitem.menutitle %}
+                          {{menuitem.menutitle }}
+                        {% else %}
+                          {{menuitem.title}}
+                        {% endif %}
+                      </a></li>
+                    {% endfor %}
+                  </ul>
+                    {% endfor %}
+                  </ul>
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          </header>
+          <header id="mainheader" class="hidden-sm hidden-xs">
+            <nav id="mainnav">
+                <ul>
+                  {% for category in all_categories %}
+                  <li class="h3" id="{{category.name | uri_escape | downcase }}">{{category.name}}</li>
+                  {% assign local_pages = category.items %}
+                  <ul class="nav navbar-nav">
+                    {% for menuitem in local_pages %}
+                  {% assign liclass = '' %}
+                  {% if menuitem.title == page.title %}
+                    {% capture liclass %}{{ liclass }} active{% endcapture %}
+                  {% endif %}
+                  {% if menuitem.featured %}
+                    {% capture liclass %}{{ liclass }} featured{% endcapture %}
+                  {% endif %}
+                  <li class="{{ liclass }}">
+                  {% if menuitem.external %}
+                    {% assign murl = menuitem.external %}
+                  {% else %}
+                    {% assign murl = menuitem.url|remove:'index.html' %}
+                  {% endif %}
+                  <a href="{{murl}}">
+                    {% if menuitem.menutitle %}
+                    {{menuitem.menutitle}}
+                    {% else %}
+                    {{menuitem.title}}
+                    {% endif %}
+                </a></li>
+                    {% endfor %}
+                  </ul>
+                    {% endfor %}
+                  </ul>
+            </nav>
+            <div class="hidden-xs hidden-sm hidden-md">
+              <img src="{{ site.baseurl }}assets/programming.svg" style="width: 75%; padding: 1em;" alt="" title="‹Programming›">
+            </div>
+          </header>
+        </div>
+      </div>
+      <footer>
+      <p>© 2016–{{ 'now' | date: '%Y'}} <a href="{{ responsibleurl }}">
+      {% if responsibleshort %}{{ responsibleshort }}
+      {% else %}{{ responsibletitle}}
+      {% endif %}
+      </a></p>
+      </footer>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}assets/javascripts/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}assets/javascripts/custom.js"></script>
+  </body>
+</html>
