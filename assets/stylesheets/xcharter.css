@@ -16,28 +16,28 @@ The font modifications are Copyright (c) 2013--2016, Michael Sharpe.
   font-family: 'XCharter';
   font-style: normal;
   font-weight: 400;
-/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter_Regular.otf) format("opentype");*/
-    src: local("☺"), url(/assets/fonts/XCharter_Regular.otf) format("opentype");
+/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter-Regular.otf) format("opentype");*/
+    src: local("☺"), url(/assets/fonts/XCharter-Regular.otf) format("opentype");
 }
 @font-face {
   font-family: 'XCharter';
   font-style: italic;
   font-weight: 400;
-/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter_Italic.otf) format("opentype");*/
-    src: local("☺"), url(/assets/fonts/XCharter_Italic.otf) format("opentype");
+/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter-Italic.otf) format("opentype");*/
+    src: local("☺"), url(/assets/fonts/XCharter-Italic.otf) format("opentype");
 }
 
 @font-face {
   font-family: 'XCharter';
   font-style: normal;
   font-weight: 700;
-/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter_Bold.otf) format("opentype");*/
-    src: local("☺"), url(/assets/fonts/XCharter_Bold.otf) format("opentype");
+/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter-Bold.otf) format("opentype");*/
+    src: local("☺"), url(/assets/fonts/XCharter-Bold.otf) format("opentype");
 }
 @font-face {
   font-family: 'XCharter';
   font-style: italic;
   font-weight: 700;
-/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter_BoldItalic.otf) format("opentype");*/
-  src: local("☺"), url(/assets/fonts/XCharter_BoldItalic.otf) format("opentype");
+/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter-BoldItalic.otf) format("opentype");*/
+  src: local("☺"), url(/assets/fonts/XCharter-BoldItalic.otf) format("opentype");
 }
