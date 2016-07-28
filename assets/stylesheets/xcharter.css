@@ -16,8 +16,8 @@ The font modifications are Copyright (c) 2013--2016, Michael Sharpe.
   font-family: 'XCharter';
   font-style: normal;
   font-weight: 400;
-/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter-Regular.otf) format("opentype");*/
-    src: local("☺"), url(/assets/fonts/XCharter-Regular.otf) format("opentype");
+/*  src: local("☺"), url(http://programming-journal.org/assets/fonts/XCharter-Roman.otf) format("opentype");*/
+    src: local("☺"), url(/assets/fonts/XCharter-Roman.otf) format("opentype");
 }
 @font-face {
   font-family: 'XCharter';
