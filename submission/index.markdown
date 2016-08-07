@@ -33,5 +33,5 @@ The absence of an abstract conforming to this specification is grounds for the r
 ## Attribution, Prior Papers, and Concurrent Submissions
 Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review on another journal or conference.
 
-[submit]: tbd
+[submit]: https://easychair.org/conferences/?conf=programming2017
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
