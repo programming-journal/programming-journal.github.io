@@ -5,7 +5,7 @@ order: 800
 
 ---
 ## Submission Process
-Papers submitted to *The Art, Science, and Engineering of Programming* must use the the [online submission system][submit]. Upon submission, authors receive an automatic acknowledgement, and the papers are routed to a handling editor. The handling editor oversees the review process.
+Papers submitted to *The Art, Science, and Engineering of Programming* must use the the [online submission system][submit]. 
 
 ## Typesetting
 
