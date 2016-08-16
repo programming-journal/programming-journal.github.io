@@ -8,13 +8,16 @@ order: 800
 Papers submitted to *The Art, Science, and Engineering of Programming* must use the the [online submission system][submit]. Upon submission, authors receive an automatic acknowledgement, and the papers are routed to a handling editor. The handling editor oversees the review process.
 
 ## Typesetting
-*Template coming soon.*
+
+Submissions must use the [LateX template][latex template] of the journal. Please download the entire package; a manual is included.
+
+The template is also available in [Overleaf][overleaf].
 
 
-## Language and Page Limits
+## Language and Page Recommendations
 Papers must be written in English using high standards of writing. Papers that show poor mastery of the English language may be disqualified without review.
 
-The main part of the paper should not exceed 10 pages (in the provided style of the journal), but there is no limit for bibliography and appendices. The page limit for the main part of the paper is is in place in order to keep the paper on focus and to avoid overloading the reviewers. Authors are encouraged to move important details to appendices, which may be consulted by the reviewers. In some cases, if authors feel that the main part requires substantially more pages, they should explain the reasons why in the additional comments field of the submission form; examples of these cases may include papers with substantial source code listings, and essays. Papers whose length is incommensurate with their contribution will be rejected.
+The main part of the paper should not exceed 22 pages (in the provided style of the journal), but there is no limit for bibliography and appendices. The page limit for the main part of the paper is is in place in order to keep the paper on focus and to avoid overloading the reviewers. Authors are encouraged to move important details to appendices, which may be consulted by the reviewers. In some cases, if authors feel that the main part requires substantially more pages, they should explain the reasons why in the additional comments field of the submission form; examples of these cases may include papers with substantial source code listings, and essays. Papers whose length is incommensurate with their contribution will be rejected.
 
 The submission is required to contain an [ACM subject classification][ccs].
 
@@ -35,3 +38,5 @@ Submitted papers must present original work made by the authors, must not overla
 
 [submit]: https://easychair.org/conferences/?conf=programming2017
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
+[latex template]: https://github.com/programming-journal/programming/releases
+[overleaf]: https://www.overleaf.com/articles/programming/kzcgbdsnnyyt#.V7OJ85grKHs
