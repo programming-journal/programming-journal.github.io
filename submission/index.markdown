@@ -9,7 +9,7 @@ Papers submitted to *The Art, Science, and Engineering of Programming* must use 
 
 ## Typesetting
 
-Submissions must use the [LateX template][latex template] of the journal. Please download the entire package; a manual is included.
+Submissions must use the [LaTeX template][latex template] of the journal. Please download the [template package][template package]; a manual is included.
 
 The template is also available in [Overleaf][overleaf].
 
@@ -39,4 +39,5 @@ Submitted papers must present original work made by the authors, must not overla
 [submit]: https://easychair.org/conferences/?conf=programming2017
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
 [latex template]: https://github.com/programming-journal/programming/releases
+[template package]: https://github.com/programming-journal/programming/releases/download/v1.0/programming-template.zip
 [overleaf]: https://www.overleaf.com/articles/programming/kzcgbdsnnyyt#.V7OJ85grKHs
