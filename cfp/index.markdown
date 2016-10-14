@@ -27,7 +27,9 @@ Independent of the type of work, the journal accepts submissions covering severa
 * Visual and live programming
 * Data mining and machine learning programming, and for programming
 * Interpreters, virtual machines and compilers
-* Modeling and modularity
+* Modularity and separation of concerns
+* Model-based development
+* Metaprogramming and reflection
 * Testing and debugging
 * Program verification
 * Programming education
