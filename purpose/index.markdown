@@ -4,7 +4,7 @@ category: The Journal
 order: 300
 
 ---
-*The Art, Science, and Engineering of Programming* journal is a fully refereed, open access, free, electronic journal. It welcomes papers on the art of programming, broadly construed (see [Call for Papers](cfp)).
+*The Art, Science, and Engineering of Programming* journal is a fully refereed, open access, free, electronic journal. It welcomes papers on the art of programming, broadly construed (see [Call for Papers](/cfp)).
 
 Papers are refereed in the traditional way, with two or more referees per paper. Copyright is retained by the authors. Full-text access to all papers is freely available. No registration or subscription is required. Authors of published papers may be invited to present their work in partnering conferences.
 
