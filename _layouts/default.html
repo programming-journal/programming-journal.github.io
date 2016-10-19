@@ -177,11 +177,16 @@
         </div>
       </div>
       <footer>
-      <p>© 2016–{{ 'now' | date: '%Y'}} <a href="{{ responsibleurl }}">
+        <ol class="breadcrumb text-muted small">
+        <li>{{site.title}}</li>
+        <li>ISSN {{site.issn}}</li>
+        <li>
+          © 2016–{{ 'now' | date: '%Y'}} <a href="{{ responsibleurl }}">
       {% if responsibleshort %}{{ responsibleshort }}
       {% else %}{{ responsibletitle}}
       {% endif %}
-      </a></p>
+      </a></li>
+    </ol>
       </footer>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>

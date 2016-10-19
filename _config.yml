@@ -1,10 +1,14 @@
 title: The Art, Science, and Engineering of Programming
-
+issn: 2473-7321
 host: http://programming-journal.org
 baseurl: /
 
 highlighter: rouge
 markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 gems:
   - jekyll-sitemap
