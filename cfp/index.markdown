@@ -10,12 +10,15 @@ _The Art, Science, and Engineering of Programming_ accepts papers that advance k
 
 We accept descriptions of work under different perspectives:
 
- * **The Art**: knowledge and technical skills acquired through practice and personal experiences. Examples include libraries, frameworks, languages, APIs, programming models and styles, programming pearls, and essays about programming. 
- * **Science** (theoretical): knowledge and technical skills acquired through mathematical formalisms. Examples include formal programming models and proofs. 
- * **Science** (empirical): knowledge and technical skills acquired through experiments and systematic observations. Examples include user studies and programming-related data mining. 
- * **Engineering**: knowledge and technical skills acquired through designing and building large systems and through calculated application of principles in building those systems. Examples include measurements of artifacts’ properties, development processes and tools, and quality assurance methods. 
+* _Art_: knowledge and technical skills acquired through practice and personal experiences. Examples include libraries, frameworks, languages, APIs, programming models and styles, programming pearls, and essays about programming.
 
-Independent of the type of work, the journal accepts submissions covering several expertise areas. Expertise areas include, but are not limited to:
+* _Science (Theoretical)_: knowledge and technical skills acquired through mathematical formalisms. Examples include formal programming models and proofs.
+
+* _Science (Empirical)_: knowledge and technical skills acquired through experiments and systematic observations. Examples include user studies and programming-related data mining.
+
+* _Engineering_: knowledge and technical skills acquired through designing and building large systems and through calculated application of principles in building those systems. Examples include measurements of artifacts’ properties, development processes and tools, and quality assurance methods.
+
+Independent of the type of work, the journal accepts submissions covering several areas of expertise, including but not limited to:
 
 * General-purpose programming
 * Distributed systems programming
@@ -26,8 +29,10 @@ Independent of the type of work, the journal accepts submissions covering severa
 * Database programming
 * Visual and live programming
 * Data mining and machine learning programming, and for programming
-* Interpreters, virtual machines and compilers
-* Modeling and modularity
+* Interpreters, virtual machines, and compilers
+* Modularity and separation of concerns
+* Model-based development
+* Metaprogramming and reflection
 * Testing and debugging
 * Program verification
 * Programming education
