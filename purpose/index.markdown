@@ -1,5 +1,6 @@
 ---
 title: Purpose and Operation
+short: Purpose
 category: The Journal
 order: 300
 
