@@ -26,7 +26,7 @@ Each submission must be accompanied by a plain-language abstract of up to 500 wo
 
 * **Context**: What is the broad context of the work? What is the importance of the general research area? 
 * **Inquiry**: What problem or question does the paper address? How has this problem or question been addressed by others (if at all)? 
-* **Approach**: What did was done that unveiled new knowledge? 
+* **Approach**: What was done that unveiled new knowledge? 
 * **Knowledge**: What new facts were uncovered? If the research was not results oriented, what new capabilities are enabled by the work? 
 * **Grounding**: What argument, feasibility proof, artifacts, or results and evaluation support this work? 
 * **Importance**: Why does this work matter? 
