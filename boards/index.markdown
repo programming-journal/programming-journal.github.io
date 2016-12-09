@@ -8,10 +8,11 @@ order: 500
 The role of the Editorial Board is to run the day-to-day operations of the journal. The editorial board consists of the Editor-in-Chief, managing editors, and senior, associate and assistant editors.
 
 ### Editor-in-Chief
-TBD
+* Cristina V. Lopes, University of California, Irvine, USA
 
 ### Managing Editors
-TBD
+* Tobias Pape, Hasso Plattner Institute, University of Postdam, Germany
+* Robert Hirschfeld, Hasso Plattner Institute, University of Postdam, Germany
 
 ### Associate Editors
 * Cristina V. Lopes, University of California, Irvine, USA
