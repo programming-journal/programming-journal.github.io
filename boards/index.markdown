@@ -20,7 +20,7 @@ The role of the Editorial Board is to run the day-to-day operations of the journ
 ## Advisory Board
 The role of the advisory board is to guide and support the work of the editorial board, to help planning longer-term editorial strategies, and to provide institutional memory. Advisory Board members serve for a period of three years, extendable to another three years.
 
-### Current Advisory Board 
+### Members
 * Shigeru Chiba, University of Tokyo, Japan
 * Richard Gabriel, IBM Research, USA
 * Robert Hirschfeld, Hasso Plattner Institute, University of Postdam, Germany
