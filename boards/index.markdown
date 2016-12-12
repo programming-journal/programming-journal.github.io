@@ -15,9 +15,6 @@ The role of the Editorial Board is to run the day-to-day operations of the journ
 * Robert Hirschfeld, Hasso Plattner Institute, University of Postdam, Germany
 
 ### Associate Editors
-* Cristina V. Lopes, University of California, Irvine, USA
-
-### Junior Editors
 * Guido Salvaneschi, Technische Universität Darmstadt, Germany 
 
 ## Advisory Board
@@ -28,6 +25,5 @@ The role of the advisory board is to guide and support the work of the editorial
 * Richard Gabriel, IBM Research, USA
 * Robert Hirschfeld, Hasso Plattner Institute, University of Postdam, Germany
 * Theo D'Hondt, Vrije Universiteit Brussel, Belgium
-* Cristina Lopes, University of California, Irvine, USA
 * Wolfgang De Meuter, Vrije Universiteit Brussel, Belgium
 * Mario Südholt, École de Mines de Nantes, France
