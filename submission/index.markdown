@@ -5,7 +5,7 @@ order: 800
 
 ---
 ## Submission Process
-Papers submitted to *The Art, Science, and Engineering of Programming* must use the the [online submission system][submit]. 
+Papers submitted to *The Art, Science, and Engineering of Programming* must use the [online submission system][submit]. 
 
 ## Typesetting
 
