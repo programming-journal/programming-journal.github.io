@@ -4,9 +4,11 @@ category: For Authors
 order: 900
 
 ---
+Copyright for articles published in The Art, Science, and Engineering of Programming is retained by the authors. 
+
 ## License
 
-Copyright for articles published in The Art, Science, and Engineering of Programming is retained by the authors. We ask that you choose a license for your paper that gives arXiv and our journal the necessary rights to store, publish, and distribute it. The default license is [CC BY][https://creativecommons.org/licenses/by/4.0/], but we also accept variations, including [CC BY-NC][cc-by-nc].
+We ask that you choose a license for your paper that gives arXiv and our journal the necessary rights to store, publish, and distribute it. The default license is [CC BY][https://creativecommons.org/licenses/by/4.0/], but we also accept variations, including [CC BY-NC][cc-by-nc].
 
 ## Agreement
 
