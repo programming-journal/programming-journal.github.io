@@ -22,7 +22,7 @@ In addition, we ask you to agree to some conditions regarding post-publication c
 6.	The Owner agrees that no new version of the article, once it is published in the Journal, will be submitted to the Computing Research Repository (aka arXiv) without the agreement of the Journal. 
 7.	The Owner agrees to handle all changes or corrections via the assigned editor of the article in the Journal.
 8.	The Owner agrees that further publication of the Work, with the same or substantially the same content as appears in the Journal, will include an acknowledgment of prior publication in the Journal.
-9.	While the Journal is Open Access and free of charge, the Owner, or one of the co-authors, agrees to register for, and present the Work publicly at, the next [<Programming> conference][conference] that follows the publication of the Work in the Journal. 
+9.	While the Journal is Open Access and free of charge, the Owner, or one of the co-authors, agrees to register for, and present the Work publicly at, the next [‹Programming› conference][conference] that follows the publication of the Work in the Journal. 
 10.	This Agreement is governed by the laws of California.
 
 
