@@ -35,7 +35,7 @@
     {% endcomment %} 
     {% assign responsibleurl = "http://programming-conference.org/steering/" %}
     {% assign responsibleshort = "AOSA" %}
-    {% assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.order != nil" | sort:"order" | %}
+    {% assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.category != nil" | sort:"order" %}
     {% assign all_categories = pages | group_by: "category" | sort: 'name' | reverse %}
     {% assign local_pages = pages %}
     <div class="container">
