@@ -8,7 +8,7 @@ order: 500
 The role of the Editorial Board is to run the day-to-day operations of the journal. The editorial board consists of the Editor-in-Chief, managing editors, and senior, associate and assistant editors.
 
 ### Editor-in-Chief
-* Cristina V. Lopes, University of California, Irvine, USA
+* Cristina V. Lopes, University of California, Irvine, California
 
 ### Managing Editors
 * Tobias Pape, Hasso Plattner Institute, University of Postdam, Germany
@@ -22,7 +22,7 @@ The role of the advisory board is to guide and support the work of the editorial
 
 ### Members
 * Shigeru Chiba, University of Tokyo, Japan
-* Richard Gabriel, IBM Research, USA
+* Richard Gabriel, IBM Research, California
 * Robert Hirschfeld, Hasso Plattner Institute, University of Postdam, Germany
 * Theo D'Hondt, Vrije Universiteit Brussel, Belgium
 * Wolfgang De Meuter, Vrije Universiteit Brussel, Belgium
