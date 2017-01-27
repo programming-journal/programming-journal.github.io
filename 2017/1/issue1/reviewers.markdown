@@ -6,7 +6,7 @@ title: "Volume 1, Issue 1: Reviewers"
 
 | | |
 |---------------|----------------------------------|------------------------------|
-|Crista	Lopes (Editor-in-Chief) |University of California, Irvine,	California|
+|Crista	Lopes (EIC) |University of California, Irvine,	California|
 |Andrew	Black	|Portland State University,	USA|
 |Shigeru Chiba	|The University of Tokyo,	Japan|
 |Yvonne	Coady	|University of Victoria,	Canada|
