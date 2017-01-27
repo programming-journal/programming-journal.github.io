@@ -10,8 +10,6 @@ DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/issue1>
 An Open Access Journal for All-Things Programming](../editorial)  
 Cristina V. Lopes, Shigeru Chiba, Theo D’Hondt, Wolfgang De Meuter, Richard Gabriel, Robert Hirschfeld, Tobias Pape, Guido Salvaneschi, and Mario Südholt
 
-  * [Reviewers](reviewers)
-
 {: start="1"}
   1. [Effective Analysis of C Programs by Rewriting Variability](../1)  
 Alexandru Florin Iosif-Lazar, Jean Melo, Aleksandar S. Dimovski, Claus Brabrand, and Andrzej Wasowski
