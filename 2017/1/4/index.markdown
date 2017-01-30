@@ -3,7 +3,7 @@ title: "Relationship Maintenance in Software Language Repositories"
 ---
 Ralf Lämmel[^1]
 
-The Art, Science, and Engineering of Programming, Vol. 1, Issue 1, Article 4
+The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 1, Article 4
 
 Submission date: 2016-09-02  
 Publication date: 2017-01-27  

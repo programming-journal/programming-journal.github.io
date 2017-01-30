@@ -3,7 +3,7 @@ title: "Application Embedding: A Language Approach to Declarative Web Programmin
 ---
 David H. Lorenz[^1] and Boaz Rosenan[^2]
 
-The Art, Science, and Engineering of Programming, Vol. 1, Issue 1, Article 2
+The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 1, Article 2
 
 Submission date: 2016-09-01  
 Publication date: 2017-01-27  

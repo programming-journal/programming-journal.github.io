@@ -3,7 +3,7 @@ title: "Effective Analysis of C Programs by Rewriting Variability"
 ---
 Alexandru Florin Iosif-Lazar[^1], Jean Melo[^2], Aleksandar S. Dimovski[^3], Claus Brabrand[^4], and Andrzej Wasowski[^5]
 
-The Art, Science, and Engineering of Programming, Vol. 1, Issue 1, Article 1
+The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 1, Article 1
 
 Submission date: 2016-09-01  
 Publication date: 2017-01-27  

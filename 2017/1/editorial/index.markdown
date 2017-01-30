@@ -4,7 +4,7 @@ lead: "An Open Access Journal for All-Things Programming"
 ---
 Cristina V. Lopes, Shigeru Chiba, Theo D’Hondt, Wolfgang De Meuter, Richard Gabriel, Robert Hirschfeld, Tobias Pape, Guido Salvaneschi, and Mario Südholt
 
-The Art, Science, and Engineering of Programming, Vol. 1, Issue 1, Editorial
+The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 1, Editorial
 
 Publication date: 2017-01-09  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/editorial>  

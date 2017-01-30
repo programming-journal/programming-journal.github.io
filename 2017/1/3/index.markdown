@@ -3,7 +3,7 @@ title: "Interconnected Linguistic Architecture"
 ---
 Johannes Härtel[^1], Lukas Härtel[^2], Ralf Lämmel[^3], Andrei Varanovich[^4], and Marcel Heinz[^5]
 
-The Art, Science, and Engineering of Programming, Vol. 1, Issue 1, Article 3
+The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 1, Article 3
 
 Submission date: 2016-09-02  
 Publication date: 2017-01-27  
