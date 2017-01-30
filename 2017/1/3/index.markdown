@@ -8,7 +8,7 @@ The Art, Science, and Engineering of Programming, Vol. 1, Issue 1, Article 3
 Submission date: 2016-09-02  
 Publication date: 2017-01-27  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1701.08122v1)  
 
 
 ### Abstract
