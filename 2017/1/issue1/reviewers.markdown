@@ -17,11 +17,11 @@ title: "Volume 1, Issue 1: Reviewers"
 |Jeff	Gray	|University of Alabama,	USA|
 |Robert	Hirschfeld	|Hasso-Plattner-Institut (HPI),	Germany|
 |Roberto	Ierusalimschy	|Pontifical Catholic University of Rio de Janeiro,	Brazil|
-|J&ouml;erg	Kienzle	|McGill University,	Canada|
+|Jörg	Kienzle	|McGill University,	Canada|
 |Hidehiko	Masuhara	|Tokyo Institute of Technology,	Japan|
 |Sasa	Misailovic	|UIUC,	USA|
 |Guido	Salvaneschi	|Politecnico di Milano,	Italy|
-|Mario	S&uuml;dholt	|Ecole des Mines de Nantes,	France|
+|Mario	Südholt	|Ecole des Mines de Nantes,	France|
 |Tijs	van der Storm	|Centrum Wiskunde & Informatica,	Netherlands|
 |Jurgen	Vinju	|Centrum Wiskunde & Informatica,	Netherlands|
 
