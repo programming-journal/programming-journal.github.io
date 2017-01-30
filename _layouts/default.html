@@ -5,8 +5,6 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title }} - {% endif %}{{site.title}}</title>
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/xcharter.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/bootstrap.min.css">
@@ -24,6 +22,7 @@
     <!--[if lt IE 9]>
     <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+  {% seo %}
   </head>
   <body>
     {% assign home = site.pages | where:'menutitle', 'About' | first %}

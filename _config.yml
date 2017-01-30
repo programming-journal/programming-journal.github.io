@@ -3,6 +3,11 @@ issn: 2473-7321
 doi: 10.22152/programming-journal.org
 host: http://programming-journal.org
 
+description: The Art, Science, and Engineering of Programming journal is a
+  fully refereed, open access, free, electronic journal. It welcomes papers on
+  the art of programming, broadly construed.
+
+
 #baseurl: /
 
 highlighter: rouge
@@ -16,6 +21,7 @@ kramdown:
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 defaults:
   -
