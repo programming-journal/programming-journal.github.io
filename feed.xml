@@ -1,0 +1,38 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="{{ site.baseurl }}/assets/stylesheets/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
+  <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" hreflang="en"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ '/' | absolute_url | xml_escape }}/</id>
+  <title type="html">{{ site.title | smartify | xml_escape }}</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
+  <author>
+    <name>{{ site.author.name | default: site.author | xml_escape }}</name>
+    <email>{{ site.author.email | xml_escape }}</email>
+  </author>
+  {% assign entries = site.pages | where: "type", "article" | sort: "date" | reverse %}
+  {% for entry in entries limit: 25 %}
+    <entry xml:lang="en">
+      <title type="html">{{ entry.title | smartify | strip_html | normalize_whitespace | xml_escape }}{% if entry.lead %}: {{ entry.lead | smartify | strip_html | normalize_whitespace | xml_escape }}{% endif %}</title>      
+      <link href="{{ entry.url | absolute_url }}" rel="alternate" type="text/html" title="{{ entry.title | xml_escape }}" />
+      <published>{{ entry.date | date_to_xmlschema }}</published>
+      <updated>{{ entry.last_modified_at | default: entry.date | date_to_xmlschema }}</updated>
+      <id>{{ entry.id | xml_escape }}</id>
+      {% for author in entry.authors %}
+      <author>
+          <name>{{ author.name | default: "" | xml_escape }}</name>
+        {% if author.email %}
+          <email>{{ author.email | xml_escape }}</email>
+        {% endif %}
+      </author>
+      {% endfor %}
+      {% if entry.excerpt and entry.excerpt != empty %}
+        <summary type="html">{{ entry.excerpt | markdownify  | xml_escape }}</summary>
+      {% endif %}
+    </entry>
+  {% endfor %}
+</feed>
