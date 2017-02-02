@@ -2,7 +2,6 @@
 title: "Volume 1, Issue 1"
 category: "Issues"
 order: -1001
-
 type: "issue"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2017%2F1%2Fissue1"
 date: "2017-02-02"

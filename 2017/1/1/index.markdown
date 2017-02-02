@@ -1,19 +1,30 @@
 ---
 title: "Effective Analysis of C Programs by Rewriting Variability"
 type: "article"
+doi: "10.22152/programming-journal.org/2017/1/1"
+number: "1"
+volume: "1"
+issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2017%2F1%2F1"
 date: "2017-01-27"
 authors: 
-  - name: "Alexandru Florin Iosif-Lazar"
+  - name: "Iosif-Lazar, Alexandru Florin"
+    affiliation: "IT University of Copenhagen, Denmark"
 
-  - name: "Jean Melo"
+  - name: "Melo, Jean"
+    affiliation: "IT University of Copenhagen, Denmark"
 
-  - name: "Aleksandar S. Dimovski"
+  - name: "Dimovski, Aleksandar S."
+    affiliation: "IT University of Copenhagen, Denmark"
 
-  - name: "Claus Brabrand"
+  - name: "Brabrand, Claus"
+    affiliation: "IT University of Copenhagen, Denmark"
 
-  - name: "Andrzej Wasowski"
+  - name: "Wasowski, Andrzej"
+    affiliation: "IT University of Copenhagen, Denmark"
 
+arxiv: "1701.08114"
+file: "https://arxiv.org/pdf/1701.08114v1"
 excerpt: |
     Context. Variability-intensive programs (program families) appear in many application areas and for many reasons today. Different family members, called variants, are derived by switching statically configurable options (features) on and off, while reuse of the common code is maximized. 
     

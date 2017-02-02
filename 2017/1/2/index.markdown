@@ -1,13 +1,21 @@
 ---
 title: "Application Embedding: A Language Approach to Declarative Web Programming"
 type: "article"
+doi: "10.22152/programming-journal.org/2017/1/2"
+number: "2"
+volume: "1"
+issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2017%2F1%2F2"
 date: "2017-01-27"
 authors: 
-  - name: "David H. Lorenz"
+  - name: "Lorenz, David H."
+    affiliation: "Open University of Israel, Israel"
 
-  - name: "Boaz Rosenan"
+  - name: "Rosenan, Boaz"
+    affiliation: "University of Haifa, Israel"
 
+arxiv: "1701.08119"
+file: "https://arxiv.org/pdf/1701.08119v1"
 excerpt: |
     Since the early days of the Web, web application developers have aspired to develop much of their applications declaratively. However, one aspect of the application, namely its business-logic is constantly left imperative. In this work we present Application Embedding, a novel approach to application development which allows all aspects of an application, including its business-logic, to be programmed declaratively.
     

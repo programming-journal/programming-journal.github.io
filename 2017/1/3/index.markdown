@@ -1,19 +1,30 @@
 ---
 title: "Interconnected Linguistic Architecture"
 type: "article"
+doi: "10.22152/programming-journal.org/2017/1/3"
+number: "3"
+volume: "1"
+issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2017%2F1%2F3"
 date: "2017-01-27"
 authors: 
-  - name: "Johannes Härtel"
+  - name: "Härtel, Johannes"
+    affiliation: "University of Koblenz-Landau, Germany"
 
-  - name: "Lukas Härtel"
+  - name: "Härtel, Lukas"
+    affiliation: "University of Koblenz and Landau, Germany, Germany"
 
-  - name: "Ralf Lämmel"
+  - name: "Lämmel, Ralf"
+    affiliation: "Universität Koblenz-Landau, Germany"
 
-  - name: "Andrei Varanovich"
+  - name: "Varanovich, Andrei"
+    affiliation: "Universität Koblenz-Landau, Germany"
 
-  - name: "Marcel Heinz"
+  - name: "Heinz, Marcel"
+    affiliation: "University of Koblenz, Germany"
 
+arxiv: "1701.08122"
+file: "https://arxiv.org/pdf/1701.08122v1"
 excerpt: |
     The context of the reported research is the documentation of software technologies such as object/relational mappers, web-application frameworks, or code generators. We assume that documentation should model a macroscopic view on usage scenarios of technologies in terms of involved artifacts, leveraged software languages, data flows, conformance relationships, and others. In previous work, we referred to such documentation also as ‘linguistic architecture’. The corresponding models may also be referred to as ‘megamodels’ while adopting this term from the technological space of modeling/model-driven engineering.
     This work is an inquiry into making such documentation less abstract and more effective by means of connecting (mega)models, systems, and developer experience in several ways.

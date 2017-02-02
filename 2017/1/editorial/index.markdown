@@ -2,27 +2,32 @@
 title: "Editorial: Introducing The Art, Science, and Engineering of Programming"
 lead: "An Open Access Journal for All-Things Programming"
 type: "article"
+doi: "10.22152/programming-journal.org/2017/1/editorial"
+number: "editorial"
+volume: "1"
+issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2017%2F1%2Feditorial"
 date: "2017-01-09"
 authors: 
-  - name: "Cristina V. Lopes"
+  - name: "Lopes, Cristina V."
 
-  - name: "Shigeru Chiba"
+  - name: "Chiba, Shigeru"
 
-  - name: "Theo D’Hondt"
+  - name: "D’Hondt, Theo"
 
-  - name: "Wolfgang De Meuter"
+  - name: "De Meuter, Wolfgang"
 
-  - name: "Richard Gabriel"
+  - name: "Gabriel, Richard"
 
-  - name: "Robert Hirschfeld"
+  - name: "Hirschfeld, Robert"
 
-  - name: "Tobias Pape"
+  - name: "Pape, Tobias"
 
-  - name: "Guido Salvaneschi"
+  - name: "Salvaneschi, Guido"
 
-  - name: "Mario Südholt"
+  - name: "Südholt, Mario"
 
+file: "editorial.pdf"
 excerpt: |
     The Art, Science, and Engineering of Programming is a new journal created with the goal of placing the wonderful art of programming in the map of scholarly works. Many academic journals and conferences exist that publish research related to programming, starting with programming languages, software engineering, and expanding to the whole Computer Science field. Yet, many of us feel that, as the field of Computer Science expanded, programming, in itself, has been neglected to a secondary role not worthy of scholarly attention. However, much of the progress in Computer Science lies on the basis of computer programs, the people who write them, and the concepts and tools available to them to express their ideas.
     

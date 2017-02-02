@@ -1,0 +1,26 @@
+<meta name="citation_title" content="{{ page.title | xml_escape}}">
+{% for author in page.authors %}
+<meta name="citation_author" content="{{ author.name | xml_escape }}">
+{% if author.affiliation and affiliation != empty %}
+<meta name="citation_author_institution" content="{{ author.affiliation |  xml_escape }}">
+{% endif %}
+{% endfor %}
+<meta name="citation_language" content="en">
+<meta name="citation_publication_date" content="{{ page.date | date: "%Y/%m/%d" }}">
+<meta name="citation_online_date" content="{{ page.date | date: "%Y/%m/%d" }}">
+<meta name="citation_date" content="{{ page.date | date: "%Y/%m/%d" }}">
+<meta name="citation_journal_title" content="{{ site.title | xml_escape }}">
+<meta name="citation_issn" content="{{ site.issn }}">
+<meta name="citation_volume" content="{{ page.volume }}">
+<meta name="citation_issue" content="{{ page.issue | xml_escape }}">
+<meta name="citation_firstpage" content="{{ page.number }}-1">
+<meta name="citation_doi" content="{{ page.doi | xml_escape }}">
+<meta name="citation_abstract_html_url" content="{{ page.url | absolute_url | xml_escape}}">
+{% if page.file and page.file != empty %}
+{% if page.file contains "://" %}
+<meta name="citation_pdf_url" content="{{ page.file | xml_escape }}">
+<meta name="citation_arxiv_id" content="{{ page.arxiv }}">
+{% else %}{% capture file %}{{ page.url }}{{ page.file }}{% endcapture %}
+<meta name="citation_pdf_url" content="{{ file | absolute_url | xml_escape }}">
+{% endif %}
+{% endif %}

@@ -1,11 +1,18 @@
 ---
 title: "Relationship Maintenance in Software Language Repositories"
 type: "article"
+doi: "10.22152/programming-journal.org/2017/1/4"
+number: "4"
+volume: "1"
+issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2017%2F1%2F4"
 date: "2017-01-27"
 authors: 
-  - name: "Ralf Lämmel"
+  - name: "Lämmel, Ralf"
+    affiliation: "Universität Koblenz-Landau, Germany"
 
+arxiv: "1701.08124"
+file: "https://arxiv.org/pdf/1701.08124v1"
 excerpt: |
     The context of this research is testing and building software systems and, specifically, software language repositories (SLRs), i.e., repositories with components for language processing (interpreters, translators, analyzers, transformers, pretty printers, etc.). SLRs are typically set up for developing and using metaprogramming systems, language workbenches, language definition frameworks, executable semantic frameworks, and modeling frameworks.
     This work is an inquiry into testing and building SLRs in a manner that the repository is seen as a collection of language-typed artifacts being related by the applications of language-typed functions or relations which serve language processing. The notion of language is used in a broad sense to include text-, tree-, graph-based languages as well as representations based on interchange formats and also proprietary formats for serialization.
