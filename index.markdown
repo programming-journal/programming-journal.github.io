@@ -21,5 +21,4 @@ Here are some of the highlights of this new journal:
 
 Looking forward to getting this rolling!
 
-
 [programming]: http://programming-conference.org
