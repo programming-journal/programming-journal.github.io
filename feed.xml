@@ -1,5 +1,9 @@
 ---
 layout: none
+category: ""
+menutitle: "Article feed (atom)"
+order: 1000
+alternate: 'application/atom+xml'
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="{{ site.baseurl }}/assets/stylesheets/atom.xsl"?>

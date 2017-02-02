@@ -9,9 +9,10 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/xcharter.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/bootstrap.min.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/pygment_trac.css">
-    <link rel="icon" type="image/vnd.microsoft.icon" href="{{ site.baseurl }}/favicon.ico" />
-    <link rel="alternate" type="application/atom+xml" title="Article feed (atom)" href="{{ site.baseurl }}/feed.xml">
-    <link rel="alternate" type="application/rss+xml" title="Article feed (RSS)" href="{{ site.baseurl }}/feed.rss">
+    {% assign alternates = site.pages | where_exp: "page", "page.alternate != nil" | sort:"order" %}
+    {% for alternate in alternates %}
+    <link rel="alternate" type="{{alternate.alternate}}" title="{{alternate.menutitle}}" href="{{ alternate.url }}">
+    {% endfor %}
     <style type="text/css">
       body { padding-top: 70px;} .externalLink::after { content: ' ⇗'; }
       a {font-family: "Fira Sans", sans-serif;}
@@ -36,7 +37,10 @@
     {% endcomment %} 
     {% assign responsibleurl = "http://programming-conference.org/steering/" %}
     {% assign responsibleshort = "AOSA" %}
+    {% comment %} 
     {% assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.category != nil" | sort:"order" %}
+    {% endcomment %} 
+    {% assign pages = site.pages | where_exp: "page", "page.category != nil" | sort:"order" %}
     {% assign all_categories = pages | group_by: "category" | sort: 'name' | reverse %}
     {% assign local_pages = pages %}
     <div class="container">
