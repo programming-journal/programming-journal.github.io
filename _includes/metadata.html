@@ -47,6 +47,23 @@
   {% endunless %}
   {% assign page_image = page_image | escape %}
 {% endif %}
+
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": {{ type | jsonify }},
+{% if name %}"name": {{ name | jsonify }},{% endif %}
+{% if page_title %}"headline": {{ page_title | jsonify }},{% endif %}
+{% if page.date %}"datePublished": {{ page.date | date_to_xmlschema | jsonify }},{% endif %}
+{% if description %}"description": {{ description | jsonify }},{% endif %}
+{% if site_logo %}
+"publisher": {
+  "@type": "Organization",
+  "logo": { "@type": "ImageObject", "url": {{ site_logo | jsonify }} }
+},
+{% endif %}
+"url": {{ page.url | replace:'/index.html','/' | absolute_url | jsonify }}
+}</script>
+
 {% if tag.title and title %}
   <title>{{ title }}</title>
 {% endif %}
@@ -90,18 +107,3 @@
 {% if paginator.next_page %}
   <link rel="next" href="{{ paginator.next_page_path | absolute_url }}">
 {% endif %}
-<script type="application/ld+json">
-{"@context": "http://schema.org",
-"@type": {{ type | jsonify }},
-{% if name %}"name": {{ name | jsonify }},{% endif %}
-{% if page_title %}"headline": {{ page_title | jsonify }},{% endif %}
-{% if page.date %}"datePublished": {{ page.date | date_to_xmlschema | jsonify }},{% endif %}
-{% if description %}"description": {{ description | jsonify }},{% endif %}
-{% if site_logo %}
-"publisher": {
-  "@type": "Organization",
-  "logo": { "@type": "ImageObject", "url": {{ site_logo | jsonify }} }
-},
-{% endif %}
-"url": {{ page.url | replace:'/index.html','/' | absolute_url | jsonify }}
-}</script>
