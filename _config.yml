@@ -25,7 +25,6 @@ kramdown:
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-seo-tag
 
 defaults:
   -

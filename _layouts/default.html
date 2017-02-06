@@ -27,8 +27,9 @@
     <![endif]-->
     {% if page.type and page.type == "article" %}
     {% include article_metadata.html %}
+    {% else %}
+    {% include metadata.html %}
     {% endif %}
-  {% seo %}
   </head>
   <body>
     {% assign home = site.pages | where:'menutitle', 'About' | first %}
