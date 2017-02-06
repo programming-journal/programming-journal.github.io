@@ -111,9 +111,7 @@
     "url": {{ page_image | jsonify }}
   },
   {% else %}
-  "image": {
-    "@type": "ImageObject"
-  },
+  "image": { "@type": "ImageObject", "height":1, "width": 1, "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" },
   {% endif %}
   {% if site_logo %}
   "publisher": {
