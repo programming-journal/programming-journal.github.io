@@ -6,7 +6,6 @@
 {% assign site_title = site.title | default: site.name %}
 {% assign title = page.title %}
 {% assign page_title = page.title %}
-{% assign title = title | append:" - " | append: site_title %}
 {% assign title = title | smartify | strip_html | normalize_whitespace | escape_once %}
 {% assign site_title = site_title | smartify | strip_html | normalize_whitespace | escape_once %}
 {% assign page_title = page_title | smartify | strip_html | normalize_whitespace | escape_once %}

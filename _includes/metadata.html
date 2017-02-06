@@ -5,15 +5,9 @@
 {% if page.title %}
   {% assign title = page.title %}
   {% assign page_title = page.title %}
-  {% if site_title %}
-    {% assign title = title | append:" - " | append: site_title %}
-  {% endif %}
 {% elsif site_title %}
   {% assign title = site_title %}
   {% assign page_title = site_title %}
-  {% if site.description %}
-    {% assign title = title | append:" - " | append: site.description %}
-  {% endif %}
 {% endif %}
 {% if homepage and site_title %}
     {% assign name = site_title | smartify | strip_html | normalize_whitespace | escape_once %}
