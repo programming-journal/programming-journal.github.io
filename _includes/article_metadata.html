@@ -103,7 +103,7 @@
   "sameAs": {{ resolver | jsonify }},
   {% assign authors = page.authors %}
   "author": [{ "@type": "Person", "name": {{ authors[0].name |jsonify }}{% if authors[0].affiliation %},"affiliation": {{ authors[0].affiliation |jsonify }}{% endif %} }
-    {% for author in authors %},{ "@type": "Person", "name": {{ author.name |jsonify }}{% if author.affiliation %},"affiliation": {{ author.affiliation |jsonify }}{% endif %} } {% endfor %}
+    {% for author in authors offset: 1 %},{ "@type": "Person", "name": {{ author.name |jsonify }}{% if author.affiliation %},"affiliation": {{ author.affiliation |jsonify }}{% endif %} } {% endfor %}
   ],
   {% if page_image %}
   "image": {
