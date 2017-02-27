@@ -64,7 +64,7 @@
 "url": {{ page.url | replace:'/index.html','/' | absolute_url | jsonify }}
 }</script>
 
-{% if tag.title and title %}
+{% if title %}
   <title>{{ title }}</title>
 {% endif %}
 
