@@ -1,5 +1,5 @@
 ---
-title: The Art, Science, and Engineering of Programming
+title: The Programming Journal
 category: The Journal
 menutitle: About
 order: 100
