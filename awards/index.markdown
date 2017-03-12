@@ -15,11 +15,11 @@ To celebrate the work of the community around the journal, we have instituted th
 
 ### 2017
 
-#### Reviewers' Choice Awardees
+#### Editors' Choice Awardees
 
 TBA
 
-#### Editors' Choice Awardees
+#### Reviewers' Choice Awardees
 
 TBA
 
