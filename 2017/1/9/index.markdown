@@ -15,6 +15,8 @@ authors:
   - name: "Ostermann, Klaus"
     affiliation: "University of Tübingen, Germany"
 
+arxiv: "1703.10895"
+file: "https://arxiv.org/pdf/1703.10895v1"
 excerpt: |
     Model-driven development is a pragmatic approach to software development that embraces domain-specific languages (DSLs), where models correspond to DSL programs. A distinguishing feature of model-driven development is that clients of a model can select from an open set of alternative semantics of the model by applying different model transformation. However, in existing model-driven frameworks, dependencies between models, model transformations, and generated code artifacts are either implicit or globally declared in build scripts, which impedes modular reasoning, separate compilation, and programmability in general.
     
@@ -28,7 +30,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-01  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/9>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10895v1)  
 
 
 ### Abstract

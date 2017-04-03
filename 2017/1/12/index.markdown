@@ -15,6 +15,8 @@ authors:
   - name: "Hirschfeld, Robert"
     affiliation: "Hasso Plattner Institute, Germany"
 
+arxiv: "1703.10859"
+file: "https://arxiv.org/pdf/1703.10859v1"
 excerpt: |
     Modern software development without reactive programming is hard to imagine. Reactive programming favors a wide class of contemporary software systems that respond to user input, network messages, and other events.
     
@@ -36,7 +38,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-01  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/12>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10859v1)  
 
 
 ### Abstract
@@ -53,5 +55,5 @@ We evaluate the design of active expressions by re-implementing a number of exis
 Active expressions enable the separation of essential from non-essential parts when reasoning about reactive programming concepts. By using active expressions as a primitive for change detection, developers of reactive language constructs and runtime support can now focus on the design of how application programmers should be able to react to change. Ultimately, we would like active expressions to encourage experiments with novel reactive programming concepts and with that to yield a wider variety of them to explore.
 
 
-[^1]: <mailto:stefan.ramson@hpi.de>, Hasso Plattner Institute, Germany
-[^2]: <mailto:hirschfeld@hpi.de>, Hasso Plattner Institute, Germany
+[^1]: <mailto:stefan.ramson@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+[^2]: <mailto:robert.hirschfeld@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany

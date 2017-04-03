@@ -21,6 +21,8 @@ authors:
   - name: "Cooperman, Gene"
     affiliation: "Northeastern University, USA"
 
+arxiv: "1703.10864"
+file: "https://arxiv.org/pdf/1703.10864v1"
 excerpt: |
     Reversible debuggers and process replay have been developed at least since 1970.  This vision enables one to execute backwards in time under a debugger. Two important problems in practice are that, first, current reversible debuggers are slow when reversing over long time periods, and, second, after building one reversible debugger, it is difficult to transfer that achievement to a new programming environment.
     
@@ -36,7 +38,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-02  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/16>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10864v1)  
 
 
 ### Abstract

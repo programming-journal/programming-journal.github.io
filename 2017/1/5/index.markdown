@@ -15,6 +15,8 @@ authors:
   - name: "Shaqiri, Albert"
     affiliation: "Università degli Studi di Milano, Italy"
 
+arxiv: "1703.10873"
+file: "https://arxiv.org/pdf/1703.10873v1"
 excerpt: |
     Context: This paper presents the concept of open programming language interpreters and the implementation of a framework-level metaobject protocol (MOP) to support them.
     
@@ -36,7 +38,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-09-01  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/5>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10873v1)  
 
 
 ### Abstract

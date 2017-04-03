@@ -2,7 +2,7 @@
 title: "Volume 1"
 type: "volume"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2017%2F1"
-date: "2017-04-01"
+date: "2017-04-03"
 ---
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1>
 
@@ -47,8 +47,6 @@ Sebastian Erdweg and Klaus Ostermann
 Arik Hadas and David H Lorenz
   1. [Does Python Smell Like Java? Tool Support for Design Defect Discovery in Python](../11)  
 Nicole Vavrová and Vadim Zaytsev
-  1. [What Is the Best Way For Developers to Learn New Software Tools? An Empirical Comparison Between a Text and a Video Tutorial](../17)  
-Verena Käfer, Daniel Kulesz, and Stefan Wagner
   1. [Active Expressions: Basic Building Blocks for Reactive Programming](../12)  
 Stefan Ramson and Robert Hirschfeld
   1. [Edit Transactions: Dynamically Scoped Change Sets for Controlled Updates in Live Programming](../13)  
@@ -57,10 +55,12 @@ Toni Mattis, Patrick Rein, and Robert Hirschfeld
 Tomas Petricek
   1. [User-Defined Operators Including Name Binding for New Language Constructs](../15)  
 Kazuhiro Ichikawa and Shigeru Chiba
-  1. [An Analysis of Introductory Programming Courses at UK Universities](../18)  
-Ellen Murphy, Tom Crick, and James H. Davenport
   1. [Transition Watchpoints: Teaching Old Debuggers New Tricks](../16)  
 Kapil Arya, Tyler Denniston, Ariel Rabkin, and Gene Cooperman
+  1. [What Is the Best Way For Developers to Learn New Software Tools? An Empirical Comparison Between a Text and a Video Tutorial](../17)  
+Verena Käfer, Daniel Kulesz, and Stefan Wagner
+  1. [An Analysis of Introductory Programming Courses at UK Universities](../18)  
+Ellen Murphy, Tom Crick, and James H. Davenport
 
 
 

@@ -18,6 +18,8 @@ authors:
   - name: "Wu, Nicolas"
     affiliation: "University of Bristol, United Kingdom"
 
+arxiv: "1703.10857"
+file: "https://arxiv.org/pdf/1703.10857v1"
 excerpt: |
     CONTEXT:
     
@@ -79,7 +81,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-11-30  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/7>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10857v1)  
 
 
 ### Abstract

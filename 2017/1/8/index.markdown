@@ -18,6 +18,8 @@ authors:
   - name: "Schumacher, Andreas"
     affiliation: "Ericsson AB, Sweden"
 
+arxiv: "1703.10860"
+file: "https://arxiv.org/pdf/1703.10860v1"
 excerpt: |
     The occurrence of similar code, or `code clones', can make program code difficult to read, modify and maintain. This paper describes industrial case studies of clone detection and elimination using a refactoring and clone detection tool. We discuss how the studies have informed the design of the tool; more importantly, we use the studies to illustrate the complex set of decisions that have to be taken when performing clone elimination in practice. 
     
@@ -31,7 +33,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-01  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/8>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10860v1)  
 
 
 ### Abstract

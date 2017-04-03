@@ -18,6 +18,8 @@ authors:
   - name: "Hirschfeld, Robert"
     affiliation: "Hasso Plattner Institute, Germany"
 
+arxiv: "1703.10862"
+file: "https://arxiv.org/pdf/1703.10862v1"
 excerpt: |
     Live programming environments enable programmers to edit a running program and obtain immediate feedback on each individual change. The liveness quality is valued by programmers to help work in small steps and continuously add or correct small functionality while maintaining the impression of a direct connection between each edit and its manifestation at run-time. Such immediacy may conflict with the desire to perform a combined set of intermediate steps, such as a refactoring, without immediately taking effect after each individual edit. This becomes important when an incomplete sequence of small-scale changes can easily break the running program.
     
@@ -35,7 +37,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-02  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/13>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10862v1)  
 
 
 ### Abstract
@@ -50,4 +52,4 @@ We present an implementation of \emph{Edit Transactions} along with \emph{Edit-T
 
 [^1]: <mailto:toni.mattis@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
 [^2]: <mailto:patrick.rein@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
-[^3]: <mailto:Robert.Hirschfeld@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+[^3]: <mailto:robert.hirschfeld@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany

@@ -15,6 +15,8 @@ authors:
   - name: "Lorenz, David H"
     affiliation: "Open University of Israel, Israel"
 
+arxiv: "1703.10858"
+file: "https://arxiv.org/pdf/1703.10858v1"
 excerpt: |
     Language-oriented modularity (LOM) is a methodology
     that complements language-oriented programming (LOP) in
@@ -82,7 +84,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-01  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/10>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10858v1)  
 
 
 ### Abstract

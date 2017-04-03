@@ -12,6 +12,8 @@ authors:
   - name: "Petricek, Tomas"
     affiliation: "Alan Turing Institute, United Kingdom"
 
+arxiv: "1703.10863"
+file: "https://arxiv.org/pdf/1703.10863v1"
 excerpt: |
     Computer programs do not always work as expected. In fact, ominous warnings about the desperate 
     state of the software industry continue to be released with almost ritualistic regularity.
@@ -43,7 +45,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-02  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/14>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10863v1)  
 
 
 ### Abstract

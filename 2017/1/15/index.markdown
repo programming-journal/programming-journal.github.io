@@ -15,6 +15,8 @@ authors:
   - name: "Chiba, Shigeru"
     affiliation: "The University of Tokyo, Japan"
 
+arxiv: "1703.10861"
+file: "https://arxiv.org/pdf/1703.10861v1"
 excerpt: |
     User-defined syntax extensions are useful to implement an embedded domain specific language (EDSL) with good code-readability. They allow EDSL authors to define domain-natural notation, which is often different from the host language syntax. Nowadays, there are several research works of powerful user-defined syntax extensions.
     One promising approach uses user-defined operators. A user-defined operator is a function with user-defined syntax. It can be regarded as a syntax extension implemented without macros. An advantage of user-defined operators is that an operator can be statically typed. The compiler can find type errors in the definition of an operator before the operator is used. In addition, the compiler can resolve syntactic ambiguities by using static types. However, user-defined operators are difficult to implement language constructs involving static name binding. Name binding is association between names and values (or memory locations). Our inquiry is whether we can design a system for user-defined operators involving a new custom name binding.
@@ -31,7 +33,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-02  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/15>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1703.10861v1)  
 
 
 ### Abstract
