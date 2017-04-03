@@ -20,7 +20,6 @@ authors:
     affiliation: "University of Bath, United Kingdom"
 
 arxiv: "1609.06622"
-file: "https://arxiv.org/pdf/1609.06622v1"
 excerpt: |
     Context: In the context of exploring the art, science and engineering of programming, the question of which programming languages should be taught first has been fiercely debated since computer science teaching started in universities. Failure to grasp programming readily almost certainly implies failure to progress in computer science.
     
@@ -42,7 +41,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-02  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/18>  
-Full text: [PDF](https://arxiv.org/pdf/1609.06622v1)  
+Full text: *t.b.a*  
 
 
 ### Abstract
