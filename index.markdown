@@ -15,7 +15,7 @@ Here are some of the highlights of this new journal:
 * All articles are published under a Creative Commons license.
 * The journal is an overlay on arXiv, meaning that we upload all articles to arXiv as a long-term storage system. Additionally, we also store the papers on servers at the University of California, Irvine, as well as in other mirrors.
 * Papers can be submitted at any time, but submissions are batched and processed in cycles with strict deadlines for reviewers, authors, and editors. We start with 3 cycles per year, but may consider increasing it in the future.
-* Speed: fours months between the the start of the reviewing cycles and publication.
+* Speed: four months between the the start of the reviewing cycles and publication.
 * The journal is in close association with the [‹Programming› conference][programming], as both are operated by AOSA. Authors of papers accepted for publication in the journal are automatically invited to present their work at the ‹Programming› conference that is held every year in April. The first instance of this conference will be in Brussels on April 3--6, 2017.
 
 
