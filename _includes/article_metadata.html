@@ -11,6 +11,9 @@
 {% assign page_title = page_title | smartify | strip_html | normalize_whitespace | escape_once %}
 {% assign description = page.description | default: page.excerpt | default: site.description %}
 {% assign description = description | markdownify | strip_html | normalize_whitespace | escape_once %}
+{% capture page_start %}{{ page.number }}:1{% endcapture %}
+{% capture page_end %}{{ page.number }}:{{ page.numpages }}{% endcapture %}
+{% capture resolver %}https://doi.org/{{ page.doi }}{% endcapture %}
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@graph": [
@@ -31,7 +34,8 @@
   "headline": {{ page_title | jsonify }},
   "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
   "description": {{ description | jsonify }},
-  {% capture resolver %}https://doi.org/{{ page.doi }}{% endcapture %}
+  "pageStart":  {{ page_start | jsonify }},
+  "pageEnd":  {{ page_end | jsonify }},
   "sameAs": {{ resolver | jsonify }},
   {% assign authors = page.authors %}
   "author": [{ "@type": "Person", "name": {{ authors[0].name |jsonify }}{% if authors[0].affiliation %},"affiliation": {{ authors[0].affiliation |jsonify }}{% endif %} }
@@ -67,7 +71,8 @@
 <meta name="citation_issn" content="{{ site.issn }}">
 <meta name="citation_volume" content="{{ page.volume }}">
 <meta name="citation_issue" content="{{ page.issue | xml_escape }}">
-<meta name="citation_firstpage" content="{{ page.number }}-1">
+<meta name="citation_firstpage" content="{{ page_start }}">
+<meta name="citation_lastpage" content="{{ page_end }}">
 <meta name="citation_doi" content="{{ page.doi | xml_escape }}">
 <meta name="citation_abstract_html_url" content="{{ page.url | absolute_url | xml_escape}}">
 {% if page.file and page.file != empty %}

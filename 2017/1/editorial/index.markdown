@@ -1,6 +1,7 @@
 ---
 title: "Editorial: Introducing The Art, Science, and Engineering of Programming"
 lead: "An Open Access Journal for All-Things Programming"
+numpages: "4"
 type: "article"
 doi: "10.22152/programming-journal.org/2017/1/editorial"
 number: "editorial"

@@ -1,5 +1,6 @@
 ---
 title: "Interconnected Linguistic Architecture"
+numpages: "27"
 type: "article"
 doi: "10.22152/programming-journal.org/2017/1/3"
 number: "3"

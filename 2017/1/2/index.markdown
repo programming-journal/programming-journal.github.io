@@ -1,5 +1,6 @@
 ---
 title: "Application Embedding: A Language Approach to Declarative Web Programming"
+numpages: "38"
 type: "article"
 doi: "10.22152/programming-journal.org/2017/1/2"
 number: "2"

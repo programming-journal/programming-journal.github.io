@@ -1,5 +1,6 @@
 ---
 title: "Relationship Maintenance in Software Language Repositories"
+numpages: "27"
 type: "article"
 doi: "10.22152/programming-journal.org/2017/1/4"
 number: "4"

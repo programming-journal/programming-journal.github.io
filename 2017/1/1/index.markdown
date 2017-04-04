@@ -1,5 +1,6 @@
 ---
 title: "Effective Analysis of C Programs by Rewriting Variability"
+numpages: "25"
 type: "article"
 doi: "10.22152/programming-journal.org/2017/1/1"
 number: "1"
