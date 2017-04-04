@@ -19,6 +19,8 @@ authors:
   - name: "Wagner, Stefan"
     affiliation: "University of Stuttgart, Germany"
 
+arxiv: "1704.00074"
+file: "https://arxiv.org/pdf/1704.00074v1"
 excerpt: |
     The better developers can learn software tools, the faster they can start using them
     and the more efficiently they can later work with them. Tutorials are supposed to help here. While in the early days of computing, mostly text tutorials were available, nowadays software developers can choose among a huge number of tutorials for almost any popular software tool.
@@ -38,7 +40,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-12-01  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/17>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1704.00074v1)  
 
 
 ### Abstract

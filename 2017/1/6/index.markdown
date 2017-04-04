@@ -16,6 +16,7 @@ authors:
     affiliation: "Freie Univeristät Berlin, Germany"
 
 arxiv: "1608.00099"
+file: "https://arxiv.org/pdf/1608.00099v2"
 excerpt: |
     Context: Multidimensional arrays are used by many different algorithms. As such, indexing and broadcasting complex operations over multidimensional arrays are ubiquitous tasks and can be performance limiting. 
     
@@ -37,7 +38,7 @@ The Art, Science, and Engineering of Programming, 2017, Vol. 1, Issue 2, Article
 Submission date: 2016-10-08  
 Publication date: 2017-04-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/6>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1608.00099v2)  
 
 
 ### Abstract
