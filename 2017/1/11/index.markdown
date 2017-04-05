@@ -34,4 +34,4 @@ The context of this work is specification, detection and ultimately removal of d
 
 
 [^1]: <mailto:vavrova.n@gmail.com>, Universiteit van Amsterdam, Netherlands
-[^2]: <mailto:spider.vz@gmail.com>, Raincode Labs, Belgium
+[^2]: <mailto:vadim@grammarware.net>, Raincode Labs, Belgium
