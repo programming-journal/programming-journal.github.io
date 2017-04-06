@@ -18,7 +18,7 @@ Here are some of the highlights of this new journal:
 * Speed: four months between the the start of the reviewing cycles and publication.
 * Strong social media presence, and association with the [‹Programming› conference][programming] for broad dissimination of the papers.
 
-[Submit!][submission_link]
+[Submit!][submissionlink]
 
 [programming]: http://programming-conference.org
 [submissionlink]: https://easychair.org/conferences/?conf=programming2018
