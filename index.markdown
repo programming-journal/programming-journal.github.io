@@ -1,4 +1,4 @@
-﻿---
+---
 title: The Programming Journal
 category: The Journal
 menutitle: About
