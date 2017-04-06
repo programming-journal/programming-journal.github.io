@@ -25,7 +25,7 @@ Tomas Petricek
 [Profunctor Optics: Modular Data Accessors](https://doi.org/10.22152/programming-journal.org/2017/1/7), 
 Matthew Pickering, Jeremy Gibbons, and Nicolas Wu
 
-#### Outstanding Reviewer Awardee
+#### Outstanding Reviewer Awardees
 
 * Robby Findler
 * Andrew Black
