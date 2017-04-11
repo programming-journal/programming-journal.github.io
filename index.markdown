@@ -13,8 +13,8 @@ Here are some of the highlights of this new journal:
 
 * Gold open access, free-of-charge to authors. The articles are accessible to everyone, forever, and the authors don't need to pay any fee. We are able to do this, because everyone involved in the operation of this journal does it on a voluntary, unpaid basis, and also because the journal's owner, the non-profit AOSA, is able to cover the remaining operating costs.
 * All articles are published under a Creative Commons license.
-* The journal is an overlay on arXiv, meaning that we upload all articles to arXiv as a long-term storage system. Additionally, we also store the papers on servers at the University of California, Irvine, as well as in other mirrors.
-* Papers can be submitted at any time, but submissions are batched and processed in cycles with strict deadlines for reviewers, authors, and editors. We start with 3 cycles per year, but may consider increasing it in the future.
+* The journal is an overlay on arXiv, meaning that we upload all articles to arXiv as a long-term storage system. Additionally, we also store the papers on servers at the Vrije Universiteit Brussel, Belgium, at the University of California, Irvine, USA, and the Hasso Plattner Institute at the University of Potsdam, Germany.
+* Papers can be submitted at any time, but submissions are batched and processed in cycles with strict deadlines for reviewers, authors, and editors. We start with three cycles per year, but may consider increasing it in the future.
 * Speed: four months between the the start of the reviewing cycles and publication.
 * Strong social media presence, and association with the [‹Programming› conference][programming] for broad dissimination of the papers.
 
