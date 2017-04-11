@@ -15,17 +15,17 @@ To celebrate the work of the community around the journal, we have instituted th
 
 ### 2017
 
-#### Reviewers' Choice Awardee
-
-[Miscomputation in software: Learning to live with errors](https://doi.org/10.22152/programming-journal.org/2017/1/14),
+* Reviewers' Choice Awardee  
+   [Miscomputation in software: Learning to live with errors](https://doi.org/10.22152/programming-journal.org/2017/1/14)  
 Tomas Petricek
 
-#### Editors' Choice Awardee
-
-[Profunctor Optics: Modular Data Accessors](https://doi.org/10.22152/programming-journal.org/2017/1/7), 
+* Editors' Choice Awardee  
+   [Profunctor Optics: Modular Data Accessors](https://doi.org/10.22152/programming-journal.org/2017/1/7)   
 Matthew Pickering, Jeremy Gibbons, and Nicolas Wu
 
-#### Outstanding Reviewer Awardees
+* Outstanding Reviewer Awardees
 
-* Robby Findler
-* Andrew Black
+  * Robert Bruce Findler  
+     Northwestern University, Illinois, USA
+  * Andrew P. Black  
+     Portland State University, Oregon, USA
