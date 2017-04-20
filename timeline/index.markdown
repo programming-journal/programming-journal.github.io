@@ -12,7 +12,7 @@ The dates for the upcoming issues of the journal are as follows:
 
   {:.dl-horizontal}
   Submission
-  : Apr 1, 2017
+  : **Apr 1, 2017**
 
   First notification
   : Jun 1, 2017
@@ -33,7 +33,7 @@ The dates for the upcoming issues of the journal are as follows:
 
   {:.dl-horizontal}
   Submission
-  : Aug 1, 2017
+  : **Aug 1, 2017**
 
   First notification
   : Oct 1, 2017
@@ -54,7 +54,7 @@ The dates for the upcoming issues of the journal are as follows:
 
   {:.dl-horizontal}
   Submission
-  : Dec 1, 2017
+  : **Dec 1, 2017**
 
   First notification
   : Feb 1, 2018
