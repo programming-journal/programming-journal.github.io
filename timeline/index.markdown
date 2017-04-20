@@ -12,64 +12,64 @@ The dates for the upcoming issues of the journal are as follows:
 
   {:.dl-horizontal}
   Submission
-  : **Apr 1, 2017**
+  : **April 1, 2017**
 
   First notification
-  : Jun 1, 2017
+  : June 1, 2017
 
   Revised submission
-  : Jul 1, 2017
+  : July 1, 2017
 
   Final notification
-  : Jul 7, 2017
+  : July 7, 2017
 
   Camera-ready
-  : Jul 15, 2017
+  : July 15, 2017
 
   Publication
-  : Aug 1, 2017
+  : August 1, 2017
 
 * 2018, Vol. 2, Issue 2:
 
   {:.dl-horizontal}
   Submission
-  : **Aug 1, 2017**
+  : **August 1, 2017**
 
   First notification
-  : Oct 1, 2017
+  : October 1, 2017
 
   Revised submission
-  : Nov 1, 2017
+  : November 1, 2017
 
   Final notification
-  : Nov 7, 2017
+  : November 7, 2017
 
   Camera-ready
-  : Nov 15, 2017
+  : November 15, 2017
 
   Publication
-  : Dec 1, 2017
+  : December 1, 2017
   
 * 2018, Vol. 2, Issue 3:
 
   {:.dl-horizontal}
   Submission
-  : **Dec 1, 2017**
+  : **December 1, 2017**
 
   First notification
-  : Feb 1, 2018
+  : February 1, 2018
 
   Revised submission
-  : Mar 1, 2018
+  : March 1, 2018
 
   Final notification
-  : Mar 7, 2018
+  : March 7, 2018
 
   Camera-ready
-  : Mar 15, 2018
+  : March 15, 2018
 
   Publication
-  : Apr 1, 2018
+  : April 1, 2018
 
 In normal operation, the journal uses the following cycles for each Volume:
 
@@ -77,7 +77,7 @@ In normal operation, the journal uses the following cycles for each Volume:
 
   {:.dl-horizontal}
   Submission
-  : Feb 1
+  : **February 1**
 
   First notification
   : May 1
@@ -92,46 +92,46 @@ In normal operation, the journal uses the following cycles for each Volume:
   : May 15
 
   Publication
-  : Jun 1
+  : June 1
 
 * Issue 2:
 
   {:.dl-horizontal}
   Submission
-  : Jun 1
+  : **June 1**
 
   First notification
-  : Aug 1
+  : August 1
 
   Revised submission
-  : Sep 1
+  : September 1
 
   Final notification
-  : Sep 7
+  : September 7
 
   Camera-ready
-  : Sep 15
+  : September 15
 
   Publication
-  : Nov 1
+  : November 1
 
 * Issue 3:
 
   {:.dl-horizontal}
   Submission
-  : Nov 1
+  : **November 1**
 
   First notification
-  : Dec 1
+  : December 1
 
   Revised submission
-  : Jan 1
+  : January 1
 
   Final notification
-  : Jan 7
+  : January 7
 
   Camera-ready
-  : Jan 15 
+  : January 15 
 
   Publication
-  : Jan 1
+  : January 1
