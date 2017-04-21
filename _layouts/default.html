@@ -34,13 +34,7 @@
   </head>
   <body>
     {% assign home = site.pages | where:'menutitle', 'About' | first %}
-    {% comment %} 
-    {% assign responsible = site.pages | where:'responsible', true | first %}
-    {% assign responsibleurl = responsible.url %}
-    {% assign responsibleshort = responsible.short %}
-    {% assign responsibletilte = responsible.title %}
-    {% endcomment %} 
-    {% assign responsibleurl = "http://programming-conference.org/steering/" %}
+    {% assign responsibleurl = "http://aosa-inc.org/steering/" %}
     {% assign responsibleshort = "AOSA" %}
     {% comment %} 
     {% assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.category != nil" | sort:"order" %}
