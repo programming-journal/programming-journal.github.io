@@ -80,7 +80,7 @@ In normal operation, the journal uses the following cycles for each Volume:
   : **February 1**
 
   First notification
-  : May 1
+  : April 1
 
   Revised submission
   : May 1
