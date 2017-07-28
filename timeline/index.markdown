@@ -113,13 +113,13 @@ In normal operation, the journal uses the following cycles for each Volume:
   : September 15
 
   Publication
-  : November 1
+  : October 1
 
 * Issue 3:
 
   {:.dl-horizontal}
   Submission
-  : **November 1**
+  : ** October 1**
 
   First notification
   : December 1
