@@ -119,7 +119,7 @@ In normal operation, the journal uses the following cycles for each Volume:
 
   {:.dl-horizontal}
   Submission
-  : ** October 1**
+  : **October 1**
 
   First notification
   : December 1
