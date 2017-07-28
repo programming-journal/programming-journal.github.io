@@ -134,4 +134,4 @@ In normal operation, the journal uses the following cycles for each Volume:
   : January 15 
 
   Publication
-  : January 1
+  : February 1
