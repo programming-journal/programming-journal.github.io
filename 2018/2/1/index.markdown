@@ -7,7 +7,7 @@ number: "1"
 volume: "2"
 issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2018%2F2%2F1"
-date: "2017-08-05"
+date: "2017-08-07"
 authors: 
   - name: "Polito, Guillermo"
     affiliation: "Univ. Lille, CNRS, Centrale Lille, Inria, UMR 9189 - CRIStAL - Centre de Recherche en Informatique Signal et Automatique de Lille, France"
@@ -21,6 +21,8 @@ authors:
   - name: "Fabresse, Luc"
     affiliation: "Mines Douai, IA, F-59508 Douai, France, France"
 
+arxiv: "1708.01679"
+file: "https://arxiv.org/pdf/1708.01679v1"
 excerpt: |
     Context. An extension method is a method declared in a package other than the
     package of its host class. Thanks to extension methods, developers can adapt to their needs
@@ -56,9 +58,9 @@ Guillermo Polito[^1], Camille Teruel[^2], Stéphane Ducasse[^3], and Luc Fabress
 The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 1, Article 1
 
 Submission date: 2017-03-31  
-Publication date: 2017-08-05  
+Publication date: 2017-08-07  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/1>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1708.01679v1)  
 
 
 ### Abstract

@@ -4,7 +4,7 @@ category: "Issues"
 order: -2001
 type: "issue"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2018%2F2%2Fissue1"
-date: "2017-08-05"
+date: "2017-08-08"
 ---
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/issue1>
 
