@@ -9,3 +9,5 @@ The following volumes have been published by The Art, Science, and Engineering o
 
 * [2017](/2017)
   * [Volume 1](/2017/1)
+* [2018](/2018)
+  * [Volume 2](/2018/2)
