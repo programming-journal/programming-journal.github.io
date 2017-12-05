@@ -24,6 +24,8 @@ authors:
   - name: "Mössenböck, Hanspeter"
     affiliation: "Johannes Kepler University Linz, Austria"
 
+arxiv: "1712.01163"
+file: "https://arxiv.org/pdf/1712.01163v1"
 excerpt: |
     Context: In C, low-level errors, such as buffer overflow and use-after-free, are a major problem, as they cause security vulnerabilities and hard-to-find bugs. C lacks automatic checks, and programmers cannot apply defensive programming techniques because objects (e.g., arrays or structs) lack run-time information about bounds, lifetime, and types.
     Inquiry: Current approaches to tackling low-level errors include dynamic tools, such as bounds or type checkers, that check for certain actions during program execution. If they detect an error, they typically abort execution. Although they track run-time information as part of their runtimes, they do not expose this information to programmers.
@@ -40,7 +42,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 2, Article
 Submission date: 2017-07-31  
 Publication date: 2017-12-04  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/4>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1712.01163v1)  
 
 
 ### Abstract

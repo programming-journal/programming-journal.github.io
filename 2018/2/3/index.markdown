@@ -21,6 +21,8 @@ authors:
   - name: "De Roover, Coen"
     affiliation: "Vrije Universiteit Brussel, Belgium"
 
+arxiv: "1712.01161"
+file: "https://arxiv.org/pdf/1712.01161v1"
 excerpt: |
     Web programmers are often faced with several challenges in the development process of modern, rich internet applications.
     Technologies for the different tiers of the application have to be selected: a server-side language, a combination of JavaScript, HTML and CSS for the client, and a database technology. 
@@ -46,7 +48,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 2, Article
 Submission date: 2017-04-07  
 Publication date: 2017-12-04  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1712.01161v1)  
 
 
 ### Abstract
