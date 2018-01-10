@@ -7,54 +7,12 @@ order: 500
 Papers can be submitted to the journal at any time, but submitted papers are batched and reviewed in cycles with strict deadlines. The batch processing is designed to keep everyone involved (editors, reviewers and authors) on track, and to establish a strong sense of predictability for when specific activities are to happen. The goal is to have a fast turnaround of **four months** from start to end of each reviewing cycle.
 
 The dates for the upcoming issues of the journal are as follows:
-
-* 2018, Vol. 2, Issue 1:
-
-  {:.dl-horizontal}
-  Submission
-  : **April 1, 2017**
-
-  First notification
-  : June 1, 2017
-
-  Revised submission
-  : July 1, 2017
-
-  Final notification
-  : July 7, 2017
-
-  Camera-ready
-  : July 15, 2017
-
-  Publication
-  : August 1, 2017
-
-* 2018, Vol. 2, Issue 2:
-
-  {:.dl-horizontal}
-  Submission
-  : **August 1, 2017**
-
-  First notification
-  : October 1, 2017
-
-  Revised submission
-  : November 1, 2017
-
-  Final notification
-  : November 7, 2017
-
-  Camera-ready
-  : November 15, 2017
-
-  Publication
-  : December 1, 2017
   
 * 2018, Vol. 2, Issue 3:
 
   {:.dl-horizontal}
-  Submission
-  : **December 1, 2017**
+  ~~Submission~~
+  : ~~**December 1, 2017**~~
 
   First notification
   : February 1, 2018
