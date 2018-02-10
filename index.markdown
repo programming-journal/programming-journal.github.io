@@ -21,4 +21,4 @@ Here are some of the highlights of this new journal:
 [Submit!][submissionlink]
 
 [programming]: http://programming-conference.org
-[submissionlink]: https://easychair.org/conferences/?conf=programming2018
+[submissionlink]: https://easychair.org/conferences/?conf=programming2019
