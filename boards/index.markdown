@@ -14,7 +14,7 @@ order: 500
 * Guido Salvaneschi, Technische Universität Darmstadt, Germany 
 
 **Guest Editors**
-* Richard Gabriel, Dream Songs, Inc., USA, & HPI, Germany. Guest Editor for Essays special issue, October 2018.
+* Richard Gabriel, Dream Songs, Inc., USA, & HPI, Germany. Guest Editor for Essays 2018 special issue.
 
 **Managing Editors**
 * Tobias Pape, Hasso Plattner Institute, University of Postdam, Germany
