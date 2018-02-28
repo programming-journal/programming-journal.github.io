@@ -39,5 +39,5 @@ Submitted papers must present original work made by the authors, must not overla
 [submit]: https://easychair.org/conferences/?conf=programming2019
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
 [latex template]: https://github.com/programming-journal/programming/releases
-[template package]: https://github.com/programming-journal/programming/releases/download/v1.2/programming-template_v1.3a.zip
+[template package]: https://github.com/programming-journal/programming/releases/latest
 [overleaf]: https://www.overleaf.com/articles/programming/kzcgbdsnnyyt#.V7OJ85grKHs
