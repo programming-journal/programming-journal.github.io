@@ -22,7 +22,7 @@ kramdown:
   hard_wrap: false
   footnote_backlink: ''
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
