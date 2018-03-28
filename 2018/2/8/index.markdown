@@ -24,6 +24,8 @@ authors:
   - name: "Taeumel, Marcel"
     affiliation: "Hasso Plattner Institute, University of Potsdam, Germany, Germany"
 
+arxiv: "1803.10200"
+file: "https://arxiv.org/pdf/1803.10200v1"
 excerpt: |
     Context: Software development tools should work and behave consistently across different programming languages, so that developers do not have to familiarize themselves with new tooling for new languages. Also, being able to combine multiple programming languages in a program increases reusability, as developers do not have to recreate software frameworks and libraries in the language they develop in and can reuse existing software instead.
     
@@ -45,7 +47,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-11-30  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/8>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1803.10200v1)  
 
 
 ### Abstract

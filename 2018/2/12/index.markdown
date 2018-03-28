@@ -12,6 +12,8 @@ authors:
   - name: "Petricek, Tomas"
     affiliation: "The Alan Turing Institute, United Kingdom"
 
+arxiv: "1803.10195"
+file: "https://arxiv.org/pdf/1803.10195v1"
 excerpt: |
     Computer science provides an in-depth understanding of technical aspects of
     programming concepts, but if we want to understand how programming concepts evolve, how programmers 
@@ -46,7 +48,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-12-01  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/12>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1803.10195v1)  
 
 
 ### Abstract

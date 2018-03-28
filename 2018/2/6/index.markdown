@@ -15,6 +15,8 @@ authors:
   - name: "Masuhara, Hidehiko"
     affiliation: "The University of Tokyo, Japan"
 
+arxiv: "1803.10198"
+file: "https://arxiv.org/pdf/1803.10198v1"
 excerpt: |
     Programming languages and platforms improve over time, sometimes resulting in new language features that offer many benefits. However, despite these benefits, developers may not always be willing to adopt them in their projects for various reasons. In this paper, we describe an empirical study where we assess the adoption of a particular new language feature. Studying how developers use (or do not use) new language features is important in programming language research and engineering because it gives designers insight into the usability of the language to create meaning programs in that language. This knowledge, in turn, can drive future innovations in the area. Here, we explore Java 8 default methods, which allow interfaces to contain (instance) method implementations. 
     
@@ -30,7 +32,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-08-04  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/6>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1803.10198v1)  
 
 
 ### Abstract

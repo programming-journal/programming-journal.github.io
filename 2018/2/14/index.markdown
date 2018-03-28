@@ -24,6 +24,8 @@ authors:
   - name: "Würthinger, Thomas"
     affiliation: "Oracle Labs, Switzerland"
 
+arxiv: "1803.10201"
+file: "https://arxiv.org/pdf/1803.10201v1"
 excerpt: |
     Context: Software development tools that interact with running programs such as debuggers, profilers, and dynamic analysis frameworks are presumed to demand difficult tradeoffs among implementation complexity (cost), functionality, usability, and performance. Among the many consequences, tools are often delivered late (if ever), have limited functionality, require non-standard configurations, and impose serious performance costs on running programs.
     
@@ -45,7 +47,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-12-02  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/14>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1803.10201v1)  
 
 
 ### Abstract

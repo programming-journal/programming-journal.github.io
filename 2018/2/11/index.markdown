@@ -15,6 +15,8 @@ authors:
   - name: "Cheney, James"
     affiliation: "The University of Edinburgh, United Kingdom"
 
+arxiv: "1803.10202"
+file: "https://arxiv.org/pdf/1803.10202v1"
 excerpt: |
     Scientific progress increasingly depends on data management, particularly to clean and curate data so that it can be systematically analyzed and reused.  A wealth of techniques for managing and curating data (and its provenance) have been proposed, largely in the database community.  In particular, a number of influential papers have proposed collecting provenance information explaining where a piece of data was copied from, or what other records were used to derive it.  Most of these techniques, however, exist only as research prototypes and are not available in mainstream database systems.  This means scientists must either implement such techniques themselves or (all too often) go without.
     
@@ -36,7 +38,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-12-01  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/11>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1803.10202v1)  
 
 
 ### Abstract

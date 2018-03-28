@@ -18,6 +18,8 @@ authors:
   - name: "Visser, Eelco"
     affiliation: "Delft University of Technology, Netherlands"
 
+arxiv: "1803.10215"
+file: "https://arxiv.org/pdf/1803.10215v1"
 excerpt: |
     **Context** Context-free grammars are widely used for language prototyping and implementation. They allow formalizing the syntax of domain-specific or general-purpose programming languages concisely and declaratively. However, the natural and concise way of writing a context-free grammar is often ambiguous. Therefore, grammar formalisms support extensions in the form of *declarative disambiguation rules* to specify operator precedence and associativity, solving ambiguities that are caused by the subset of the grammar that corresponds to expressions.
     
@@ -39,7 +41,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-12-01  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/13>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1803.10215v1)  
 
 
 ### Abstract
