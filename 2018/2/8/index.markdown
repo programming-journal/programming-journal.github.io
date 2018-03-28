@@ -10,19 +10,19 @@ id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2018%2F2%2F8"
 date: "2018-03-29"
 authors: 
   - name: "Niephaus, Fabio"
-    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany, Germany"
+    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany"
 
   - name: "Felgentreff, Tim"
-    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany; Oracle Labs Potsdam, Germany, Germany"
+    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany; Oracle Labs Potsdam, Germany"
 
   - name: "Pape, Tobias"
-    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany, Germany"
+    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany"
 
   - name: "Hirschfeld, Robert"
-    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany, Germany"
+    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany"
 
   - name: "Taeumel, Marcel"
-    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany, Germany"
+    affiliation: "Hasso Plattner Institute, University of Potsdam, Germany"
 
 arxiv: "1803.10200"
 file: "https://arxiv.org/pdf/1803.10200v1"
@@ -64,8 +64,8 @@ Grounding: The prototype system Squimera is an implementation of our approach an
 Importance: In the domain of polyglot programming systems, most research has focused on the integration of different languages and corresponding performance optimizations. Our work, on the other hand, focuses on tooling and the overall programming experience.
 
 
-[^1]: <mailto:fabio.niephaus@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany, Germany
-[^2]: <mailto:tim.felgentreff@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany; Oracle Labs Potsdam, Germany, Germany
-[^3]: <mailto:tobias.pape@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany, Germany
-[^4]: <mailto:robert.hirschfeld@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany, Germany
-[^5]: <mailto:marcel.taeumel@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany, Germany
+[^1]: <mailto:fabio.niephaus@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany
+[^2]: <mailto:tim.felgentreff@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany; Oracle Labs Potsdam, Germany
+[^3]: <mailto:tobias.pape@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany
+[^4]: <mailto:robert.hirschfeld@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany
+[^5]: <mailto:marcel.taeumel@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany
