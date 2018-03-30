@@ -12,6 +12,8 @@ authors:
   - name: "Padovani, Luca"
     affiliation: "Università di Torino, Italy"
 
+arxiv: "1803.10670"
+file: "https://arxiv.org/pdf/1803.10670v1"
 excerpt: |
     Context. TypeState-Oriented Programming (TSOP) is a paradigm intended to help developers in the implementation and use of mutable objects whose public interface depends on their private state. Under this paradigm, well-typed programs are guaranteed to conform with the protocol of the objects they use.
     
@@ -33,7 +35,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-12-02  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/15>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1803.10670v1)  
 
 
 ### Abstract

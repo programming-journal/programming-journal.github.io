@@ -27,6 +27,8 @@ authors:
   - name: "Witte, Martin"
     affiliation: "Siemens AG, Germany"
 
+arxiv: "1803.10831"
+file: "https://arxiv.org/pdf/1803.10831v1"
 excerpt: |
     To cope with the increasing complexity of developing and maintaining modern (software) systems, multiple abstractions (models) of the same system can be established and used to allow different domain experts to collaborate and contribute their respective expertise. This divide-and-conquer, model-based approach requires, however, support for a concurrent engineering process, i.e., providing a means of checking, restoring, and ensuring the consistency of all involved and concurrently maintained models. The task of providing such support is often referred to as consistency management.
     
@@ -44,7 +46,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-11-29  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/7>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1803.10831v1)  
 
 
 ### Abstract
