@@ -12,6 +12,8 @@ authors:
   - name: "Verna, Didier"
     affiliation: "EPITA Research and Development Laboratory (LRDE), France"
 
+arxiv: "1804.00485"
+file: "https://arxiv.org/pdf/1804.00485v1"
 excerpt: |
     The relation between Science (what we can explain) and Art (what we can’t) has long been acknowledged and while every science contains an artistic part, every art form also needs a bit of science. Among all scientific disciplines, programming holds a special place for two reasons. First, the artistic part is not only undeniable but also essential. Second, and much like in a purely artistic discipline, the act of programming is driven partly by the notion of aesthetics: the pleasure we have in creating beautiful things.
     
@@ -33,7 +35,7 @@ The Art, Science, and Engineering of Programming, 2018, Vol. 2, Issue 3, Article
 Submission date: 2017-12-01  
 Publication date: 2018-03-29  
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2/10>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1804.00485v1)  
 
 
 ### Abstract
