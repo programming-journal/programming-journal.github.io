@@ -1,33 +1,11 @@
 ---
 title: Timeline
 category: For Authors
+featured: "Upcoming Submission Deadline: June 1, 2018"
 order: 500
 
 ---
 Papers can be submitted to the journal at any time, but submitted papers are batched and reviewed in cycles with strict deadlines. The batch processing is designed to keep everyone involved (editors, reviewers and authors) on track, and to establish a strong sense of predictability for when specific activities are to happen. The goal is to have a fast turnaround of **four months** from start to end of each reviewing cycle.
-
-The dates for the upcoming issues of the journal are as follows:
-  
-* 2018, Vol. 2, Issue 3:
-
-  {:.dl-horizontal}
-  ~~Submission~~
-  : ~~**December 1, 2017**~~
-
-  First notification
-  : February 1, 2018
-
-  Revised submission
-  : March 1, 2018
-
-  Final notification
-  : March 7, 2018
-
-  Camera-ready
-  : March 15, 2018
-
-  Publication
-  : April 1, 2018
 
 In normal operation, the journal uses the following cycles for each Volume:
 
