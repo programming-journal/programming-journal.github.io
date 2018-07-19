@@ -14,7 +14,7 @@ order: 500
 * Guido Salvaneschi, Technische Universität Darmstadt, Germany 
 
 **Guest Editors**
-* Richard Gabriel, Dream Songs, Inc., USA, & HPI, Germany. Guest Editor for Essays 2018 special issue.
+* Richard P. Gabriel, Dream Songs, Inc., California, & HPI, Germany. Guest Editor for Essays 2018 special issue.
 
 **Managing Editors**
 * Tobias Pape, Hasso Plattner Institute, University of Postdam, Germany
@@ -25,7 +25,7 @@ The role of the advisory board is to guide and support the work of the editorial
 
 **Members**
 * Shigeru Chiba, University of Tokyo, Japan
-* Richard Gabriel, IBM Research, California
+* Richard P. Gabriel, Dream Songs, Inc., California, & HPI, Germany
 * Robert Hirschfeld, Hasso Plattner Institute, University of Postdam, Germany
 * Theo D'Hondt, Vrije Universiteit Brussel, Belgium
 * Wolfgang De Meuter, Vrije Universiteit Brussel, Belgium
