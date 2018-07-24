@@ -37,8 +37,6 @@
     {% assign home = site.pages | where:'menutitle', 'About' | first %}
     {% assign responsibleurl = "http://aosa-inc.org/steering/" %}
     {% assign responsibleshort = "AOSA" %}
-    {% assign responsibletitle = "AOSA, Inc" %}
-    {% assign responsibleasset = "aosa.svg" %}
     {% comment %} 
     {% assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.category != nil" | sort:"order" %}
     {% endcomment %} 
@@ -170,18 +168,14 @@
                   </ul>
             </nav>
             <div class="hidden-xs" >
-              <a href="{{ responsibleurl }}">
-                <img src="{{ site.baseurl }}/assets/{{ responsibleasset }}" class="pull-right" style="width: 50%; margin: 2em;" alt="{{ responsibletitle }}" title="{{ responsibletitle }}">
-              </a>
+              <img src="{{ site.baseurl }}/assets/aosa.svg" class="pull-right" style="width: 50%; margin: 2em;" alt="AOSA, Inc" title="AOSA, Inc">
             </div>
           </header>
         </div>
       </div>
       <footer>
       <div class="visible-xs" >
-        <a href="{{ responsibleurl }}">
-          <img style="height: 3em; padding: .5ex 1em" src="{{ site.baseurl }}/assets/{{ responsibleasset }}" class="pull-right" alt="{{ responsibletitle }}" title="{{ responsibletitle }}">
-        </a>
+        <img style="height: 3em; padding: .5ex 1em" src="{{ site.baseurl }}/assets/aosa.svg" class="pull-right" alt="AOSA, Inc" title="AOSA, Inc">
       </div>
         <ol class="breadcrumb text-muted small">
         <li>{{site.title}}</li>
