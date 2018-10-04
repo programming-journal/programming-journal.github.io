@@ -1,7 +1,7 @@
 ---
 title: Timeline
 category: For Authors
-featured: "Upcoming Submission Deadline: October 1, 2018"
+featured: "Upcoming Submission Deadline: February 1, 2019"
 order: 500
 
 ---
