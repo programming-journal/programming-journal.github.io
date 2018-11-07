@@ -12,11 +12,11 @@ DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/issue2>
 
 
 
-{: start="4"}
-1. [Entombed: An archaeological examination of an Atari 2600 game](/2019/3/4)  
-John Aycock and Tara Copplestone
+{: start="3"}
 1. [Out-Of-Place debugging: a debugging architecture to reduce debugging interference](/2019/3/3)  
 Matteo Marra, Guillermo Polito, and Elisa Gonzalez Boix
+1. [Entombed: An archaeological examination of an Atari 2600 game](/2019/3/4)  
+John Aycock and Tara Copplestone
 
 
 
