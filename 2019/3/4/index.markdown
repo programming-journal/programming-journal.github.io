@@ -7,7 +7,7 @@ number: "4"
 volume: "3"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2019%2F3%2F4"
-date: "2018-11-05"
+date: "2018-11-07"
 authors: 
   - name: "Aycock, John"
     affiliation: "University of Calgary, Canada"
@@ -15,6 +15,8 @@ authors:
   - name: "Copplestone, Tara"
     affiliation: "University of York, United Kingdom"
 
+arxiv: "1811.02035"
+file: "https://arxiv.org/pdf/1811.02035v1"
 excerpt: |
     The act and experience of programming is, at its heart, a fundamentally human activity that results in the production of artifacts. When considering programming, therefore, it would be a glaring omission to not involve people who specialize in studying artifacts and the human activity that yields them: archaeologists. Here we consider this with respect to computer games, the focus of archaeology's nascent subarea of archaeogaming. 
     
@@ -30,9 +32,9 @@ John Aycock[^1] and Tara Copplestone[^2]
 The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 2, Article 4
 
 Submission date: 2018-05-26  
-Publication date: 2018-11-05  
+Publication date: 2018-11-07  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/4>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1811.02035v1)  
 
 
 ### Abstract

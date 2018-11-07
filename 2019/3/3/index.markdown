@@ -7,7 +7,7 @@ number: "3"
 volume: "3"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2019%2F3%2F3"
-date: "2018-11-05"
+date: "2018-11-07"
 authors: 
   - name: "Marra, Matteo"
     affiliation: "Vrije Universiteit Brussel, Belgium"
@@ -18,6 +18,8 @@ authors:
   - name: "Gonzalez Boix, Elisa"
     affiliation: "Vrije Universiteit Brussel, Belgium"
 
+arxiv: "1811.02034"
+file: "https://arxiv.org/pdf/1811.02034v1"
 excerpt: |
     Context.
     Recent studies show that developers spend most of their programming time testing, verifying and debugging software.
@@ -56,9 +58,9 @@ Matteo Marra[^1], Guillermo Polito[^2], and Elisa Gonzalez Boix[^3]
 The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 2, Article 3
 
 Submission date: 2018-06-01  
-Publication date: 2018-11-05  
+Publication date: 2018-11-07  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1811.02034v1)  
 
 
 ### Abstract
