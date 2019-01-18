@@ -10,11 +10,9 @@ order: 500
 * Cristina V. Lopes, University of California, Irvine, California
 
 **Associate Editors**
+* Stefan Marr, University of Kent, UK
 * Matt Flatt, University of Utah, USA
 * Guido Salvaneschi, Technische Universität Darmstadt, Germany 
-
-**Guest Editors**
-* Richard P. Gabriel, Dream Songs, Inc., California, & HPI, Germany. Guest Editor for Essays 2018 special issue.
 
 **Managing Editors**
 * Tobias Pape, Hasso Plattner Institute, University of Postdam, Germany
