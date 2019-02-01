@@ -5,7 +5,7 @@ order: -3003
 type: "issue"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2019%2F3%2Fissue3"
 date: "2019-02-01"
-featured: "Final Issue 3 of Volume 3 published."
+featured: "Issue 3 of Volume 3 published."
 ---
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/issue3>
 
