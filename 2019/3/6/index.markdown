@@ -10,10 +10,10 @@ id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2019%2F3%2F6"
 date: "2019-02-01"
 authors: 
   - name: "Bejleri, Andi"
-    affiliation: "TU Darmstadt, Germany"
+    affiliation: "IBM GBS, Frankfurt, Germany"
 
   - name: "Domnori, Elton"
-    affiliation: "Epoka University, Albania"
+    affiliation: "Canadian Institute of Technology, Tirana, Albania"
 
   - name: "Viering, Malte"
     affiliation: "TU Darmstadt, Germany"
@@ -106,8 +106,8 @@ or added with minimal efforts, i.e. without modifying the existing ones. The fun
 processes such as subject reduction, communication safety, and progress are established.
 
 
-[^1]: <mailto:bejleriandi@gmail.com>, TU Darmstadt, Germany
-[^2]: <mailto:edomnori@epoka.edu.al>, Epoka University, Albania
+[^1]: <mailto:bejleriandi@gmail.com>, IBM GBS, Frankfurt, Germany
+[^2]: <mailto:edomnori@epoka.edu.al>, Canadian Institute of Technology, Tirana, Albania
 [^3]: <mailto:viering@dsp.tu-darmstadt.de>, TU Darmstadt, Germany
 [^4]: <mailto:patrick.thomas.eugster@usi.ch>, Universita della Svizzera Italiana, Switzerland
 [^5]: <mailto:mezini@st.informatik.tu-darmstadt.de>, TU Darmstadt, Germany

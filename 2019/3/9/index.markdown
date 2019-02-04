@@ -1,5 +1,6 @@
 ---
-title: "Babylonian-style Programming: Design and Implementation of an Integration of Live Examples into General-purpose Source Code"
+title: "Babylonian-style Programming"
+lead: "Design and Implementation of an Integration of Live Examples Into General-purpose Source Code"
 numpages: "39"
 type: "article"
 doi: "10.22152/programming-journal.org/2019/3/9"
