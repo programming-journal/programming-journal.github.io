@@ -86,6 +86,6 @@ research into this area and to make practical solutions available.
 
 [^1]: <mailto:mail@davidrauch.at>, Hasso Plattner Institute, Germany
 [^2]: <mailto:patrick.rein@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
-[^3]: <mailto:stefan.ramson@hpi.uni-potsdam.dede>, Hasso Plattner Institute, Germany
+[^3]: <mailto:stefan.ramson@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
 [^4]: <mailto:jens.lincke@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany
 [^5]: <mailto:robert.hirschfeld@hpi.uni-potsdam.de>, Hasso-Plattner-Institut (HPI), Germany
