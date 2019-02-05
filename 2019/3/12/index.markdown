@@ -18,6 +18,8 @@ authors:
   - name: "Oliveira, Bruno C. D. S."
     affiliation: "The University of Hong Kong, Hong Kong"
 
+arxiv: "1902.00546"
+file: "https://arxiv.org/pdf/1902.00546v1"
 excerpt: |
     Context: Trait composition has inspired new research in the area of code reuse for object oriented
     (OO) languages. One of the main advantages of this kind of composition is that it makes possible to separate
@@ -50,7 +52,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-10-01  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/12>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1902.00546v1)  
 
 
 ### Abstract

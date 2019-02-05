@@ -12,6 +12,8 @@ authors:
   - name: "Taft, S. Tucker"
     affiliation: "AdaCore, United States"
 
+arxiv: "1902.00525"
+file: "https://arxiv.org/pdf/1902.00525v1"
 excerpt: |
     ParaSail is a language specifically designed to simplify the construction of programs that make full,
     safe use of parallel hardware even while manipulating potentially irregular data structures. As parallel hardware has proliferated, there has been an urgent need for languages that ease the writing of correct parallel
@@ -33,7 +35,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-06-02  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/7>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1902.00525v1)  
 
 
 ### Abstract

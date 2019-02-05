@@ -24,6 +24,8 @@ authors:
   - name: "Mezini, Mira"
     affiliation: "TU Darmstadt, Germany"
 
+arxiv: "1902.00544"
+file: "https://arxiv.org/pdf/1902.00544v1"
 excerpt: |
     Multiparty session types (MST) are a well-established type theory that describes the interactive
     structure of a fixed number of components from a global point of view and type-checks the components
@@ -67,7 +69,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-06-01  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/6>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1902.00544v1)  
 
 
 ### Abstract

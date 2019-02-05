@@ -25,6 +25,8 @@ authors:
   - name: "Hirschfeld, Robert"
     affiliation: "Hasso-Plattner-Institut (HPI), Germany"
 
+arxiv: "1902.00549"
+file: "https://arxiv.org/pdf/1902.00549v1"
 excerpt: |
     When working on a program, developers traditionally have to simulate the behavior of the abstract
     code in their heads until they can execute the application. Live programming aims to support the development
@@ -56,7 +58,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-09-27  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/9>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1902.00549v1)  
 
 
 ### Abstract

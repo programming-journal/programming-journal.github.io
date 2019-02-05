@@ -18,6 +18,8 @@ authors:
   - name: "Teegen, Finn"
     affiliation: "University of Kiel, Germany"
 
+arxiv: "1805.08059"
+file: "https://arxiv.org/pdf/1805.08059v4"
 excerpt: |
     One Monad to Prove Them All is a modern fairy tale about curiosity and perseverance, two important properties of a successful PhD student. We follow the PhD student Mona on her adventure of proving
     properties about Haskell programs in the proof assistant Coq.
@@ -60,7 +62,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-09-25  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/8>  
-Full text:  *t.b.a*
+Full text: [PDF](https://arxiv.org/pdf/1805.08059v4)  
 
 
 ### Abstract

@@ -21,6 +21,8 @@ authors:
   - name: "Krishnamurthi, Shriram"
     affiliation: "Brown University, United States"
 
+arxiv: "1902.00735"
+file: "https://arxiv.org/pdf/1902.00735v1"
 excerpt: |
     The World model is an existing functional input-output mechanism for event-driven programming.
     It is used in numerous popular textbooks and curricular settings.
@@ -47,7 +49,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-09-29  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/11>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1902.00735v1)  
 
 
 ### Abstract

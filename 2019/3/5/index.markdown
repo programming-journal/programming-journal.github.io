@@ -18,6 +18,8 @@ authors:
   - name: "De Meuter, Wolfgang"
     affiliation: "Vrije Universiteit Brussel, Belgium"
 
+arxiv: "1902.00524"
+file: "https://arxiv.org/pdf/1902.00524v1"
 excerpt: |
     Context: The term reactivity is popular in two areas of research: programming languages and
     distributed systems. On one hand, reactive programming is a paradigm which provides programmers with
@@ -51,7 +53,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-06-01  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/5>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1902.00524v1)  
 
 
 ### Abstract

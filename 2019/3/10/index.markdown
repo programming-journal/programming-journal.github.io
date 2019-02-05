@@ -15,6 +15,8 @@ authors:
   - name: "Oliveira, Bruno"
     affiliation: "The University of Hong Kong, Hong Kong"
 
+arxiv: "1902.00548"
+file: "https://arxiv.org/pdf/1902.00548v1"
 excerpt: |
     Context. Embedded Domain-Specific Languages (EDSLs) are a common and widely used approach
     to DSLs in various languages, including Haskell and Scala. There are two main implementation techniques
@@ -48,7 +50,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-09-29  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/10>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1902.00548v1)  
 
 
 ### Abstract

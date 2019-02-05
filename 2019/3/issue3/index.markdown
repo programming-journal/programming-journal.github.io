@@ -22,7 +22,8 @@ Andi Bejleri, Elton Domnori, Malte Viering, Patrick Eugster, and Mira Mezini
 S. Tucker Taft
 1. [One Monad to Prove Them All](/2019/3/8)  
 Sandra Dylus, Jan Christiansen, and Finn Teegen
-1. [Babylonian-style Programming: Design and Implementation of an Integration of Live Examples into General-purpose Source Code](/2019/3/9)  
+1. [Babylonian-style Programming  
+Design and Implementation of an Integration of Live Examples Into General-purpose Source Code](/2019/3/9)  
 David Rauch, Patrick Rein, Stefan Ramson, Jens Lincke, and Robert Hirschfeld
 1. [Shallow EDSLs and Object-Oriented Programming: Beyond Simple Compositionality](/2019/3/10)  
 Weixin Zhang and Bruno Oliveira

@@ -18,6 +18,8 @@ authors:
   - name: "van der Storm, Tijs"
     affiliation: "CWI, Netherlands"
 
+arxiv: "1902.00543"
+file: "https://arxiv.org/pdf/1902.00543v1"
 excerpt: |
     Context: Meta programming consists for a large part of matching, analyzing, and transforming
     syntax trees. Many meta programming systems process abstract syntax trees, but this requires intimate knowledge of the structure of the data type describing the abstract syntax. As a result, meta programming is errorprone, and meta programs are not resilient to evolution of the structure of such ASTs, requiring invasive,
@@ -54,7 +56,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-10-02  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/15>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1902.00543v1)  
 
 
 ### Abstract
