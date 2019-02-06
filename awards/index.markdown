@@ -16,11 +16,11 @@ To celebrate the work of the community around the journal, we have instituted th
 ### 2018
 
 * Reviewers' Choice Awardee  
-   [Lisp, Jazz, Aikido – Three Expressions of a Single Essence](http://programming-journal.org/2018/2/10/)  
+   [Lisp, Jazz, Aikido – Three Expressions of a Single Essence](https://doi.org/10.22152/programming-journal.org/2018/2/10)  
 Didier Verna
 
 * Editors' Choice Awardee  
-   [What we talk about when we talk about monads](http://programming-journal.org/2018/2/12/)   
+   [What we talk about when we talk about monads](https://doi.org/10.22152/programming-journal.org/2018/2/12)   
 Tomas Petricek
 
 * Outstanding Reviewer Awardees
