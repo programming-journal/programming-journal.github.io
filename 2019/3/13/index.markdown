@@ -22,7 +22,7 @@ authors:
     affiliation: "University of Koblenz-Landau and University of Southampton, Germany"
 
 arxiv: "1902.00545"
-file: "https://arxiv.org/pdf/1902.00545v1"
+file: "https://arxiv.org/pdf/1902.00545v2"
 excerpt: |
     Graph-based data models allow for flexible data representation. In particular, semantic data based
     on RDF and OWL fuels use cases ranging from general knowledge graphs to domain specific knowledge in
@@ -44,7 +44,7 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Issue 3, Article
 Submission date: 2018-10-01  
 Publication date: 2019-02-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/13>  
-Full text: [PDF](https://arxiv.org/pdf/1902.00545v1)  
+Full text: [PDF](https://arxiv.org/pdf/1902.00545v2)  
 
 
 ### Abstract
