@@ -13,6 +13,23 @@ To celebrate the work of the community around the journal, we have instituted th
 
 * **Outstanding Reviewer Awards**: given annually to up to 3 members of the Standing Review Committee by the Editorial Board of the journal, this award recognizes these members' stellar reviewing service.
 
+### 2018
+
+* Reviewers' Choice Awardee  
+   [Lisp, Jazz, Aikido – Three Expressions of a Single Essence](http://programming-journal.org/2018/2/10/)  
+Didier Verna
+
+* Editors' Choice Awardee  
+   [What we talk about when we talk about monads](http://programming-journal.org/2018/2/12/)   
+Tomas Petricek
+
+* Outstanding Reviewer Awardees
+
+  * Jeremy Gibbons  
+     University of Oxford, UK
+  * Richard P. Gabriel  
+     Dream Songs, Inc., California and Hasso Plattner Institute, Germany
+
 ### 2017
 
 * Reviewers' Choice Awardee  
