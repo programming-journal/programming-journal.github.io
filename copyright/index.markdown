@@ -26,7 +26,7 @@ In addition, we ask you to agree to some conditions regarding post-publication c
 10.	This Agreement is governed by the laws of California.
 
 
-[conference]: http://programming-conference.org/
-[agreement]: http://programming-journal.org/copyright/AGREEMENT.pdf
+[conference]: https://programming-conference.org/
+[agreement]: https://programming-journal.org/copyright/AGREEMENT.pdf
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/

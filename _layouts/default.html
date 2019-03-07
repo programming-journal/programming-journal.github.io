@@ -35,7 +35,7 @@
   </head>
   <body>
     {% assign home = site.pages | where:'menutitle', 'About' | first %}
-    {% assign responsibleurl = "http://aosa-inc.org/steering/" %}
+    {% assign responsibleurl = "https://aosa-inc.org/steering/" %}
     {% assign responsibleshort = "AOSA" %}
     {% comment %} 
     {% assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.category != nil" | sort:"order" %}

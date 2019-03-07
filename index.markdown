@@ -21,5 +21,5 @@ Here are some of the highlights of this new journal:
 [Submit!][submissionlink]
 
 *[Diamond]: Also called Platinum or Universal Open Access.
-[programming]: http://programming-conference.org
+[programming]: https://programming-conference.org
 [submissionlink]: https://easychair.org/conferences/?conf=programming2020
