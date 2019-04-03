@@ -7,9 +7,11 @@ order: 500
 ## Editorial Board
 
 **Editor-in-Chief**
+
 * Cristina V. Lopes, University of California, Irvine, California
 
 **Associate Editors**
+
 * Stefan Marr, University of Kent, UK
 * Matt Flatt, University of Utah, USA
 * Guido Salvaneschi, Technische Universität Darmstadt, Germany 
