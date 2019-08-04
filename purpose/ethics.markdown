@@ -1,7 +1,7 @@
 Our publication ethics and publication malpractice statement is based on the [Code of Conduct and Best-Practice Guidelines for Journal Editors (Committee on Publication Ethics, 2011)](https://publicationethics.org/files/Code_of_conduct_for_journal_editors_Mar11.pdf).
 
 
-*Editors' Responsibilities*
+## Editors' Responsibilities
 
 **Editor Roles**
 
@@ -24,7 +24,7 @@ Unpublished materials disclosed in a submitted paper shall not be used by the me
 The Editor-in-Chief has an inherent conflict of interest with the journal, and shall not submit any paper for publication in the journal while in that role. Associate Editors may submit papers to the journal; these papers must be assigned to another Associate Editor, who must ensure a high level of quality of those papers, well above the average. Associate Editors must identify and avoid all conflicts of interest pertaining to expert reviewers and the submitted papers.
 
 
-*Reviewers' Responsibilities*
+## Reviewers' Responsibilities
 
 **Contribution to editorial decisions**
 
@@ -49,7 +49,7 @@ Privileged information or ideas obtained through peer review must be kept confid
 
 
 
-*Authors' Responsibilities*
+## Authors' Responsibilities
 
 **Reporting standards**
 
