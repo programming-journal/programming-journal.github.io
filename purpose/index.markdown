@@ -19,3 +19,4 @@ The journal is divided into volumes, one per year, each with several issues. The
 
 <!-- *The Art, Science, and Engineering of Programming*  is an overlay journal of the Computing Research Repository (CoRR): see <https://arXiv.org>. A disk archive and a hardcopy of the contents of this journal is maintained by the Institute for Software Research at the University of California, Irvine, and also by a large number of mirror sites around the world. -->
 
+[Statement on Ethics and Publication Malpractice](ethics.markdown)
