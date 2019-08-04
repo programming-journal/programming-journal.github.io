@@ -2,109 +2,71 @@
 title: Timeline
 category: For Authors
 order: 500
-
+featured: "Upcoming Submission Deadline: October 1, 2019"
 ---
-Papers can be submitted to the journal at any time, but submitted papers are batched and reviewed in cycles with strict deadlines. The batch processing is designed to keep everyone involved (editors, reviewers and authors) on track, and to establish a strong sense of predictability for when specific activities are to happen. The goal is to have a fast turnaround of **four months** from start to end of each reviewing cycle.
+Papers can be [submitted to the journal at any time](/submission/), but submitted papers are batched and reviewed in cycles with strict deadlines. The batch processing is designed to keep everyone involved (editors, reviewers and authors) on track, and to establish a strong sense of predictability for when specific activities are to happen. The goal is to have a fast turnaround of **four months** from start to end of each reviewing cycle.
 
-The dates for the first two issues of the journal are as follows:
+In normal operation, the journal uses the following cycles for each Volume:
 
-* Vol 1(1):
-
-  {:.dl-horizontal}
-  Submission
-  : Sep 1, 2016
-
-  First notification
-  : Nov 1, 2016
-
-  Revised submission
-  : Dec 1, 2016
-
-  Final notification
-  : Dec 7, 2016
-
-  Camera-ready
-  : Dec 15, 2016
-
-* Vol 1(2):
+* Issue 1:
 
   {:.dl-horizontal}
   Submission
-  : Dec 1, 2016
+  : **February 1**
 
   First notification
-  : Feb 1, 2017
+  : April 1
 
   Revised submission
-  : Mar 1, 2017
+  : May 1
 
   Final notification
-  : Mar 7, 2017
+  : May 7
 
   Camera-ready
-  : Mar 15, 2017
+  : May 15
 
-Estimated publication for the first two issues: May 2017
+  Publication
+  : June 1
 
-In normal operation, the journal uses the following cycles:
+* Issue 2:
 
-{:.dl-horizontal}
-Submission
-: Apr 1
+  {:.dl-horizontal}
+  Submission
+  : **June 1**
 
-First notification
-: Jun 1
+  First notification
+  : August 1
 
-Revised submission
-: Jul 1
+  Revised submission
+  : September 1
 
-Final notification
-: Jul 7
+  Final notification
+  : September 7
 
-Camera-ready
-: Jul 15
+  Camera-ready
+  : September 15
 
-Publication
-: Aug 1
+  Publication
+  : October 1
 
-^
+* Issue 3:
 
-{:.dl-horizontal}
-Submission
-: Aug 1
+  {:.dl-horizontal}
+  Submission
+  : **October 1**
 
-First notification
-: Oct 1
+  First notification
+  : December 1
 
-Revised submission
-: Nov 1
+  Revised submission
+  : January 1
 
-Final notification
-: Nov 7
+  Final notification
+  : January 7
 
-Camera-ready
-: Nov 15
+  Camera-ready
+  : January 15 
 
-Publication
-: Dec 1
-
-^
-
-{:.dl-horizontal}
-Submission
-: Dec 1
-
-First notification
-: Feb 1
-
-Revised submission
-: Mar 1
-
-Final notification
-: Mar 7
-
-Camera-ready
-: Mar 15 
-
-Publication
-: Apr 1
+  Publication
+  : February 1

@@ -1,0 +1,32 @@
+---
+layout: none
+category: ""
+menutitle: "Article feed (RSS)"
+order: 1001
+alternate: 'application/rss+xml'
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:lang="en" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | smartify | xml_escape }}</title>
+    <link>{{ '/' | absolute_url }}</link>
+    <atom:link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
+    <description>{{ site.description | xml_escape }}</description>
+    <language>en</language>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <managingEditor>{{ site.author.email | xml_escape }} ({{ site.author.name | default: site.author | xml_escape }})</managingEditor>
+    <ttl>438000</ttl>
+    {% assign entries = site.pages | where: "type", "article" | sort: "date" | reverse %}
+    {% for entry in entries limit: 25 %}
+    <item>
+      <title>{{ entry.title | smartify | strip_html | normalize_whitespace | xml_escape }}{% if entry.lead %}: {{ entry.lead | smartify | strip_html | normalize_whitespace | xml_escape }}{% endif %}</title>
+      <link>{{ entry.url | absolute_url }}</link>
+      {% if entry.excerpt and entry.excerpt != empty %}
+      <description>{{ entry.excerpt | markdownify  | xml_escape }}</description>
+      {% endif %}
+      <pubDate>{{ entry.date | date_to_rfc822 }}</pubDate>
+      <guid>{{ entry.id | xml_escape }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

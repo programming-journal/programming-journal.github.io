@@ -4,7 +4,7 @@ category: The Journal
 order: 800
 
 ---
-*The Art, Science, and Engineering of Programming* is sponsored by AOSA, a non-profit association whose purpose is the support of science and research, and in particular to facilitate the dissemination of scientific results pertaining to advances in programming. The publication of the journal is one of its primary activities, the other one being the organization of an annual conference.
+*The Art, Science, and Engineering of Programming* is sponsored by [AOSA](https://aosa-inc.org/), a non-profit association whose purpose is the support of science and research, and in particular to facilitate the dissemination of scientific results pertaining to advances in programming. The publication of the journal is one of its primary activities, the other one being the organization of an annual conference.
 
 AOSA is a tax-exempt organization, founded in 2001. The journal's editors, executive board, editorial board, and staff all serve on an unpaid volunteer basis, and their work is made possible by the research institutions and universities who support them.
 
