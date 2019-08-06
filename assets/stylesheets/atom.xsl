@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xsl:stylesheet version="1.0"
+<xsl:stylesheet version="2.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:a="http://www.w3.org/2005/Atom"
                 xmlns:xhtml="http://www.w3.org/1999/xhtml"
                 exclude-result-prefixes="a xhtml">
-  <!-- <xsl:character-map name="a"> -->
-  <!--   <xsl:output-character character="&lt;" string="&lt;"/> -->
-  <!--   <xsl:output-character character="&gt;" string="&gt;"/> -->
-  <!-- </xsl:character-map> -->
   <xsl:output method="html" encoding="utf-8"
-              doctype-system="about:legacy-compat"/>
-              <!-- use-character-maps="a"/> -->
+              doctype-system="about:legacy-compat"
+              />
   <xsl:template match="*"/><!-- Ignore unknown elements -->
-  <xsl:template match="*" mode="links"/>
   <xsl:template match="a:feed">
     <html lang="en">
       <head>
         <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet"/>
         <link rel="stylesheet" href="/assets/stylesheets/xcharter.css"/>
         <link rel="stylesheet" href="/assets/stylesheets/bootstrap.min.css"/>
-        <link rel="stylesheet" href="/assets/stylesheets/pygment_trac.css"/>
          <style type="text/css">
            body { padding-top: 70px;} .externalLink::after { content: ' ⇗'; }
            a {font-family: "Fira Sans", sans-serif;}
@@ -45,22 +39,18 @@
             </div>
           </div>
         </div>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="/assets/javascripts/jquery.min.js"></script>
         <script src="/assets/javascripts/bootstrap.min.js"></script>
         <script src="/assets/javascripts/custom.js"></script>
         </body>
     </html>
-  </xsl:template>
-  <xsl:template match="a:summary">
-    <div>
-      <xsl:value-of select="." disable-output-escaping="yes" />
-    </div>
   </xsl:template>
   <xsl:template match="a:entry">
     <section>
       <h1><xsl:apply-templates select="a:title" mode="text-construct"/></h1>
       <ul><xsl:apply-templates select="a:author" mode="authors"/></ul>
       <xsl:apply-templates select="a:link" mode="links"/>
+      <div><xsl:value-of select="a:summary" disable-output-escaping="yes" /></div>
       <xsl:apply-templates />
     </section>
   </xsl:template>
@@ -75,7 +65,7 @@
   <xsl:template match="*[@type='text']|*[not(@type)]" mode="text-construct">
     <xsl:value-of select="node()"/>
   </xsl:template>
-  <xsl:template match="*[@type='xhtml']" mode="text-construct">
+  <xsl:template match="*[@type='xhtml']|*[@type='html']" mode="text-construct">
     <xsl:copy-of select="node()"/>
   </xsl:template>
 </xsl:stylesheet>
