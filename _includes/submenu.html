@@ -1,6 +1,6 @@
 {% assign subpages = site.pages | where: "dir", page.dir | where_exp: "page", "page.name contains '.markdown'" | sort: "order", "last" %}
 {% if subpages.size > 1 %}
-<ul class="nav nav-pills" style="padding-bottom: 2em;">
+<ul class="nav nav-pills">
   {% for subpage in subpages %}
   <li role="presentation" {% if subpage.title == page.title %}class="active"{% endif %}>
     <a href="{{ subpage.url | remove: "index.html" }}">

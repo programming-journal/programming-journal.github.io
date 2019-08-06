@@ -8,7 +8,6 @@
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/xcharter.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/pygment_trac.css">
     {% assign alternates = site.pages | where_exp: "page", "page.alternate != nil" | sort:"order" %}
     {% for alternate in alternates %}
     <link rel="alternate" type="{{alternate.alternate}}" title="{{alternate.menutitle}}" href="{{ alternate.url }}">
@@ -25,7 +24,7 @@
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
-    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="{{ site.baseurl }}/assets/javascripts/html5shiv.min.js"></script>
     <![endif]-->
     {% if page.type and page.type == "article" %}
     {% include article_metadata.html %}
@@ -74,8 +73,8 @@
           </div>
             {% endif %}
           <section>
-            <h1>{{page.title}}</h1>
             {% include submenu.html %}
+            <h1>{{page.title}}</h1>
             {% if page.lead %}<div class="lead">{{page.lead}}</div>{% endif %}
             {{content}}
           </section>
@@ -190,7 +189,7 @@
       </ol>
       </footer>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/javascripts/jquery.min.js"></script>
     <script src="{{ site.baseurl }}/assets/javascripts/bootstrap.min.js"></script>
     <script src="{{ site.baseurl }}/assets/javascripts/custom.js"></script>
   </body>
