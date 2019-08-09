@@ -2,3 +2,57 @@
   affiliation: University of California, Irvine, California
   extra: "Editor-in-Chief"
 
+- name: Matthew Flatt
+  affiliation: University of Utah, USA
+  extra: "Associate Editor"
+  
+- name: Mehdi Bagherzadeh
+  affiliation: Oakland University, USA
+
+- name: Walter Cazzola
+  affiliation: Università degli Studi di Milano, Italy
+
+- name: Ravi Chugh
+  affiliation: University of Chicago, USA
+
+- name: Joeri De Koster
+  affiliation: Vrije Universiteit Brussel, Belgium
+
+- name: Christos Dimoulas
+  affiliation: Northwestern University, USA
+
+- name: Susan Eisenbach
+  affiliation: Imperial College London, UK
+
+- name: Richard P. Gabriel
+  affiliation: Dream Songs, Inc. & HPI, USA
+
+- name: Jeremy Gibbons
+  affiliation: University of Oxford, UK
+
+- name: Michael Greenberg
+  affiliation: Pomona College, USA
+
+- name: Philipp Haller
+  affiliation: KTH Royal Institute of Technology, Sweden
+
+- name: Robert Hirschfeld
+  affiliation: Hasso-Plattner-Institut (HPI), Germany
+
+- name: Eunsuk Kang
+  affiliation: Carnegie Mellon University, USA
+
+- name: Stephen Kell
+  affiliation: University of Kent, UK
+
+- name: Stefan Marr
+  affiliation: University of Kent, UK
+
+- name: Tamara Rezk
+  affiliation: Inria, France
+
+- name: Joshua Sunshine
+  affiliation: Carnegie Mellon University, USA
+
+- name: Steffen Zschaler
+  affiliation: King's College London, UK
