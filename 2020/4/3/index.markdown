@@ -7,7 +7,7 @@ number: "3"
 volume: "4"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F3"
-date: "2019-09-26"
+date: "2019-09-30"
 authors: 
   - name: "Zigmond, Ezra"
     affiliation: "Harvard University, United States"
@@ -21,6 +21,8 @@ authors:
   - name: "Moore, Scott"
     affiliation: "Galois, Inc, United States"
 
+arxiv: "1909.12279"
+file: "https://arxiv.org/pdf/1909.12279v1"
 excerpt: |
     Context: Database-backed applications often run queries with more authority than necessary. Since programs can access more data than they legitimately need, flaws in security checks at the application level can enable malicious or buggy code to view or modify data in violation of intended access control policies. 
     
@@ -50,9 +52,9 @@ Ezra Zigmond[^1], Stephen Chong[^2], Christos Dimoulas[^3], and Scott Moore[^4]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 2, Article 3
 
 Submission date: 2019-06-01  
-Publication date: 2019-09-26  
+Publication date: 2019-09-30  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1909.12279v1)  
 
 
 ### Abstract
