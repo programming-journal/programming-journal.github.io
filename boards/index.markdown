@@ -15,7 +15,7 @@ order: 500
 * Jeremy Gibbons, Oxford University, UK (Volume 5)
 * Stefan Marr, University of Kent, UK (Volume 4)
 
-* Past Associate Editors**
+**Past Associate Editors**
 * Matt Flatt, University of Utah, USA (Volume 3)
 * Guido Salvaneschi, Technische Universität Darmstadt, Germany (Volume 2)
 
