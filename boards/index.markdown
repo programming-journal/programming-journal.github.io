@@ -12,9 +12,12 @@ order: 500
 
 **Associate Editors**
 
-* Stefan Marr, University of Kent, UK
-* Matt Flatt, University of Utah, USA
-* Guido Salvaneschi, Technische Universität Darmstadt, Germany 
+* Jeremy Gibbons, Oxford University, UK (Volume 5)
+* Stefan Marr, University of Kent, UK (Volume 4)
+
+** Past Associate Editors
+* Matt Flatt, University of Utah, USA (Volume 3)
+* Guido Salvaneschi, Technische Universität Darmstadt, Germany (Volume 2)
 
 **Managing Editors**
 * Tobias Pape, Hasso Plattner Institute, University of Postdam, Germany
