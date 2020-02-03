@@ -26,10 +26,9 @@ Weixin Zhang and Bruno Oliveira
 * Outstanding Reviewer Awardees
 
   * Stephen Kell
-    University of Kent
-
+     University of Kent, UK
   * Christos Dimoulas
-    Northwestern University
+     Northwestern University, USA
 
 ### 2018
 
