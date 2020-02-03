@@ -13,6 +13,24 @@ To celebrate the work of the community around the journal, we have instituted th
 
 * **Outstanding Reviewer Awards**: given annually to up to 3 members of the Standing Review Committee by the Editorial Board of the journal, this award recognizes these members' stellar reviewing service.
 
+### 2019
+
+* Reviewers' Choice Awardee  
+   [Entombed: An archaeological examination of an Atari 2600 game](https://doi.org/10.22152/programming-journal.org/2019/3/4)  
+John Aycock and Tara Copplestone
+
+* Editors' Choice Awardee  
+   [Shallow EDSLs and Object-Oriented Programming: Beyond Simple Compositionality](https://doi.org/10.22152/programming-journal.org/2019/3/10)   
+Weixin Zhang and Bruno Oliveira
+
+* Outstanding Reviewer Awardees
+
+  * Stephen Kell
+    University of Kent
+
+  * Christos Dimoulas
+    Northwestern University
+
 ### 2018
 
 * Reviewers' Choice Awardee  
