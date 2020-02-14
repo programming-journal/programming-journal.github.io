@@ -13,22 +13,19 @@ authors:
     affiliation: "University of Kent, United Kingdom"
 
 excerpt: |
-    % Context
     A growing amount of code is written to explore and analyze data, often by data analysts who do not have a traditional background in programming, for example by journalists.
     
-    % Inquiry
-    The way such data anlysts write code is different from the way software engineers do so. They use few abstractions, work interactively and rely heavily on external libraries. We aim to capture this way of working and build a programming environment that makes data exploration easier by providing instant live feedback.
+    The way such data analysts write code is different from the way software engineers do so. They use few abstractions, work interactively and rely heavily on external libraries. We aim to capture this way of working and build a programming environment that makes data exploration easier by providing instant live feedback.
     
-    % Approach
-    We combine theoretical and applied approach. We present the \emph{data exploration calculus}, a formal language that captures the structure of code written by data analysts. We then implement a data exploration environment that evaluates code instantly during editing and shows previews of the results.
+    We combine theoretical and applied approach. We present the _data exploration calculus_, a formal language that captures the structure of code written by data analysts. We then implement a data exploration environment that evaluates code instantly during editing and shows previews of the results.
     
-    % Knowledge
+    
     We formally describe an algorithm for providing instant previews for the data exploration calculus that allows the user to modify code in an unrestricted way in a text editor. Supporting interactive editing is tricky as any edit can change the structure of code and fully recomputing the output would be too expensive.
     
-    % Grounding
+    
     We prove that our algorithm is correct and that it reuses previous results when updating previews after a number of common code edit operations. We also illustrate the practicality of our approach with an empirical evaluation and a case study.
     
-    % Importance
+    
     As data analysis becomes an ever more important use of programming, research on programming languages and tools needs to consider new kinds of programming workflows appropriate for those domains and conceive new kinds of tools that can support them. The present paper is one step in this important direction.
 
 ---
@@ -43,22 +40,19 @@ Full text: *t.b.a*
 
 
 ### Abstract
-% Context
 A growing amount of code is written to explore and analyze data, often by data analysts who do not have a traditional background in programming, for example by journalists.
 
-% Inquiry
-The way such data anlysts write code is different from the way software engineers do so. They use few abstractions, work interactively and rely heavily on external libraries. We aim to capture this way of working and build a programming environment that makes data exploration easier by providing instant live feedback.
+The way such data analysts write code is different from the way software engineers do so. They use few abstractions, work interactively and rely heavily on external libraries. We aim to capture this way of working and build a programming environment that makes data exploration easier by providing instant live feedback.
 
-% Approach
-We combine theoretical and applied approach. We present the \emph{data exploration calculus}, a formal language that captures the structure of code written by data analysts. We then implement a data exploration environment that evaluates code instantly during editing and shows previews of the results.
+We combine theoretical and applied approach. We present the _data exploration calculus_, a formal language that captures the structure of code written by data analysts. We then implement a data exploration environment that evaluates code instantly during editing and shows previews of the results.
 
-% Knowledge
+
 We formally describe an algorithm for providing instant previews for the data exploration calculus that allows the user to modify code in an unrestricted way in a text editor. Supporting interactive editing is tricky as any edit can change the structure of code and fully recomputing the output would be too expensive.
 
-% Grounding
+
 We prove that our algorithm is correct and that it reuses previous results when updating previews after a number of common code edit operations. We also illustrate the practicality of our approach with an empirical evaluation and a case study.
 
-% Importance
+
 As data analysis becomes an ever more important use of programming, research on programming languages and tools needs to consider new kinds of programming workflows appropriate for those domains and conceive new kinds of tools that can support them. The present paper is one step in this important direction.
 
 
