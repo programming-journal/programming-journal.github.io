@@ -7,7 +7,7 @@ number: "10"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F10"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Costa Seco, João"
     affiliation: "Universidade NOVA de Lisboa, Portugal"
@@ -24,6 +24,8 @@ authors:
   - name: "Ferrao, Lucio"
     affiliation: "OutSystems, Portugal"
 
+arxiv: "2002.06185"
+file: "https://arxiv.org/pdf/2002.06185v1"
 excerpt: |
     Microservices architectures allow for short deployment cycles and immediate effects but offer no safety mechanisms when service contracts need to be changed. Maintaining the soundness of microservice architectures is an error-prone task that is only accessible to the most disciplined development teams.
     
@@ -37,9 +39,9 @@ João Costa Seco[^1], Paulo Ferreira[^2], Hugo Lourenço[^3], Carla Ferreira[^4]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 10
 
 Submission date: 2019-10-01  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/10>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06185v1)  
 
 
 ### Abstract

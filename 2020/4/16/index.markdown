@@ -7,7 +7,7 @@ number: "16"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F16"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Smits, Jeff"
     affiliation: "Delft University of Technology, Netherlands"
@@ -18,6 +18,8 @@ authors:
   - name: "Visser, Eelco"
     affiliation: "Delft University of Technology, Netherlands"
 
+arxiv: "2002.06183"
+file: "https://arxiv.org/pdf/2002.06183v1"
 excerpt: |
     Context: Compilation time is an important factor in the adaptability of a software project. Fast recompilation enables cheap experimentation with changes to a project, as those changes can be tested quickly. Separate and incremental compilation has been a topic of interest for a long time to facilitate fast recompilation. 
     
@@ -48,9 +50,9 @@ Jeff Smits[^1], Gabriël D.P. Konat[^2], and Eelco Visser[^3]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 16
 
 Submission date: 2019-10-02  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/16>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06183v1)  
 
 
 ### Abstract

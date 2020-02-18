@@ -7,11 +7,13 @@ number: "14"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F14"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Speicher, Daniel"
     affiliation: "Bonn-Aachen International Center for Information Technology, B-IT, Germany"
 
+arxiv: "2002.06191"
+file: "https://arxiv.org/pdf/2002.06191v1"
 excerpt: |
     Developers need to make a constant  effort to improve the quality of
       their code  if they  want to stay  productive. Tools  that highlight
@@ -75,9 +77,9 @@ Daniel Speicher[^1]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 14
 
 Submission date: 2019-10-02  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/14>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06191v1)  
 
 
 ### Abstract

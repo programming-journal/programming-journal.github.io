@@ -7,7 +7,7 @@ number: "13"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F13"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Cooperman, Gene"
     affiliation: "Northeastern University, United States"
@@ -15,6 +15,8 @@ authors:
   - name: "Quinson, Martin"
     affiliation: "École Normale Supérieure Rennes, France"
 
+arxiv: "2002.06223"
+file: "https://arxiv.org/pdf/2002.06223v1"
 excerpt: |
     This work strives to make formal verification of POSIX multithreaded programs easily accessible to general programmers.  Sthread operates directly on multithreaded C/C++ programs, without the need for an intermediate formal model.  Sthread is in-vivo in that it provides a drop-in replacement for the pthread library, and operates directly on the compiled target executable and application libraries.  There is no compiler-generated intermediate representation.  The system calls in the application remain unaltered.  Optionally, the programmer can add a small amount of additional native C code to include assertions based on the user's algorithm, declarations of shared memory regions, and progress/liveness conditions.  The work has two important motivations: (i) It can be used to verify correctness of a concurrent algorithm being implemented with multithreading; and (ii) it can also be used pedagogically to provide immediate feedback to students learning either to employ POSIX threads system calls or to implement multithreaded algorithms.
     
@@ -26,9 +28,9 @@ Gene Cooperman[^1] and Martin Quinson[^2]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 13
 
 Submission date: 2019-10-02  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/13>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06223v1)  
 
 
 ### Abstract

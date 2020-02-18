@@ -7,7 +7,7 @@ number: "5"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F5"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Costiou, Steven"
     affiliation: "INRIA, France"
@@ -18,6 +18,8 @@ authors:
   - name: "Denker, Marcus"
     affiliation: "INRIA, France"
 
+arxiv: "2002.06182"
+file: "https://arxiv.org/pdf/2002.06182v1"
 excerpt: |
     Context. Refining or altering existing behavior is the daily work of every developer, but that cannot be always anticipated, and software sometimes cannot be stopped. In such cases, unanticipated adaptation of running systems is of interest for many scenarios, ranging from functional upgrades to on-the-fly debugging or monitoring of critical applications.
     
@@ -45,9 +47,9 @@ Steven Costiou[^1], Vincent Aranega[^2], and Marcus Denker[^3]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 5
 
 Submission date: 2019-02-01  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/5>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06182v1)  
 
 
 ### Abstract

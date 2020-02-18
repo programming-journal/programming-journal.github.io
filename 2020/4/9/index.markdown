@@ -7,7 +7,7 @@ number: "9"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F9"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Nakamaru, Tomoki"
     affiliation: "The University of Tokyo, Japan"
@@ -15,6 +15,8 @@ authors:
   - name: "Chiba, Shigeru"
     affiliation: "The University of Tokyo, Japan"
 
+arxiv: "2002.06179"
+file: "https://arxiv.org/pdf/2002.06179v1"
 excerpt: |
     Context: The algorithms for generating a safe fluent API are actively studied these years. A safe fluent API is the fluent API that reports incorrect chaining of the API methods as a type error to the API users. Although such a safe property improves the productivity of its users, the construction of a safe fluent API is too complicated for the developers. The generation algorithms are studied to reduce the development cost of a safe fluent API. The study on the generation would benefit a number of programmers since a fluent API is a popular design in the real world.
     
@@ -32,9 +34,9 @@ Tomoki Nakamaru[^1] and Shigeru Chiba[^2]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 9
 
 Submission date: 2019-10-01  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/9>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06179v1)  
 
 
 ### Abstract

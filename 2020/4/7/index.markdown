@@ -7,7 +7,7 @@ number: "7"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F7"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Egi, Satoshi"
     affiliation: "Rakuten Institute of Technology, Japan"
@@ -15,6 +15,8 @@ authors:
   - name: "Nishiwaki, Yuichi"
     affiliation: "The University of Tokyo, Japan"
 
+arxiv: "2002.06176"
+file: "https://arxiv.org/pdf/2002.06176v1"
 excerpt: |
     Throughout the history of functional programming, recursion has emerged as a natural method for describing loops in programs.
     However, there does often exist a substantial cognitive distance between the recursive definition and the simplest explanation of an algorithm even for the basic list processing functions such as map, concat, or unique; when we explain these functions, we seldom use recursion explicitly as we do in functional programming.
@@ -35,9 +37,9 @@ Satoshi Egi[^1] and Yuichi Nishiwaki[^2]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 7
 
 Submission date: 2019-06-02  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/7>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06176v1)  
 
 
 ### Abstract

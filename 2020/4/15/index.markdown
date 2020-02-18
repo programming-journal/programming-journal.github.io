@@ -7,7 +7,7 @@ number: "15"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F15"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Mey, Johannes"
     affiliation: "TU Dresden, Germany"
@@ -21,6 +21,8 @@ authors:
   - name: "Assmann, Uwe"
     affiliation: "TU Dresden, Germany"
 
+arxiv: "2002.06187"
+file: "https://arxiv.org/pdf/2002.06187v1"
 excerpt: |
     Context: Domain-specific languages (DSLs) enable domain experts to specify tasks and problems themselves, while enabling static analysis to elucidate issues in the modelled domain early. Although language work-
     benches have simplified the design of DSLs and extensions to general purpose languages, static analyses must still be implemented manually.
@@ -37,9 +39,9 @@ Johannes Mey[^1], Thomas Kühn[^2], René Schöne[^3], and Uwe Assmann[^4]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 15
 
 Submission date: 2019-10-02  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/15>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06187v1)  
 
 
 ### Abstract

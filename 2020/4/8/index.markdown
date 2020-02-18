@@ -7,11 +7,13 @@ number: "8"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F8"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Petricek, Tomas"
     affiliation: "University of Kent, United Kingdom"
 
+arxiv: "2002.06190"
+file: "https://arxiv.org/pdf/2002.06190v1"
 excerpt: |
     A growing amount of code is written to explore and analyze data, often by data analysts who do not have a traditional background in programming, for example by journalists.
     
@@ -34,9 +36,9 @@ Tomas Petricek[^1]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 8
 
 Submission date: 2019-09-30  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/8>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06190v1)  
 
 
 ### Abstract

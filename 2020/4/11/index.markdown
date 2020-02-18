@@ -7,7 +7,7 @@ number: "11"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F11"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Verano Merino, Mauricio"
     affiliation: "Eindhoven University of Technology, Netherlands"
@@ -18,6 +18,8 @@ authors:
   - name: "van der Storm, Tijs"
     affiliation: "CWI - University of Groningen, Netherlands"
 
+arxiv: "2002.06180"
+file: "https://arxiv.org/pdf/2002.06180v1"
 excerpt: |
     Context: Computational notebooks are a contemporary style of literate programming, in which users can communicate and transfer knowledge by interleaving executable code, output, and prose in a single rich document. A Domain-Specific Language (DSL) is an artificial software language tailored for a particular application domain. Usually, DSL users are domain experts that may not have a software engineering background. As a consequence, they might not be familiar with Integrated Development Environments (IDEs). Thus, the development of tools that offer different interfaces for interacting with a DSL is relevant.
     
@@ -37,9 +39,9 @@ Mauricio Verano Merino[^1], Jurgen Vinju[^2], and Tijs van der Storm[^3]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 11
 
 Submission date: 2019-10-01  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/11>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06180v1)  
 
 
 ### Abstract

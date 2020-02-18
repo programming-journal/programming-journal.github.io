@@ -7,11 +7,13 @@ number: "4"
 volume: "4"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2020%2F4%2F4"
-date: "2020-02-14"
+date: "2020-02-17"
 authors: 
   - name: "Michaelson, Greg"
     affiliation: "Heriot-Watt University, United Kingdom"
 
+arxiv: "2002.06178"
+file: "https://arxiv.org/pdf/2002.06178v1"
 excerpt: |
     The notion of programming paradigms, with associated programming languages and methodologies, is a well established tenet of Computer Science pedagogy, enshrined in international curricula. However,this notion sits ill with Kuhn’s classic conceptualisation of a scientific paradigm as a dominant world view, which supersedes its predecessors through superior explanatory power.
     
@@ -23,9 +25,9 @@ Greg Michaelson[^1]
 The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article 4
 
 Submission date: 2019-01-28  
-Publication date: 2020-02-14  
+Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/4>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2002.06178v1)  
 
 
 ### Abstract
