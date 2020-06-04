@@ -33,7 +33,8 @@ Mauricio Verano Merino, Jurgen Vinju, and Tijs van der Storm
 Toni Mattis and Robert Hirschfeld
 1. [Sthread: In-Vivo Model Checking of Multithreaded Programs](/2020/4/13)  
 Gene Cooperman and Martin Quinson
-1. [Did JHotDraw respect the Law of Good Style? - An exploratory deep dive into the nature of  false positives of bad code smells](/2020/4/14)  
+1. [Did JHotDraw Respect the Law of Good Style?  
+A deep dive into the nature of false positives of bad code smells](/2020/4/14)  
 Daniel Speicher
 1. [Reusing Static Analysis across Different Domain-Specific Languages using Reference Attribute Grammars](/2020/4/15)  
 Johannes Mey, Thomas Kühn, René Schöne, and Uwe Assmann
