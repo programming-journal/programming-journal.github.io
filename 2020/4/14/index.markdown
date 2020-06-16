@@ -14,7 +14,7 @@ authors:
     affiliation: "Bonn-Aachen International Center for Information Technology, B-IT, Germany"
 
 arxiv: "2002.06191"
-file: "https://arxiv.org/pdf/2002.06191v1"
+file: "https://arxiv.org/pdf/2002.06191v2"
 excerpt: |
     Developers need to make a constant effort to improve the quality of
     their code if they want to stay productive. Tools that highlight code
@@ -78,7 +78,7 @@ The Art, Science, and Engineering of Programming, 2020, Vol. 4, Issue 3, Article
 Submission date: 2019-10-02  
 Publication date: 2020-02-17  
 DOI: <https://doi.org/10.22152/programming-journal.org/2020/4/14>  
-Full text: [PDF](https://arxiv.org/pdf/2002.06191v1)  
+Full text: [PDF](https://arxiv.org/pdf/2002.06191v2)  
 
 
 ### Abstract

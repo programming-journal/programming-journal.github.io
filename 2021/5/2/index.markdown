@@ -7,7 +7,7 @@ number: "2"
 volume: "5"
 issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F2"
-date: "2020-06-04"
+date: "2020-06-09"
 authors: 
   - name: "Petit, Bertrand"
     affiliation: "INRIA, France"
@@ -15,6 +15,8 @@ authors:
   - name: "Serrano, Manuel"
     affiliation: "INRIA, France"
 
+arxiv: "2006.03102"
+file: "https://arxiv.org/pdf/2006.03102v1"
 excerpt: |
     This paper presents Skini, a programming methodology and an execution
     environment for interactive structured music. With this system, the
@@ -57,9 +59,9 @@ Bertrand Petit[^1] and Manuel Serrano[^2]
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 1, Article 2
 
 Submission date: 2019-09-27  
-Publication date: 2020-06-04  
+Publication date: 2020-06-09  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/2>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2006.03102v1)  
 
 
 ### Abstract

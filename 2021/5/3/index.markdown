@@ -8,7 +8,7 @@ number: "3"
 volume: "5"
 issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F3"
-date: "2020-06-04"
+date: "2020-06-09"
 authors: 
   - name: "Soethout, Tim"
     affiliation: "ING Bank / Centrum Wiskunde & Informatica (CWI), Netherlands"
@@ -19,6 +19,8 @@ authors:
   - name: "Vinju, Jurgen"
     affiliation: "Centrum Wiskunde & Informatica (CWI) / TU Eindhoven, Netherlands"
 
+arxiv: "1908.05940"
+file: "https://arxiv.org/pdf/1908.05940v2"
 excerpt: |
     #### Context
     
@@ -67,9 +69,9 @@ Tim Soethout[^1], Tijs van der Storm[^2], and Jurgen Vinju[^3]
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 1, Article 3
 
 Submission date: 2019-10-01  
-Publication date: 2020-06-04  
+Publication date: 2020-06-09  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1908.05940v2)  
 
 
 ### Abstract

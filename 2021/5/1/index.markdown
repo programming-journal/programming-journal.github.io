@@ -8,11 +8,13 @@ number: "1"
 volume: "5"
 issue: "1"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F1"
-date: "2020-06-04"
+date: "2020-06-09"
 authors: 
   - name: "Monnier, Stefan"
     affiliation: "University of Montreal, Canada"
 
+arxiv: "2006.03103"
+file: "https://arxiv.org/pdf/2006.03103v1"
 excerpt: |
     Automatic indentation of source code is fundamentally a simple matter of
     parsing the code and then applying language- and style-specific rules about
@@ -34,9 +36,9 @@ Stefan Monnier[^1]
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 1, Article 1
 
 Submission date: 2019-10-02  
-Publication date: 2020-06-04  
+Publication date: 2020-06-09  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/1>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2006.03103v1)  
 
 
 ### Abstract
