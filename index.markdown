@@ -16,7 +16,7 @@ Here are some of the highlights of this new journal:
 * The journal is an overlay on arXiv, meaning that we upload all articles to arXiv as a long-term storage system. Additionally, we also store the papers on servers at the Vrije Universiteit Brussel, Belgium, at the University of California, Irvine, USA, and the Hasso Plattner Institute at the University of Potsdam, Germany.
 * Papers can be submitted at any time, but submissions are batched and processed in cycles with strict deadlines for reviewers, authors, and editors. We start with three cycles per year, but may consider increasing it in the future.
 * Speed: four months between the the start of the reviewing cycles and publication.
-* Strong social media presence, and association with the [‹Programming› conference][programming] for broad dissimination of the papers.
+* Strong social media presence, and association with the [‹Programming› conference][programming] for broad dissemination of the papers.
 
 [Submit!][submissionlink]
 
