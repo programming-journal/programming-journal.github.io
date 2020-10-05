@@ -70,3 +70,5 @@ In normal operation, the journal uses the following cycles for each Volume (dead
 
   Publication
   : February 1
+
+*[AoE]:Anywhere on Earth, that is, UTC−12:00
