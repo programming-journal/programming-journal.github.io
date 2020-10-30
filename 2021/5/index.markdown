@@ -42,7 +42,7 @@ Hsiang-Shang Ko
   1. [Transparent Compiler and Runtime Specializations for Accelerating Managed Languages on FPGAs](/2021/5/8)  
 Michail Papadimitriou, Juan Fumero, Athanasios Stratikopoulos, Foivos S. Zakkak, and Christos Kotselidis
 
-{: start="10"}
+  {: start="10"}
   1. [Advanced Join Patterns for the Actor Model based on CEP Techniques](/2021/5/10)  
 Humberto Rodriguez Avila, Joeri De Koster, and Wolfgang De Meuter
   1. [Lake symbols for island parsing](/2021/5/11)  
