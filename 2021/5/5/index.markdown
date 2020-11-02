@@ -22,11 +22,27 @@ authors:
 arxiv: "2010.16303"
 file: "https://arxiv.org/pdf/2010.16303v1"
 excerpt: |
-    Existing approaches to automated white-box testing usually consider the client side and the server side of a web application in isolation from each other. Such testers thus lack a whole-program perspective on the web application under test. However, such a perspective may provide multiple benefits. For one, it would allow the tester to automatically discover which server side errors can actually be triggered by an end-user accessing the application via the client interface, and which can only be triggered in hypothetical scenarios. This allows for a classification between high-priority errors, which are reachable by exercising a particular client, and low-priority errors, which are not accessible via the tested client or which are only hypothetical. This classification would allow developers to prioritise correcting those errors that might be encountered by users and postpone correcting other errors that are less easily reachable. Another benefit to this holistic application perspective is that it allows the automated tester to construct practical, step-by-step scenarios for triggering server side errors from the end-users’ perspective.
+    #### Context
+    Most approaches to automated white-box testing consider the client side and the server side of a web application in isolation from each other.
+    Such testers lack a whole-program perspective on the web application under test.
     
-    We therefore propose an inter-process testing approach to automated white-box testing of web applications, in contrast to the existing intra-process approaches. In this new approach, the tester observes the execution of the client as well as the server process and tracks the application’s input across their boundaries. This enables the tester to observe how automatically-generated user input shapes the client’s interactions with the server, and how it affects the behaviour of the server itself.
+    #### Inquiry
+    We hypothesise that an additional whole-program perspective would enable the tester to discover which server side errors can be triggered by an actual end user accessing the application through the client, and which ones can only be triggered in hypothetical scenarios.
+    	
+    #### Approach
+    In this paper, we explore the idea of employing such a whole-program perspective in  testing. To this end, we develop , a novel concolic tester which operates on full-stack JavaScript web applications, where both the client and the server side are JavaScript processes communicating via asynchronous messages -as enabled by the WebSocket or Socket.IO-libraries.
     
-    We explore the idea of inter-process testing via StackFul, a novel concolic tester which operates on full-stack JavaScript web applications, where both the client side and the server side are JavaScript processes that communicate via asynchronous messages —as enabled by e.g., the WebSocket or Socket.IO-libraries. We find that StackFul correctly classifies the majority of server errors. We therefore deem this novel inter-process approach worth investigating further.
+    #### Knowledge
+    We find that the whole-program perspective enables discerning high-priority errors, which are reachable from a particular client, from low-priority errors, which are not accessible through the tested client.
+    Another benefit of the perspective is that it allows the automated tester to construct practical, step-by-step scenarios for triggering server side errors from the end user's perspective.
+    
+    #### Grounding
+    We apply on a collection of web applications to evaluate how effective testing is in distinguishing between high- and low-priority errors.
+    The results show that correctly classifies the majority of server errors.
+    
+    #### Importance
+    This paper demonstrates the feasibility of testing as a novel approach for automatically testing web applications.
+    Classifying errors as being of high or low importance aids developers in prioritising bugs that might be encountered by users, and postponing the diagnosis of bugs that are less easily reached.
 
 ---
 Maarten Vandercammen[^1], Laurent Christophe[^2], Dario Di Nucci[^3], Wolfgang De Meuter[^4], and Coen De Roover[^5]
@@ -40,11 +56,28 @@ Full text: [PDF](https://arxiv.org/pdf/2010.16303v1)
 
 
 ### Abstract
-Existing approaches to automated white-box testing usually consider the client side and the server side of a web application in isolation from each other. Such testers thus lack a whole-program perspective on the web application under test. However, such a perspective may provide multiple benefits. For one, it would allow the tester to automatically discover which server side errors can actually be triggered by an end-user accessing the application via the client interface, and which can only be triggered in hypothetical scenarios. This allows for a classification between high-priority errors, which are reachable by exercising a particular client, and low-priority errors, which are not accessible via the tested client or which are only hypothetical. This classification would allow developers to prioritise correcting those errors that might be encountered by users and postpone correcting other errors that are less easily reachable. Another benefit to this holistic application perspective is that it allows the automated tester to construct practical, step-by-step scenarios for triggering server side errors from the end-users’ perspective.
+#### Context
+Most approaches to automated white-box testing consider the client side and the server side of a web application in isolation from each other.
+Such testers lack a whole-program perspective on the web application under test.
 
-We therefore propose an inter-process testing approach to automated white-box testing of web applications, in contrast to the existing intra-process approaches. In this new approach, the tester observes the execution of the client as well as the server process and tracks the application’s input across their boundaries. This enables the tester to observe how automatically-generated user input shapes the client’s interactions with the server, and how it affects the behaviour of the server itself.
+#### Inquiry
+We hypothesise that an additional whole-program perspective would enable the tester to discover which server side errors can be triggered by an actual end user accessing the application through the client, and which ones can only be triggered in hypothetical scenarios.
+	
+#### Approach
+In this paper, we explore the idea of employing such a whole-program perspective in  testing. To this end, we develop , a novel concolic tester which operates on full-stack JavaScript web applications, where both the client and the server side are JavaScript processes communicating via asynchronous messages -as enabled by the WebSocket or Socket.IO-libraries.
 
-We explore the idea of inter-process testing via StackFul, a novel concolic tester which operates on full-stack JavaScript web applications, where both the client side and the server side are JavaScript processes that communicate via asynchronous messages —as enabled by e.g., the WebSocket or Socket.IO-libraries. We find that StackFul correctly classifies the majority of server errors. We therefore deem this novel inter-process approach worth investigating further.
+#### Knowledge
+We find that the whole-program perspective enables discerning high-priority errors, which are reachable from a particular client, from low-priority errors, which are not accessible through the tested client.
+Another benefit of the perspective is that it allows the automated tester to construct practical, step-by-step scenarios for triggering server side errors from the end user's perspective.
+
+#### Grounding
+We apply on a collection of web applications to evaluate how effective testing is in distinguishing between high- and low-priority errors.
+The results show that correctly classifies the majority of server errors.
+
+#### Importance
+This paper demonstrates the feasibility of testing as a novel approach for automatically testing web applications.
+Classifying errors as being of high or low importance aids developers in prioritising bugs that might be encountered by users, and postponing the diagnosis of bugs that are less easily reached.
+
 
 
 [^1]: <mailto:mvdcamme@vub.ac.be>
