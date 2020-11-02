@@ -7,7 +7,7 @@ number: "10"
 volume: "5"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F10"
-date: "2020-10-30"
+date: "2020-11-02"
 authors: 
   - name: "Rodriguez Avila, Humberto"
 
@@ -15,6 +15,8 @@ authors:
 
   - name: "De Meuter, Wolfgang"
 
+arxiv: "2010.16301"
+file: "https://arxiv.org/pdf/2010.16301v1"
 excerpt: |
     Context: Actor-based programming languages offer many essential features for developing modern distributed reactive systems. These systems exploit the actor model’s isolation property to fulfill their performance and scalability demands. Unfortunately, the reliance of the model on isolation as its most fundamental property requires programmers to express complex interaction patterns between their actors to be expressed manually in terms of complex combinations of messages sent between the isolated actors.
     
@@ -34,9 +36,9 @@ Humberto Rodriguez Avila[^1], Joeri De Koster[^2], and Wolfgang De Meuter[^3]
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 2, Article 10
 
 Submission date: 2020-02-06  
-Publication date: 2020-10-30  
+Publication date: 2020-11-02  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/10>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2010.16301v1)  
 
 
 ### Abstract

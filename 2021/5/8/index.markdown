@@ -7,7 +7,7 @@ number: "8"
 volume: "5"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F8"
-date: "2020-10-30"
+date: "2020-11-02"
 authors: 
   - name: "Papadimitriou, Michail"
 
@@ -19,6 +19,8 @@ authors:
 
   - name: "Kotselidis, Christos"
 
+arxiv: "2010.16304"
+file: "https://arxiv.org/pdf/2010.16304v1"
 excerpt: |
     In recent years, heterogeneous computing has emerged as the vital way to increase computers’ performance and energy efficiency by combining diverse hardware devices, such as Graphics Processing Units (GPUs) and Field Programmable Gate Arrays (FPGAs). The rationale behind this trend is that different parts of an application can be offloaded from the main CPU to diverse devices, which can efficiently execute these parts as co-processors. FPGAs are a subset of the most widely used co-processors, typically used for accelerating specific workloads due to their flexible hardware and energy-efficient characteristics. These characteristics have made them prevalent in a broad spectrum of computing systems ranging from low-power embedded systems to high-end data centers and cloud infrastructures. 
     
@@ -32,9 +34,9 @@ Michail Papadimitriou[^1], Juan Fumero[^2], Athanasios Stratikopoulos[^3], Foivo
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 2, Article 8
 
 Submission date: 2020-05-29  
-Publication date: 2020-10-30  
+Publication date: 2020-11-02  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/8>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2010.16304v1)  
 
 
 ### Abstract

@@ -7,7 +7,7 @@ number: "6"
 volume: "5"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F6"
-date: "2020-10-30"
+date: "2020-11-02"
 authors: 
   - name: "Zhao, Xin"
 
@@ -27,7 +27,7 @@ Xin Zhao[^1] and Philipp Haller[^2]
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 2, Article 6
 
 Submission date: 2020-03-02  
-Publication date: 2020-10-30  
+Publication date: 2020-11-02  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/6>  
 Full text: [PDF](https://arxiv.org/pdf/1907.00822v4)  
 

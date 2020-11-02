@@ -8,7 +8,7 @@ number: "9"
 volume: "5"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F9"
-date: "2020-10-30"
+date: "2020-11-02"
 authors: 
   - name: "Wrenn, John"
 
@@ -16,6 +16,8 @@ authors:
 
   - name: "Krishnamurthi, Shriram"
 
+arxiv: "2010.16305"
+file: "https://arxiv.org/pdf/2010.16305v1"
 excerpt: |
     CONTEXT
     The success of QuickCheck has led to the development of property-based testing (PBT) libraries for many languages and the process is getting increasing attention. However, unlike regular testing, PBT is not widespread in collegiate curricula.
@@ -44,9 +46,9 @@ John Wrenn[^1], Tim Nelson[^2], and Shriram Krishnamurthi[^3]
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 2, Article 9
 
 Submission date: 2020-05-29  
-Publication date: 2020-10-30  
+Publication date: 2020-11-02  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/9>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2010.16305v1)  
 
 
 ### Abstract

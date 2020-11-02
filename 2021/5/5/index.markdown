@@ -7,7 +7,7 @@ number: "5"
 volume: "5"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F5"
-date: "2020-10-30"
+date: "2020-11-02"
 authors: 
   - name: "Vandercammen, Maarten"
 
@@ -19,6 +19,8 @@ authors:
 
   - name: "De Roover, Coen"
 
+arxiv: "2010.16303"
+file: "https://arxiv.org/pdf/2010.16303v1"
 excerpt: |
     Existing approaches to automated white-box testing usually consider the client side and the server side of a web application in isolation from each other. Such testers thus lack a whole-program perspective on the web application under test. However, such a perspective may provide multiple benefits. For one, it would allow the tester to automatically discover which server side errors can actually be triggered by an end-user accessing the application via the client interface, and which can only be triggered in hypothetical scenarios. This allows for a classification between high-priority errors, which are reachable by exercising a particular client, and low-priority errors, which are not accessible via the tested client or which are only hypothetical. This classification would allow developers to prioritise correcting those errors that might be encountered by users and postpone correcting other errors that are less easily reachable. Another benefit to this holistic application perspective is that it allows the automated tester to construct practical, step-by-step scenarios for triggering server side errors from the end-users’ perspective.
     
@@ -32,9 +34,9 @@ Maarten Vandercammen[^1], Laurent Christophe[^2], Dario Di Nucci[^3], Wolfgang D
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 2, Article 5
 
 Submission date: 2020-01-02  
-Publication date: 2020-10-30  
+Publication date: 2020-11-02  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/5>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2010.16303v1)  
 
 
 ### Abstract
