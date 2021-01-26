@@ -7,6 +7,8 @@ order: 800
 ## Submission Process
 Papers submitted to *The Art, Science, and Engineering of Programming* must use the [online submission system][submit]. 
 
+[![Submit to The Art, Science, and Engineering of Programming](../assets/submit_via_scholastica.png)][submit]
+
 ## Typesetting
 
 Submissions must use the [LaTeX template][latex template] of the journal. Please download the [template package][template package]; a manual is included.
