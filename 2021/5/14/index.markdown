@@ -7,7 +7,7 @@ number: "14"
 volume: "5"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F14"
-date: "2021-02-26"
+date: "2021-02-28"
 authors: 
   - name: "Aumayr, Dominik"
 
@@ -19,6 +19,8 @@ authors:
 
   - name: "Mössenböck, Hanspeter"
 
+arxiv: "2103.00031"
+file: "https://arxiv.org/pdf/2103.00031v1"
 excerpt: |
     With concurrency being integral to most software systems, developers combine high-level concurrency models in the same application to tackle each problem with appropriate abstractions. While languages and libraries offer a wide range of concurrency models, debugging support for applications that combine them has not yet gained much attention. Record & replay aids debugging by deterministically reproducing recorded bugs, but is typically designed for a single concurrency model only.
     This paper proposes a practical concurrency-model-agnostic record & replay approach for multi-paradigm concurrent programs, i.e. applications that combine concurrency models. Our approach traces high-level nondeterministic events by using a uniform model-agnostic trace format and infrastructure. This enables orderingbased record & replay support for a wide range of concurrency models, and thereby enables debugging of applications that combine them. In addition, it allows language implementors to add new concurrency models and reuse the model-agnostic record & replay support.
@@ -31,9 +33,9 @@ Dominik Aumayr[^1], Stefan Marr[^2], Sophie Kaleba[^3], Elisa Gonzalez Boix[^4],
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 3, Article 14
 
 Submission date: 2020-09-30  
-Publication date: 2021-02-26  
+Publication date: 2021-02-28  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/14>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2103.00031v1)  
 
 
 ### Abstract

@@ -7,7 +7,7 @@ number: "12"
 volume: "5"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F12"
-date: "2021-02-26"
+date: "2021-02-28"
 authors: 
   - name: "Cheung, Steven W.T."
 
@@ -15,6 +15,8 @@ authors:
 
   - name: "Muroya, Koko"
 
+arxiv: "1910.09579"
+file: "https://arxiv.org/pdf/1910.09579v2"
 excerpt: |
     Dataflow programming is a popular and convenient programming paradigm in systems modelling, optimisation, and machine learning. It has a number of advantages, for instance the lacks of control flow allows computation to be carried out in parallel as well as in distributed machines. More recently the idea of dataflow graphs has also been brought into the design of various deep learning frameworks. They facilitate an easy and efficient implementation of automatic differentiation, which is the heart of modern deep learning paradigm. 
     
@@ -30,9 +32,9 @@ Steven W.T. Cheung[^1], Dan R. Ghica[^2], and Koko Muroya[^3]
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 3, Article 12
 
 Submission date: 2020-06-21  
-Publication date: 2021-02-26  
+Publication date: 2021-02-28  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/12>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/1910.09579v2)  
 
 
 ### Abstract

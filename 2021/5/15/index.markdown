@@ -8,12 +8,14 @@ number: "15"
 volume: "5"
 issue: "3"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F15"
-date: "2021-02-26"
+date: "2021-02-28"
 authors: 
   - name: "Källén, Malin"
 
   - name: "Wrigstad, Tobias"
 
+arxiv: "2007.10146"
+file: "https://arxiv.org/pdf/2007.10146v2"
 excerpt: |
     Jupyter notebooks has emerged as a standard tool for data science programming. Programs in Jupyter notebooks are different from typical programs as they are constructed by a collection of code snippets interleaved with text and visualisation. This allows interactive exploration and snippets may be executed in different order which may give rise to different results due to side-effects between snippets.
     Previous studies have shown the presence of considerable code duplication – code clones – in sources of traditional programs, in both so-called systems programming languages and so-called scripting languages.
@@ -27,9 +29,9 @@ Malin Källén[^1] and Tobias Wrigstad[^2]
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 3, Article 15
 
 Submission date: 2020-07-20  
-Publication date: 2021-02-26  
+Publication date: 2021-02-28  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/15>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2007.10146v2)  
 
 
 ### Abstract

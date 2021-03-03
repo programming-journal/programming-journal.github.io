@@ -7,7 +7,7 @@ number: "4"
 volume: "5"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F4"
-date: "2020-11-02"
+date: "2020-11-01"
 authors: 
   - name: "Sterz, Artur"
 
@@ -34,7 +34,7 @@ Artur Sterz[^1], Matthias Eichholz[^2], Ragnar Mogk[^3], Lars Baumgärtner[^4], 
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 2, Article 4
 
 Submission date: 2020-01-31  
-Publication date: 2020-11-02  
+Publication date: 2020-11-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/4>  
 Full text: [PDF](https://arxiv.org/pdf/2010.00354v3)  
 

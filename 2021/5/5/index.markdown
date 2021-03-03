@@ -7,7 +7,7 @@ number: "5"
 volume: "5"
 issue: "2"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2021%2F5%2F5"
-date: "2020-11-02"
+date: "2020-11-01"
 authors: 
   - name: "Vandercammen, Maarten"
 
@@ -50,7 +50,7 @@ Maarten Vandercammen[^1], Laurent Christophe[^2], Dario Di Nucci[^3], Wolfgang D
 The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 2, Article 5
 
 Submission date: 2020-01-02  
-Publication date: 2020-11-02  
+Publication date: 2020-11-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/5>  
 Full text: [PDF](https://arxiv.org/pdf/2010.16303v1)  
 
