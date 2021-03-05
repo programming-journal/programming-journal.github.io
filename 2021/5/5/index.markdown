@@ -1,5 +1,5 @@
 ---
-title: "Prioritising Server Bugs via Inter-process Concolic Testing"
+title: "Prioritising Server Side Reachability via Inter-process Concolic Testing"
 numpages: "38"
 type: "article"
 doi: "10.22152/programming-journal.org/2021/5/5"
@@ -20,7 +20,7 @@ authors:
   - name: "De Roover, Coen"
 
 arxiv: "2010.16303"
-file: "https://arxiv.org/pdf/2010.16303v1"
+file: "https://arxiv.org/pdf/2010.16303v2"
 excerpt: |
     #### Context
     Most approaches to automated white-box testing consider the client side and the server side of a web application in isolation from each other.
@@ -52,7 +52,7 @@ The Art, Science, and Engineering of Programming, 2021, Vol. 5, Issue 2, Article
 Submission date: 2020-01-02  
 Publication date: 2020-11-01  
 DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/5>  
-Full text: [PDF](https://arxiv.org/pdf/2010.16303v1)  
+Full text: [PDF](https://arxiv.org/pdf/2010.16303v2)  
 
 
 ### Abstract

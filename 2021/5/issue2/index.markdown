@@ -15,7 +15,7 @@ DOI: <https://doi.org/10.22152/programming-journal.org/2021/5/issue2>
 {: start="4"}
 1. [ReactiFi: Reactive Programming of Wi-Fi Firmware on Mobile Devices](/2021/5/4)  
 Artur Sterz, Matthias Eichholz, Ragnar Mogk, Lars Baumgärtner, Pablo Graubner, Matthias Hollick, Mira Mezini, and Bernd Freisleben
-1. [Prioritising Server Bugs via Inter-process Concolic Testing](/2021/5/5)  
+1. [Prioritising Server Side Reachability via Inter-process Concolic Testing](/2021/5/5)  
 Maarten Vandercammen, Laurent Christophe, Dario Di Nucci, Wolfgang De Meuter, and Coen De Roover
 1. [Consistency types for replicated data in a higher-order distributed programming language](/2021/5/6)  
 Xin Zhao and Philipp Haller
