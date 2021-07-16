@@ -24,6 +24,8 @@ authors:
   - name: "Renaud, Hadrien"
     affiliation: "University of Lyon, France / EnsL, France / Claude Bernard University Lyon 1, France / CNRS, France / Inria, France / LIP, France / École Polytechnique, France / Institut Polytechnique de Paris, France"
 
+arxiv: "2107.07298"
+file: "https://arxiv.org/pdf/2107.07298v1"
 excerpt: |
     A future is an entity representing the result of an ongoing computation.
     A synchronisation with a "get" operation blocks the caller until the computation is over, to return the corresponding value.
@@ -46,7 +48,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 1, Article
 Submission date: 2020-09-30  
 Publication date: 2021-07-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2107.07298v1)  
 
 
 ### Abstract

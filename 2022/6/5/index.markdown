@@ -21,6 +21,8 @@ authors:
   - name: "Masuhara, Hidehiko"
     affiliation: "Tokyo Institute of Technology, Japan"
 
+arxiv: "2107.07301"
+file: "https://arxiv.org/pdf/2107.07301v1"
 excerpt: |
     While modern software development heavily uses versioned packages, programming languages rarely support the concept of versions in their semantics, which makes software updates more bulky and unsafe.
     This paper proposes a programming language that intrinsically supports versions. The main goals are to design core language features to support multiple versions in one program and establish a proper notion of type safety with those features.
@@ -38,7 +40,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 1, Article
 Submission date: 2021-02-01  
 Publication date: 2021-07-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/5>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2107.07301v1)  
 
 
 ### Abstract

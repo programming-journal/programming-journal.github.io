@@ -18,6 +18,8 @@ authors:
   - name: "Boix, Elisa Gonzalez"
     affiliation: "Vrije Universiteit Brussel, Belgium"
 
+arxiv: "2107.07300"
+file: "https://arxiv.org/pdf/2107.07300v1"
 excerpt: |
     Context: Static Application Security Testing (SAST) and Runtime Application Security Protection (RASP) are important and complementary techniques used for detecting and enforcing application-level security policies in web applications.
      
@@ -43,7 +45,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 1, Article
 Submission date: 2020-10-01  
 Publication date: 2021-07-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/1>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2107.07300v1)  
 
 
 ### Abstract

@@ -18,6 +18,8 @@ authors:
   - name: "De Meuter, Wolfgang"
     affiliation: "Vrije Universiteit Brussel, Belgium"
 
+arxiv: "2107.07296"
+file: "https://arxiv.org/pdf/2107.07296v1"
 excerpt: |
     The rise of streaming libraries such as Akka Stream, Reactive Extensions, and LINQ popularized the declarative functional style of data processing. The stream paradigm offers concise syntax to write down processing pipelines to consume the vast amounts of real-time data available today.
     
@@ -43,7 +45,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 1, Article
 Submission date: 2020-10-01  
 Publication date: 2021-07-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/2>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2107.07296v1)  
 
 
 ### Abstract
