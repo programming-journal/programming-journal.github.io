@@ -22,4 +22,4 @@ Here are some of the highlights of this new journal:
 
 *[Diamond]: Also called Platinum or Universal Open Access.
 [programming]: https://programming-conference.org
-[submissionlink]: https://programming-journal.scholasticahq.com/for-authors
+[submissionlink]: https://programming63.hotcrp.com/paper/new
