@@ -1,8 +1,3 @@
-{% comment %}
-
-!! from seo tag
-
-{% endcomment %}
 {% assign site_title = site.title | default: site.name %}
 {% assign title = page.title %}
 {% assign page_title = page.title %}
@@ -11,25 +6,27 @@
 {% assign page_title = page_title | smartify | strip_html | normalize_whitespace | escape_once %}
 {% assign description = page.description | default: page.excerpt | default: site.description %}
 {% assign description = description | markdownify | strip_html | normalize_whitespace | escape_once %}
+{% assign description_short = description | markdownify | strip_html | normalize_whitespace | escape_once | truncate: 140 %}
 {% capture page_start %}{{ page.number }}:1{% endcapture %}
 {% capture page_end %}{{ page.number }}:{{ page.numpages }}{% endcapture %}
 {% capture resolver %}https://doi.org/{{ page.doi }}{% endcapture %}
+{% capture authornames %}{{ page.authors | map: "name" | array_to_sentence_string | xml_escape }}{% endcapture %}
 <script type="application/ld+json">
-{"@context": "http://schema.org",
+{"@context": { "@version": 1.1, "@vocab": "https://schema.org/"} ,
 "@graph": [
 {
-  "@id": "#issue", 
+  "@id": "_:#issue", 
   "@type": "PublicationIssue", 
   "issueNumber": {{ page.issue | jsonify}}, 
   "isPartOf": {
-    "@id": "#periodical", 
+    "@id": "_:#periodical", 
     "@type": ["PublicationVolume", "Periodical"], 
     "name": {{ site.title | jsonify }}, 
     "issn": {{ site.issn | jsonify }},
     "volumeNumber": {{ page.volume  | jsonify }} } },
 { 
   "@type": "ScholarlyArticle",
-  "isPartOf": "#issue", 
+  "isPartOf": "_:#issue", 
   "name": {{ page_title | jsonify }},
   "headline": {{ page_title | jsonify }},
   "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
@@ -100,9 +97,12 @@
   {% assign page_image = page_image | escape %}
 {% endif %}
 <title>{{ title }}</title>
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
 <meta property="og:title" content="{{ page_title }}" />
-<meta name="description" content="{{ description }}" />
-<meta property="og:description" content="{{ description }}" />
+<meta name="description" content="Programming paper: {{ description_short }}" />
+<meta name="summary" content="{{ description }}" />
+<meta property="og:description" content="{{ description_short }}" />
 <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
 <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | absolute_url }}" />
 <meta property="og:site_name" content="{{ site_title }}" />
@@ -114,10 +114,11 @@
   {% if page.image.width %}
     <meta property="og:image:width" content="{{ page.image.width }}" />
   {% endif %}
+{% else %}
+<meta property="og:image" content="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
 {% endif %}
+<meta name="author" content="{{ authornames }}" />
 
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
 {% if paginator.previous_page %}
   <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">
 {% endif %}
