@@ -17,3 +17,5 @@ The following volumes have been published by The Art, Science, and Engineering o
   * [Volume 4](/2020/4)
 * [2021](/2021)
   * [Volume 5](/2021/5)
+* [2022](/2022)
+  * [Volume 6](/2022/6)
