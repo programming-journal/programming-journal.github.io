@@ -15,6 +15,8 @@ authors:
   - name: "Tobin-Hochstadt, Sam"
     affiliation: "Indiana University, USA"
 
+arxiv: "2010.03608"
+file: "https://arxiv.org/pdf/2010.03608v3"
 excerpt: |
     Many object-oriented dynamic languages allow programmers to _extract methods_ from objects and treat them as functions. This allows for flexible programming patterns, but presents challenges for type systems. In particular, a simple treatment of method extraction would require methods to be contravariant in the receiver type, making overriding all-but-impossible. We present a detailed investigation of this problem, as well as an implemented and evaluated solution.
     
@@ -34,7 +36,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 2, Article
 Submission date: 2020-10-01  
 Publication date: 2021-11-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/6>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2010.03608v3)  
 
 
 ### Abstract

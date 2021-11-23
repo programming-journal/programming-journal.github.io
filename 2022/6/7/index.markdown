@@ -12,6 +12,8 @@ authors:
   - name: "Gibbons, Jeremy"
     affiliation: "University of Oxford, UK"
 
+arxiv: "2111.10413"
+file: "https://arxiv.org/pdf/2111.10413v1"
 excerpt: |
     #### Context
     Reynolds showed us how to use continuation-passing style and defunctionalization to transform a recursive interpreter for a language into an abstract machine for programs in that language. The same techniques explain other programming tricks, including zippers and accumulating parameters.
@@ -39,7 +41,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 2, Article
 Submission date: 2021-05-26  
 Publication date: 2021-11-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/7>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2111.10413v1)  
 
 
 ### Abstract

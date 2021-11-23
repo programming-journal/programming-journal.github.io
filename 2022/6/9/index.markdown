@@ -21,6 +21,8 @@ authors:
   - name: "Felleisen, Matthias"
     affiliation: "Northeastern University, USA"
 
+arxiv: "2111.10411"
+file: "https://arxiv.org/pdf/2111.10411v1"
 excerpt: |
     Mixed-typed languages enable programmers to link typed and untyped components  
     in various ways. Some offer rich type systems to facilitate the smooth  
@@ -58,7 +60,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 2, Article
 Submission date: 2021-08-31  
 Publication date: 2021-11-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/9>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2111.10411v1)  
 
 
 ### Abstract

@@ -18,6 +18,8 @@ authors:
   - name: "Krishnamurthi, Shriram"
     affiliation: "Brown University, USA"
 
+arxiv: "2111.10412"
+file: "https://arxiv.org/pdf/2111.10412v1"
 excerpt: |
     #### Context
     Tables are ubiquitous formats for data. Therefore, techniques for writing
@@ -74,7 +76,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 2, Article
 Submission date: 2021-08-31  
 Publication date: 2021-11-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/8>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2111.10412v1)  
 
 
 ### Abstract
