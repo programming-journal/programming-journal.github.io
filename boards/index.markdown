@@ -11,7 +11,6 @@ order: 500
 * [Cristina V. Lopes](https://www.ics.uci.edu/~lopes/), University of California, Irvine, California
 
 **Associate Editors**
-
 * [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6)
 * [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), Oxford University, UK (Volume 5)
 
