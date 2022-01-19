@@ -19,6 +19,7 @@ order: 500
 * [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4)
 * [Matt Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3)
 * [Guido Salvaneschi](http://www.guidosalvaneschi.com/wp/), Technische Universität Darmstadt, Germany (Volume 2)
+* [Cristina V. Lopes](http://www.ics.uci.edu/~lopes) (Founding Editor-in-Chief), University of California, Irvine, California (Volume 1)
 
 **Managing Editors**
 * [Tobias Pape](https://www.hpi.uni-potsdam.de/hirschfeld/people/pape/index.html), Hasso Plattner Institute, University of Postdam, Germany
