@@ -72,3 +72,52 @@ In normal operation, the journal uses the following cycles for each Volume (dead
   : February 15
 
 *[AoE]:Anywhere on Earth, that is, UTC−12:00
+
+Important dates for artifact evaluation (AE) are as follows (deadlines are AoE):
+
+* Issue 1:
+
+  {:.dl-horizontal}
+  AE submission
+  : **April 8**
+
+  AE kick the tires
+  : April 15
+
+  AE author response
+  : April 22
+
+  AE notification
+  : May 21
+
+* Issue 2:
+
+  {:.dl-horizontal}
+  AE submission
+  : **August 8**
+
+  AE kick the tires
+  : August 15
+
+  AE author response
+  : August 22
+
+  AE notification
+  : September 21
+
+* Issue 3:
+
+  {:.dl-horizontal}
+  AE submission
+  : **December 8**
+
+  AE kick the tires
+  : December 15
+
+  AE author response
+  : December 22
+
+  AE notification
+  : January 21
+
+*[AoE]:Anywhere on Earth, that is, UTC−12:00
