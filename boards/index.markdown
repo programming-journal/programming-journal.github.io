@@ -11,7 +11,7 @@ order: 500
 * [Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/), University of Oxford, UK
 
 **Associate Editors**
-* [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/hirschfeld/people/hirschfeld/), Hasso Plattner Institute, University of Postdam, Germany (Volume 7)
+* [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), Hasso Plattner Institute, University of Postdam, Germany (Volume 7)
 * [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6)
 
 **Past Associate Editors**
@@ -22,7 +22,7 @@ order: 500
 * [Cristina V. Lopes](http://www.ics.uci.edu/~lopes) (Founding Editor-in-Chief), University of California, Irvine, California (Volume 1)
 
 **Managing Editors**
-* [Tobias Pape](https://www.hpi.uni-potsdam.de/hirschfeld/people/pape/index.html), Hasso Plattner Institute, University of Postdam, Germany
+* [Tobias Pape](https://www.hpi.uni-potsdam.de/swa/people/pape/index.html), Hasso Plattner Institute, University of Postdam, Germany
 
 ## Advisory Board
 The role of the advisory board is to guide and support the work of the editorial board, to help planning longer-term editorial strategies, and to provide institutional memory. Advisory Board members serve for a period of three years, extendable to another three years.
