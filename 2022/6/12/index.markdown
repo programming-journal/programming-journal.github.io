@@ -13,6 +13,8 @@ authors:
   - name: "Mokhov, Andrey"
     affiliation: "Jane Street, UK / Newcastle University, UK"
 
+arxiv: "2202.09230"
+file: "https://arxiv.org/pdf/2202.09230v1"
 excerpt: |
     Graphs and various graph-like combinatorial structures, such as  preorders and hypergraphs, are ubiquitous in programming. This paper focuses on  representing graphs in a purely functional programming language like Haskell.  There are several existing approaches; one of the most recently developed ones  is the “algebraic graphs” approach (2017). It uses an algebraic data type to  represent graphs and has attracted users, including from industry, due to its  emphasis on equational reasoning and making a common class of bugs impossible  by eliminating internal invariants.  
       
@@ -30,7 +32,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 3, Article
 Submission date: 2021-10-01  
 Publication date: 2022-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/12>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2202.09230v1)  
 
 
 ### Abstract

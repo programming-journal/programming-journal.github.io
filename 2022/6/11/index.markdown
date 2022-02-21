@@ -13,6 +13,8 @@ authors:
   - name: "Keravnou-Papailiou, Elpida"
     affiliation: "University of Cyprus, Cyprus"
 
+arxiv: "2202.09229"
+file: "https://arxiv.org/pdf/2202.09229v1"
 excerpt: |
     A standing challenge in undergraduate Computer Science curricula is the teaching and learning of computer programming. Through this paper which is an essay about programming, we aim to contribute to the plethora of existing pedagogies, approaches and philosophies, by discussing a specific feature of our approach in teaching principled programming to undergraduate students, in their first semester of studies, namely the utilization of pictures, both text-based and raster-based graphics. Although the given course has evolved substantially over the thirty years of its delivery regarding the programming languages (Miranda, C, C++, Java) and paradigms (functional, imperative, object-oriented, combination of procedural and object-oriented) used, the discussed visual feature has been maintained and steadily strengthened.  
       
@@ -28,7 +30,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 3, Article
 Submission date: 2021-08-05  
 Publication date: 2022-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/11>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2202.09229v1)  
 
 
 ### Abstract

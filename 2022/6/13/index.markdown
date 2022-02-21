@@ -19,6 +19,8 @@ authors:
   - name: "Scherer, Gabriel"
     affiliation: "Inria, France"
 
+arxiv: "2202.09231"
+file: "https://arxiv.org/pdf/2202.09231v1"
 excerpt: |
     Context: It is common for programming languages that their reference implementation is implemented in the language itself. This requires a “bootstrap”: a copy of a previous version of the implementation is provided along with the sources, to be able to run the implementation itself.  
       
@@ -52,7 +54,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 3, Article
 Submission date: 2021-06-01  
 Publication date: 2022-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/13>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2202.09231v1)  
 
 
 ### Abstract

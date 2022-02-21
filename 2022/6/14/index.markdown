@@ -19,6 +19,8 @@ authors:
   - name: "De Meuter, Wolfgang"
     affiliation: "Vrije Universiteit Brussel, Belgium"
 
+arxiv: "2202.09228"
+file: "https://arxiv.org/pdf/2202.09228v1"
 excerpt: |
     Reactive programming is a popular paradigm to program event-driven applications, and it is often proposed as a paradigm to write distributed applications. One such type of application is *prosumer* applications, which are distributed applications that both produce and consume many events.  
       
@@ -40,7 +42,7 @@ The Art, Science, and Engineering of Programming, 2022, Vol. 6, Issue 3, Article
 Submission date: 2020-10-01  
 Publication date: 2022-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2022/6/14>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2202.09228v1)  
 
 
 ### Abstract
