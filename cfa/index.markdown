@@ -55,7 +55,7 @@ All accepted articles (including accepted articles subject to minor revisions) a
 
 Your submission should consist of three parts:
 
-1.  a Markdown-formatted README.md of your artifact,
+1.  a Markdown-formatted `README.md` of your artifact,
 2.  a URL pointing to either
     *   a single file containing the artifact (recommended) or
     *   the address of a public source control repository,
@@ -173,7 +173,7 @@ Common issues in the kick-the-tires phase are:
 *   Not explaining how to interpret results. For instance, if an artifact ran successfully and produced the output that was the basis for the article, but without any way for reviewers to check the output for consistency with the article. Examples included generating a list of warnings without documenting which were true vs. false positives and generating large tables of numbers that are presented graphically in the article without providing a way to generate analogous visualizations.  
 
 
-### COI
+### Conflicts of Interest
 
 Conflicts of interests for AEC members are handled by the chairs. Conflicts of interest involving one of the two AEC chairs are handled by the other AEC chair, or the associate editor of the current volume if both chairs are conflicted.
 
@@ -191,7 +191,7 @@ In general yes (if good explanations are provided, as explained above), but if s
 
 **Why do we need to use Zenodo for the _Available_ badge? Why not GitHub?**
 
-Commercial repositories are unreliable in that there is no guarantee the evaluated artifact will remain available indefinitely. Users can delete public repositories or their accounts. And in addition to universities deleting departmental URLs over time, hosting companies also sometimes simply delete data.
+Commercial repositories are unreliable in that there is no guarantee the evaluated artifact will remain available indefinitely. Users can delete public repositories or their accounts. And in addition to universities deleting departmental URLs over time, hosting companies also sometimes simply delete data. If your artifact is already available as a GitHub release, you can automatically let Zenodo a Zenodo entity from the release.
 
 **Reviewers identified things to fix in documentation or scripts for our artifact, and we'd prefer to publish the fixed version. Can we submit the improved version for the _Available_ badge?**
 
