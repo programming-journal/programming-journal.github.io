@@ -1,5 +1,5 @@
 ---
-title: Artifacts Evaluation
+title: Artifact Evaluation
 category: For Authors
 order: 350
 
@@ -15,26 +15,9 @@ Articles will include references to their artifacts and artifacts references to 
  
 Three badges are available, based on the [ACM artifact reviewing badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current): _Functional_, _Reusable_, and _Available_ (details below).
 
-### Important Dates
+### Timeline
 
-#### Issue 1
-
- * **April 8**: Authors of articles accepted for issue 1 submit artifacts
- * **April 15 - 22**: Authors may respond to problems identified following kick-the-tires instructions
- * **May 21**: Artifact notifications sent out
-
-#### Issue 2
-
- * **August 8**: Authors of articles accepted for issue 2 submit artifacts
- * **August 15 - 22**: Authors may respond to problems identified following kick-the-tires instructions
- * **September 21**: Artifact notifications sent out
-
-#### Issue 3
-
- * **December 8**: Authors of articles accepted for issue 3 submit artifacts
- * **December 15 - 22**: Authors may respond to problems found following kick-the-tires instructions
- * **January 21**: Artifact notifications sent out
-
+Please consult the [journal's submission timeline](/timeline) for the timeline of the artifact evaluation.
 
 ### Selection Criteria
 
