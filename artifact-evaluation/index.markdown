@@ -1,5 +1,5 @@
 ---
-title: Call for Artifacts
+title: Artifacts Evaluation
 category: For Authors
 order: 350
 
