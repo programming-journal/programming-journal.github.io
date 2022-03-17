@@ -64,4 +64,4 @@ Papers rejected in either the first or second phases may be resubmitted one more
 
 The journal offers an artifact evaluation process, allowing authors of accepted papers (including accepted subject to minor revisions) to submit results of any form (for example implementations, data, analysis results). Three badges are available, based on the [ACM Artifact Review and Badging badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current): available, functional, and reusable. Artifacts of accepted articles will be published and archived alongside their articles via Zenodo as part of the [Zenodo Programming community](https://zenodo.org/communities/programming/). Articles will include references to their artifacts and artifacts references to the corresponding articles. The artifact evaluation submission and reviewing schedule is aligned with that of paper submissions.
 
-For details see the [Artifact Evaluation](/artifact-evaluation) page.
+For details see the [Artifact Evaluation](/ae) page.
