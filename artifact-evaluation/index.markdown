@@ -36,7 +36,7 @@ The Artifact Evaluation Committee (AEC) takes the position of future researchers
 
 All accepted articles (including accepted articles subject to minor revisions) are eligible to submit artifacts.
 
-Your submission should consist of three parts:
+Your submission should consist of three parts, all in one file:
 
 1.  a Markdown-formatted `README.md` of your artifact,
 2.  a URL pointing to either
@@ -46,10 +46,16 @@ Your submission should consist of three parts:
     *   an sha256 hash of the single file (use the `sha256sum` command-line tool to generate the hash) or
     *   the _full_ commit hash for the repository (e.g., from `git reflog --no-abbrev`)
 
-The URL must be a public Google Drive, Dropbox, GitHub, Bitbucket, or GitLab URL, to help protect the anonymity of the reviewers. You may upload your artifact directly if it is a single file less than 20 MB.
+The URL must be a public Google Drive, Dropbox, GitHub, Bitbucket, or GitLab URL, to help protect the anonymity of the reviewers.
 <!-- This is the easy-chair limitation, checked 2022-03-07 -->
 
 Artifacts do _not_ need to be anonymous; reviewers will be aware of author identities.
+
+### Submission System
+
+Submit your artifact documentation via the [online submission system](https://easychair.org/conferences/?conf=programmingartifacts0).
+
+Please upload a single file that includes the URL to your artifact, the hash of the artifact at submission time, and the content of the README file.
 
 ### Contents of the Artifact README.md
 Your README.md should consist of three parts:
