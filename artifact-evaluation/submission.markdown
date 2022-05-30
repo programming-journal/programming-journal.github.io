@@ -1,5 +1,6 @@
 ---
 title: "Artifact Submission"
+order: 351
 ---
 
 All accepted articles (including accepted articles subject to minor revisions) are eligible to submit artifacts.
