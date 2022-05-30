@@ -13,7 +13,7 @@ Submissions to AE are voluntary. Articles evaluated positively in the AE process
 If authors agree to make their artifacts publicly available, we will publish and archive the artifact alongside their article via Zenodo as part of the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/).
 Articles will include references to their artifacts and artifacts references to the corresponding articles.
  
-Three badges are available, based on the [ACM artifact reviewing badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current): _Functional_, _Reusable_, and _Available_ (details below).
+Three badges are available, based on the [ACM artifact reviewing badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current): _Available_, _Functional_, or _Reusable_ (details below).
 
 ### Timeline
 
