@@ -106,11 +106,26 @@ We allow additional rounds of interaction with reviewers in the case new issues 
 
 ### Badges
 
-The AEC evaluates each artifact for the awarding of Functional or Reusable badges:
+The AEC evaluates each artifact for the awarding of the Available, Functional, or Reusable badge:
+
+#### Available
+
+<aside style="float:right;" ><img src="../assets/images/ae_available.svg" width=200 alt="available badge"></aside>
+
+
+This badge is automatically earned by artifacts that are made publicly available _in an archival location_.
+This can be earned by an artifact including those not reviewed by the AEC and those reviewed but not found _Functional_ during reviewing.
+
+There are two routes for this:
+1.  Authors upload a snapshot of the complete artifact to [Zenodo](https://zenodo.org/), which provides a DOI specific to the artifact. Note that GitHub etc. are not adequate for receiving this badge (see FAQ), and that Zenodo provides a way to make subsequent revisions of the artifact available and linked from the specific version. Please upload your artifact to the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/). Please send the resulting DOI to the AEC chairs.
+2.  Authors can send the complete artifact to the AEC chairs to take care of publication via [Zenodo](https://zenodo.org/).
+
+<!-- We require that artifacts that were evaluated as _Functional_ archive _the evaluated version_. -->
+
 
 #### Functional
 
-<!-- ![functional badge](/assets/images/artifacts_evaluated_functional_dl.jpg) -->
+<aside style="float:right;" ><img src="../assets/images/ae_functional.svg" width=200 alt="functional badge"></aside>
 
 This is the basic “accepted” outcome for an artifact. An artifact can be awarded a _Functional_ badge if the artifact supports all claims made in the article, possibly excluding some claims if there are very good reasons they cannot be supported. In the ideal case, an artifact with this designation includes all relevant code, dependencies, and input data (e.g., benchmarks) and the artifact’s documentation is sufficient for reviewers to reproduce the exact results described in the article. If the artifact is claimed to outperform a related system in some way (in time, accuracy, etc.) and that related system was used to generate new numbers for the article (e.g., an existing tool was run on new benchmarks not considered by the corresponding publication), artifacts should include a version of that related system and instructions for reproducing the numbers used for comparison as well. If the alternative tool crashes on a subset of the inputs, simply note this expected behavior.
 
@@ -125,7 +140,7 @@ In some cases, the artifact may require specialized hardware (e.g., a CPU with a
 
 #### Reusable
 
-<!-- ![reusable badge](/assets/images/artifacts_evaluated_reusable_dl.jpg) -->
+<aside style="float:right;" ><img src="../assets/images/ae_reusable.svg" width=200 alt="reusable badge"></aside>
 
 A _Reusable_ badge is given when the artifact not only satisfies the requirements to be _Functional_ but additionally reviewers feel the artifact is particularly well packaged, documented, designed, etc. to support future research that might build on the artifact. For example, if it seems relatively easy for others to reuse this directly as the basis of a follow-on project, the AEC may award a _Reusable_ badge.
 
@@ -138,19 +153,6 @@ Artifacts with source can be considered reusable:
 
 Artifacts given the _Functional_ or _Reusable_ badge are generally referred to as _accepted_.
 
-
-#### Available
-
-<!-- ![available badge](/assets/images/artifacts_available_dl.jpg) -->
-
-This badge is automatically earned by artifacts that are made publicly available _in an archival location_.
-This can be earned by an artifact including those not reviewed by the AEC and those reviewed but not found _Functional_ during reviewing.
-
-There are two routes for this:
-1.  Authors upload a snapshot of the complete artifact to [Zenodo](https://zenodo.org/), which provides a DOI specific to the artifact. Note that GitHub etc. are not adequate for receiving this badge (see FAQ), and that Zenodo provides a way to make subsequent revisions of the artifact available and linked from the specific version. Please upload your artifact to the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/). Please send the resulting DOI to the AEC chairs.
-2.  Authors can send the complete artifact to the AEC chairs to take care of publication via [Zenodo](https://zenodo.org/).
-
-<!-- We require that artifacts that were evaluated as _Functional_ archive _the evaluated version_. -->
 
 ### Common Issues
 
