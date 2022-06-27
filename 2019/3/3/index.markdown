@@ -28,15 +28,15 @@ excerpt: |
     Inquiry.
     Since the 70's many debugging solutions were introduced. 
     Amongst them, online debuggers provide a good insight on the conditions that led to a bug, allowing inspection and interaction with the variables of the program.
-    However, most of the online debugging solutions introduce \textit{debugging interference} to the execution of the program, i.e.  pauses, latency, and evaluation of code containing side-effects. 
+    However, most of the online debugging solutions introduce *debugging interference* to the execution of the program, i.e.  pauses, latency, and evaluation of code containing side-effects. 
     
     Approach
-    This paper investigates a novel debugging technique called \outofplace debugging.
+    This paper investigates a novel debugging technique called *out-of-place* debugging.
     The goal is to minimize the debugging interference characteristic of online debugging while allowing online remote capabilities.
-    An \outofplace debugger transfers the program execution and application state from the debugged application to the debugger application, both running in different processes.
+    An *out-of-place* debugger transfers the program execution and application state from the debugged application to the debugger application, both running in different processes.
     
     Knowledge.
-    On the one hand, \outofplace debugging allows developers to debug applications remotely, overcoming the need of physical access to the machine where the debugged application is running.
+    On the one hand, *out-of-place* debugging allows developers to debug applications remotely, overcoming the need of physical access to the machine where the debugged application is running.
     On the other hand, debugging happens locally on the remote machine avoiding latency.
     That makes it suitable to be deployed on a distributed system and handle the debugging of several processes running in parallel.
     
@@ -72,15 +72,15 @@ As applications become more and more complex, developers demand more advanced de
 Inquiry.
 Since the 70's many debugging solutions were introduced. 
 Amongst them, online debuggers provide a good insight on the conditions that led to a bug, allowing inspection and interaction with the variables of the program.
-However, most of the online debugging solutions introduce \textit{debugging interference} to the execution of the program, i.e.  pauses, latency, and evaluation of code containing side-effects. 
+However, most of the online debugging solutions introduce *debugging interference* to the execution of the program, i.e.  pauses, latency, and evaluation of code containing side-effects. 
 
 Approach
-This paper investigates a novel debugging technique called \outofplace debugging.
+This paper investigates a novel debugging technique called *out-of-place* debugging.
 The goal is to minimize the debugging interference characteristic of online debugging while allowing online remote capabilities.
-An \outofplace debugger transfers the program execution and application state from the debugged application to the debugger application, both running in different processes.
+An *out-of-place* debugger transfers the program execution and application state from the debugged application to the debugger application, both running in different processes.
 
 Knowledge.
-On the one hand, \outofplace debugging allows developers to debug applications remotely, overcoming the need of physical access to the machine where the debugged application is running.
+On the one hand, *out-of-place* debugging allows developers to debug applications remotely, overcoming the need of physical access to the machine where the debugged application is running.
 On the other hand, debugging happens locally on the remote machine avoiding latency.
 That makes it suitable to be deployed on a distributed system and handle the debugging of several processes running in parallel.
 
