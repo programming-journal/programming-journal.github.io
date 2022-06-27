@@ -6,8 +6,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/xcharter.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ '/assets/stylesheets/xcharter.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/stylesheets/bootstrap.min.css' | relative_url }}">
     {% assign alternates = site.pages | where_exp: "page", "page.alternate != nil" | sort:"order" %}
     {% for alternate in alternates %}
     <link rel="alternate" type="{{alternate.alternate}}" title="{{alternate.menutitle}}" href="{{ alternate.url }}">
@@ -24,7 +24,7 @@
     </style>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
-    <script src="{{ site.baseurl }}/assets/javascripts/html5shiv.min.js"></script>
+    <script src="{{ '/assets/javascripts/html5shiv.min.js' | relative_url }}"></script>
     <![endif]-->
     {% if page.type and page.type == "article" %}
     {% include article_metadata.html %}
@@ -167,14 +167,14 @@
                   </ul>
             </nav>
             <div class="hidden-xs" >
-              <img src="{{ site.baseurl }}/assets/aosa.svg" class="pull-right" style="width: 50%; margin: 2em;" alt="AOSA, Inc" title="AOSA, Inc">
+              <img src="{{ '/assets/aosa.svg' | relative_url }}" class="pull-right" style="width: 50%; margin: 2em;" alt="AOSA, Inc" title="AOSA, Inc">
             </div>
           </header>
         </div>
       </div>
       <footer>
       <div class="visible-xs" >
-        <img style="height: 3em; padding: .5ex 1em" src="{{ site.baseurl }}/assets/aosa.svg" class="pull-right" alt="AOSA, Inc" title="AOSA, Inc">
+        <img style="height: 3em; padding: .5ex 1em" src="{{ '/assets/aosa.svg' | relative_url }}" class="pull-right" alt="AOSA, Inc" title="AOSA, Inc">
       </div>
         <ol class="breadcrumb text-muted small">
         <li>{{site.title}}</li>
@@ -189,8 +189,8 @@
       </ol>
       </footer>
     </div>
-    <script src="{{ site.baseurl }}/assets/javascripts/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/javascripts/bootstrap.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/javascripts/custom.js"></script>
+    <script src="{{ '/assets/javascripts/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/javascripts/bootstrap.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/javascripts/custom.js' | relative_url }}"></script>
   </body>
 </html>
