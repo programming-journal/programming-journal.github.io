@@ -44,6 +44,7 @@ Full text: [PDF](https://arxiv.org/pdf/1704.00074v1)
 
 
 ### Abstract
+
 The better developers can learn software tools, the faster they can start using them
 and the more efficiently they can later work with them. Tutorials are supposed to help here. While in the early days of computing, mostly text tutorials were available, nowadays software developers can choose among a huge number of tutorials for almost any popular software tool.
 However, only little research was conducted to understand how text tutorials differ from other tutorials, which tutorial types are preferred and, especially, which tutorial types yield the best learning experience in terms of efficiency and effectiveness, especially for programmers.

@@ -42,6 +42,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06190v1)
 
 
 ### Abstract
+
 A growing amount of code is written to explore and analyze data, often by data analysts who do not have a traditional background in programming, for example by journalists.
 
 The way such data analysts write code is different from the way software engineers do so. They use few abstractions, work interactively and rely heavily on external libraries. We aim to capture this way of working and build a programming environment that makes data exploration easier by providing instant live feedback.

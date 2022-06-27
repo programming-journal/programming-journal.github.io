@@ -42,6 +42,7 @@ Full text: [PDF](https://arxiv.org/pdf/1608.00099v2)
 
 
 ### Abstract
+
 Context: Multidimensional arrays are used by many different algorithms. As such, indexing and broadcasting complex operations over multidimensional arrays are ubiquitous tasks and can be performance limiting. 
 
 Inquiry: Simultaneously indexing two or more multidimensional arrays with different shapes (e.g., copying data from one tensor to another larger, zero padded tensor in anticipation of a convolution) is difficult to do efficiently: Hard-coded nested for loops in C, Fortran, and Go cannot be applied when the dimension of a tensor is unknown at compile time. Likewise, boost::multi_array cannot be used unless the dimensions of the array are known at compile time, and the style of implementation restricts the user from using the index tuple inside a vectorized operation (as would be required to compute an expected value of a multidimensional distribution). On the other hand, iteration methods that do not require the dimensionality or shape to be known at compile time (e.g., incrementing and applying carry operations to index tuples or remapping integer indices in the flat array), can be substantially slower than hard-coded nested for loops.

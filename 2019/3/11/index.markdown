@@ -53,6 +53,7 @@ Full text: [PDF](https://arxiv.org/pdf/1902.00735v1)
 
 
 ### Abstract
+
 The World model is an existing functional input-output mechanism for event-driven programming.
 It is used in numerous popular textbooks and curricular settings.
 

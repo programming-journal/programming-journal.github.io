@@ -48,6 +48,7 @@ Full text: [PDF](https://arxiv.org/pdf/1902.00545v2)
 
 
 ### Abstract
+
 Graph-based data models allow for flexible data representation. In particular, semantic data based
 on RDF and OWL fuels use cases ranging from general knowledge graphs to domain specific knowledge in
 various technological or scientific domains. The flexibility of such approaches, however, makes programming

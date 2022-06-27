@@ -48,6 +48,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10197v1)
 
 
 ### Abstract
+
 Context. Software development pipelines are used for automating essential parts of software engineering processes, such as build automation and continuous integration testing. In particular, interactive pipelines, which process events in a live environment such as an IDE, require timely results for low-latency feedback, and persistence to retain low-latency feedback between restarts.
 
 Inquiry. Developing an incrementalized and persistent version of a pipeline is one way to reduce feedback latency, but requires implementation of dependency tracking, cache invalidation, and other complicated and error-prone techniques. Therefore, interactivity complicates pipeline development if timeliness and persistence become responsibilities of the pipeline programmer, rather than being supported by the underlying system. Systems for programming incremental and persistent pipelines exist, but do not focus on ease of development, requiring a high degree of boilerplate, increasing development and maintenance effort.

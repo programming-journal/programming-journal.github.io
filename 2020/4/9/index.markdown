@@ -40,6 +40,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06179v1)
 
 
 ### Abstract
+
 Context: The algorithms for generating a safe fluent API are actively studied these years. A safe fluent API is the fluent API that reports incorrect chaining of the API methods as a type error to the API users. Although such a safe property improves the productivity of its users, the construction of a safe fluent API is too complicated for the developers. The generation algorithms are studied to reduce the development cost of a safe fluent API. The study on the generation would benefit a number of programmers since a fluent API is a popular design in the real world.
 
 Inquiry: The generation of a generic fluent API has been left untackled. A generic fluent API refers to the fluent API that provides generic methods (methods that contain type parameters in their definitions). The Stream API in Java is an example of such a generic API. The recent research on the safe fluent API generation rather focuses on the grammar class that the algorithm can deal with for syntax checking. The key idea of the previous study is to use nested generics to represent a stack structure for the parser built on top of the type system. In that idea, the role of a type parameter was limited to internally representing a stack element of that parser on the type system. The library developers could not use type parameters to include a generic method in their API so that the semantic constraints for their API would be statically checked, for example, the type constraint on the items passed through a stream.

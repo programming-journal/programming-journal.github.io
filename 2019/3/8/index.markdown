@@ -66,6 +66,7 @@ Full text: [PDF](https://arxiv.org/pdf/1805.08059v4)
 
 
 ### Abstract
+
 One Monad to Prove Them All is a modern fairy tale about curiosity and perseverance, two important properties of a successful PhD student. We follow the PhD student Mona on her adventure of proving
 properties about Haskell programs in the proof assistant Coq.
 

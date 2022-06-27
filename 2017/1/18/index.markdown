@@ -46,6 +46,7 @@ Full text: [PDF](https://arxiv.org/pdf/1609.06622v2)
 
 
 ### Abstract
+
 Context: In the context of exploring the art, science and engineering of programming, the question of which programming languages should be taught first has been fiercely debated since computer science teaching started in universities. Failure to grasp programming readily almost certainly implies failure to progress in computer science.
 
 Inquiry: What first programming languages are being taught? There have been regular national-scale surveys in Australia and New Zealand, with the only US survey reporting on a small subset of universities. This the first such national survey of universities in the UK.

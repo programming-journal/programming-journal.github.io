@@ -51,6 +51,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10201v1)
 
 
 ### Abstract
+
 Context: Software development tools that interact with running programs such as debuggers, profilers, and dynamic analysis frameworks are presumed to demand difficult tradeoffs among implementation complexity (cost), functionality, usability, and performance. Among the many consequences, tools are often delivered late (if ever), have limited functionality, require non-standard configurations, and impose serious performance costs on running programs.
 
 Inquiry: Can flexible tool support become a practical, first class, intrinsic requirement for a modern highperformance programming language implementation framework?

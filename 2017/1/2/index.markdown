@@ -40,6 +40,7 @@ Full text: [PDF](https://arxiv.org/pdf/1701.08119v1)
 
 
 ### Abstract
+
 Since the early days of the Web, web application developers have aspired to develop much of their applications declaratively. However, one aspect of the application, namely its business-logic is constantly left imperative. In this work we present Application Embedding, a novel approach to application development which allows all aspects of an application, including its business-logic, to be programmed declaratively.
 
 We develop this approach in a two-step process. First, we draw a mapping between web applications and Domain-Specific Languages (DSLs). Second, we note that out of the two methods for implementing DSLs, namely as either internal or external, most traditional web applications correspond to external DSLs, while the the technique that corresponds to DSL embedding (implementing internal DSLs) is left mostly unexplored.

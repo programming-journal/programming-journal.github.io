@@ -46,6 +46,7 @@ Full text: [PDF](https://arxiv.org/pdf/1712.01163v1)
 
 
 ### Abstract
+
 Context: In C, low-level errors, such as buffer overflow and use-after-free, are a major problem, as they cause security vulnerabilities and hard-to-find bugs. C lacks automatic checks, and programmers cannot apply defensive programming techniques because objects (e.g., arrays or structs) lack run-time information about bounds, lifetime, and types.
 Inquiry: Current approaches to tackling low-level errors include dynamic tools, such as bounds or type checkers, that check for certain actions during program execution. If they detect an error, they typically abort execution. Although they track run-time information as part of their runtimes, they do not expose this information to programmers.
 Approach: We devised an introspection interface that allows C programmers to access run-time information and to query object bounds, object lifetimes, object types, and information about variadic arguments. This enables library writers to check for invalid input or program states and thus, for example, to implement custom error handling that maintains system availability and does not terminate on benign errors. As we assume that introspection is used together with a dynamic tool that implements automatic checks, errors that are not handled in the application logic continue to cause the dynamic tool to abort execution.

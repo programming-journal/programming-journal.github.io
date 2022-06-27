@@ -62,6 +62,7 @@ Full text: [PDF](https://arxiv.org/pdf/1902.00549v1)
 
 
 ### Abstract
+
 When working on a program, developers traditionally have to simulate the behavior of the abstract
 code in their heads until they can execute the application. Live programming aims to support the development
 and comprehension of programs by providing more immediate feedback on program behavior, but the divide

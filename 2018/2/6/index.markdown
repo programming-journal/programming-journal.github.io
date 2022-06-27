@@ -36,6 +36,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10198v1)
 
 
 ### Abstract
+
 Programming languages and platforms improve over time, sometimes resulting in new language features that offer many benefits. However, despite these benefits, developers may not always be willing to adopt them in their projects for various reasons. In this paper, we describe an empirical study where we assess the adoption of a particular new language feature. Studying how developers use (or do not use) new language features is important in programming language research and engineering because it gives designers insight into the usability of the language to create meaning programs in that language. This knowledge, in turn, can drive future innovations in the area. Here, we explore Java 8 default methods, which allow interfaces to contain (instance) method implementations. 
 
 Default methods can ease interface evolution, make certain ubiquitous design patterns redundant, and improve both modularity and maintainability. A focus of this work is to discover, through a scientific approach and a novel technique, situations where developers found these constructs useful and where they did not, and the reasons for each. Although several studies center around assessing new language features, to the best of our knowledge, this kind of construct has not been previously considered.

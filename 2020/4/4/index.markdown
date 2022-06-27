@@ -31,6 +31,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06178v1)
 
 
 ### Abstract
+
 The notion of programming paradigms, with associated programming languages and methodologies, is a well established tenet of Computer Science pedagogy, enshrined in international curricula. However,this notion sits ill with Kuhn’s classic conceptualisation of a scientific paradigm as a dominant world view, which supersedes its predecessors through superior explanatory power.
 
 Furthermore, it is not at all clear how programming paradigms are to be characterised and differentiated. Indeed, on closer inspection, apparently disparate programming paradigms are very strongly connected. Rather, they should be viewed as different traditions of a unitary Computer Science paradigm of Turing complete computation complemented by Computational Thinking.

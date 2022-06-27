@@ -39,6 +39,7 @@ Full text: [PDF](https://arxiv.org/pdf/1909.12795v1)
 
 
 ### Abstract
+
 Researchers have developed various techniques for static analysis of JavaScript to improve analysis precision.  To develop such techniques, they first identify causes of the precision losses for unproven properties.  While most of the existing work has diagnosed main causes of imprecision in static analysis by manual investigation, manually tracing the imprecision causes is challenging because it requires detailed knowledge of analyzer internals.  Recently, several studies proposed to localize the analysis imprecision causes automatically, but these localization techniques work for only specific analysis techniques.
 
 

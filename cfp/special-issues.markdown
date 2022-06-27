@@ -5,8 +5,10 @@ title: "Special Issues"
 ### September 2018
 
 **Special issue: Essays**
+
 * Guest editor: Richard Gabriel, Dream Songs Inc., USA, & HPI, Germany
 * Submission deadline: **April 23, 2018**
+
 * First notification: June 11, 2018
 * Revised papers: July 15, 2018
 * Final notification: July 30, 2018

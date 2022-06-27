@@ -58,6 +58,7 @@ Full text: [PDF](https://arxiv.org/pdf/1909.12279v1)
 
 
 ### Abstract
+
 Context: Database-backed applications often run queries with more authority than necessary. Since programs can access more data than they legitimately need, flaws in security checks at the application level can enable malicious or buggy code to view or modify data in violation of intended access control policies. 
 
 

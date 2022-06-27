@@ -45,6 +45,7 @@ Full text: [PDF](https://arxiv.org/pdf/2111.10413v1)
 
 
 ### Abstract
+
 #### Context
 Reynolds showed us how to use continuation-passing style and defunctionalization to transform a recursive interpreter for a language into an abstract machine for programs in that language. The same techniques explain other programming tricks, including zippers and accumulating parameters.
 

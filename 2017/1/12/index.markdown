@@ -42,6 +42,7 @@ Full text: [PDF](https://arxiv.org/pdf/1703.10859v1)
 
 
 ### Abstract
+
 Modern software development without reactive programming is hard to imagine. Reactive programming favors a wide class of contemporary software systems that respond to user input, network messages, and other events.
 
 While reactive programming is an active field of research, the implementation of reactive concepts remains challenging. In particular, change detection represents a hard but inevitable necessity when implementing reactive concepts. Typically, change detection mechanisms are not intended for reuse but are tightly coupled to the particular change resolution mechanism. As a result, developers often have to re-implement similar abstractions. A reusable primitive for change detection is still missing.

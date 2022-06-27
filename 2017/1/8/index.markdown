@@ -37,6 +37,7 @@ Full text: [PDF](https://arxiv.org/pdf/1703.10860v1)
 
 
 ### Abstract
+
 The occurrence of similar code, or `code clones', can make program code difficult to read, modify and maintain. This paper describes industrial case studies of clone detection and elimination using a refactoring and clone detection tool. We discuss how the studies have informed the design of the tool; more importantly, we use the studies to illustrate the complex set of decisions that have to be taken when performing clone elimination in practice. 
 
 The case studies were performed in collaboration with engineers from Ericsson AB, and used the refactoring tool Wrangler for Erlang. However, the conclusions we draw are largely language-independent, and set out the pragmatics of clone detection and elimination in real-world projects as well as design principles for clone detection decision-support tools.

@@ -45,6 +45,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10215v1)
 
 
 ### Abstract
+
 **Context** Context-free grammars are widely used for language prototyping and implementation. They allow formalizing the syntax of domain-specific or general-purpose programming languages concisely and declaratively. However, the natural and concise way of writing a context-free grammar is often ambiguous. Therefore, grammar formalisms support extensions in the form of *declarative disambiguation rules* to specify operator precedence and associativity, solving ambiguities that are caused by the subset of the grammar that corresponds to expressions.
 
 **Inquiry** Implementing support for declarative disambiguation within a parser typically comes with one or more of the following limitations in practice: a lack of parsing performance, or a lack of modularity (i.e., disallowing the composition of grammar fragments of potentially different languages). The latter subject is generally addressed by scannerless generalized parsers. We aim to equip scannerless generalized parsers with novel disambiguation methods that are inherently performant, without compromising the concerns of modularity and language composition.

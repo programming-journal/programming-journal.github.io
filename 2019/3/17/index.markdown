@@ -27,6 +27,7 @@ Full text: [PDF](https://zenodo.org/record/6298949)
 
 
 ### Abstract
+
 Abstraction is broadly considered a key asset in the making of software. However, unconditional belief in abstraction puts software development at a high risk of failure. This essay combines some personal observations with General concerns about the potential fatality of abstraction.
 
 

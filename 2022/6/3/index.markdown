@@ -52,6 +52,7 @@ Full text: [PDF](https://arxiv.org/pdf/2107.07298v1)
 
 
 ### Abstract
+
 A future is an entity representing the result of an ongoing computation.
 A synchronisation with a "get" operation blocks the caller until the computation is over, to return the corresponding value.
 When a computation in charge of fulfilling a future delegates part of its processing to another task, mainstream languages return nested futures, and several "get" operations are needed to retrieve the computed value (we call such futures "control-flow futures").

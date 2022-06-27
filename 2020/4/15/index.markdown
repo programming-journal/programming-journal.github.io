@@ -45,6 +45,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06187v1)
 
 
 ### Abstract
+
 Context: Domain-specific languages (DSLs) enable domain experts to specify tasks and problems themselves, while enabling static analysis to elucidate issues in the modelled domain early. Although language work-
 benches have simplified the design of DSLs and extensions to general purpose languages, static analyses must still be implemented manually.
 Inquiry: Moreover, static analyses, e.g., complexity metrics, dependency analysis, and declaration-use analysis, are usually domain-dependent and cannot be easily reused. Therefore, transferring existing static analyses to another DSL incurs a huge implementation overhead. However, this overhead is not always intrinsically necessary: in many cases, while the concepts of the DSL on which a static analysis is performed are domain-specific, the underlying algorithm employed in the analysis is actually domain-independent and thus can be reused in principle, depending on how it is specified. While current approaches either implement static analyses internally or with an external Visitor, the implementation is tied to the language’s grammar and cannot be reused easily. Thus far, a commonly used approach that achieves reusable static analysis relies on the transformation into an intermediate representation upon which the analysis is performed. This, however, entails a considerable additional implementation effort.

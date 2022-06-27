@@ -41,6 +41,7 @@ Full text: [PDF](https://arxiv.org/pdf/1703.10862v1)
 
 
 ### Abstract
+
 Live programming environments enable programmers to edit a running program and obtain immediate feedback on each individual change. The liveness quality is valued by programmers to help work in small steps and continuously add or correct small functionality while maintaining the impression of a direct connection between each edit and its manifestation at run-time. Such immediacy may conflict with the desire to perform a combined set of intermediate steps, such as a refactoring, without immediately taking effect after each individual edit. This becomes important when an incomplete sequence of small-scale changes can easily break the running program.
 
 State-of-the-art solutions focus on retroactive recovery mechanisms, such as debugging or version control. In contrast, we propose a proactive approach: Multiple individual changes to the program are collected in an Edit Transaction, which can be made effective if deemed complete. Upon activation, the combined steps become visible together.

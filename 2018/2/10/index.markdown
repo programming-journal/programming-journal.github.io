@@ -39,6 +39,7 @@ Full text: [PDF](https://arxiv.org/pdf/1804.00485v1)
 
 
 ### Abstract
+
 The relation between Science (what we can explain) and Art (what we can’t) has long been acknowledged and while every science contains an artistic part, every art form also needs a bit of science. Among all scientific disciplines, programming holds a special place for two reasons. First, the artistic part is not only undeniable but also essential. Second, and much like in a purely artistic discipline, the act of programming is driven partly by the notion of aesthetics: the pleasure we have in creating beautiful things.
 
 Even though the importance of aesthetics in the act of programming is now unquestioned, more could still be written on the subject. The field called "psychology of programming" focuses on the cognitive aspects of the activity, with the goal of improving the productivity of programmers. While many scientists have emphasized their concern for aesthetics and the impact it has on their activity, few computer scientists have actually written about their thought process while programming.

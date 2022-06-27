@@ -51,6 +51,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10200v1)
 
 
 ### Abstract
+
 Context: Software development tools should work and behave consistently across different programming languages, so that developers do not have to familiarize themselves with new tooling for new languages. Also, being able to combine multiple programming languages in a program increases reusability, as developers do not have to recreate software frameworks and libraries in the language they develop in and can reuse existing software instead.
 
 Inquiry: However, developers often have a broad choice of tools, some of which are designed for only one specific programming language. Various Integrated Development Environments have support for multiple languages, but are usually unable to provide a consistent programming experience due to different language-specific runtime features. With regard to language integrations, common mechanisms usually use abstraction layers, such as the operating system or a network connection, which are often boundaries for tools and hence negatively affect the programming experience.

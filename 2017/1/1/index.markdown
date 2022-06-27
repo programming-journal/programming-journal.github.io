@@ -51,6 +51,7 @@ Full text: [PDF](https://arxiv.org/pdf/1701.08114v1)
 
 
 ### Abstract
+
 Context. Variability-intensive programs (program families) appear in many application areas and for many reasons today. Different family members, called variants, are derived by switching statically configurable options (features) on and off, while reuse of the common code is maximized. 
 
 Inquiry. Verification of program families is challenging since the number of variants is exponential in the number of features. Existing single-program analysis and verification tools cannot be applied directly to program families, and designing and implementing the corresponding variability-aware versions is tedious and laborious.

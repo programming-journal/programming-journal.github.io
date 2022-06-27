@@ -38,6 +38,7 @@ Full text: [PDF](https://arxiv.org/pdf/1910.09579v2)
 
 
 ### Abstract
+
 Dataflow programming is a popular and convenient programming paradigm in systems modelling, optimisation, and machine learning. It has a number of advantages, for instance the lacks of control flow allows computation to be carried out in parallel as well as in distributed machines. More recently the idea of dataflow graphs has also been brought into the design of various deep learning frameworks. They facilitate an easy and efficient implementation of automatic differentiation, which is the heart of modern deep learning paradigm. 
 
 Many dataflow languages are ‘modal’ in the sense that the dataflow graph is ‘constructed’ in an ambient environment then ‘executed’ using special commands. Simulink, earlier Tensorflow, Lucid Synchrone (LS) or Self-adjusting computation (SAC) are examples of such languages. We are interested in modal dataflow languages in which the ambient environment is a fully fledged functional and imperative language. Such ambient languages make creating complex and large models easier, but they raise questions of language design, safety and efficiency. 

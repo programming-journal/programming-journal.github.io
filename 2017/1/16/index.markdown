@@ -42,6 +42,7 @@ Full text: [PDF](https://arxiv.org/pdf/1703.10864v1)
 
 
 ### Abstract
+
 Reversible debuggers and process replay have been developed at least since 1970.  This vision enables one to execute backwards in time under a debugger. Two important problems in practice are that, first, current reversible debuggers are slow when reversing over long time periods, and, second, after building one reversible debugger, it is difficult to transfer that achievement to a new programming environment.
 
 The user observes a bug when arriving at an error. Searching backwards for the correspond- ing fault may require many reverse steps. Ultimately, the user prefers to write an expression that will transition to false upon arriving at the fault. The solution is an expression-transition watchpoint facility based on top of snapshots and record/replay. Expression-transition watch- points are implemented as binary search through the timeline of a program execution, while using the snapshots as landmarks within that timeline. This allows for debugging of subtle bugs that appear only after minutes or more of program execution. When a bug occurs within seconds of program startup, repeated debugging sessions suffice. Reversible debugging is preferred for bugs seen only after minutes.

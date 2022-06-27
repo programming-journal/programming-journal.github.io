@@ -82,6 +82,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06191v2)
 
 
 ### Abstract
+
 Developers need to make a constant effort to improve the quality of
 their code if they want to stay productive. Tools that highlight code
 locations that could benefit from refactoring are thus highly desirable.

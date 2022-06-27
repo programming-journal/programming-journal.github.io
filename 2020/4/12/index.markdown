@@ -40,6 +40,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06213v1)
 
 
 ### Abstract
+
 The practice of unit testing enables programmers to obtain automated feedback on whether a currently edited program is consistent with the expectations specified in test cases. Feedback is most valuable when it happens immediately, as defects can be corrected instantly before they become harder to fix. With growing and longer running test suites, however, feedback is obtained less frequently and lags behind program changes.
 	
 The objective of test prioritization is to rank tests so that defects, if present, are found as early as possible or with the least costs. While there are numerous static approaches that output a ranking of tests solely based on the current version of a program, we focus on change-based test prioritization, which recommends tests that likely fail in response to the most recent program change. The canonical approach relies on coverage data and prioritizes tests that cover the changed region, but obtaining and updating coverage data is costly. More recently, information retrieval techniques that exploit overlapping vocabulary between change and tests have proven to be powerful, yet lightweight.

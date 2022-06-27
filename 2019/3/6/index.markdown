@@ -73,6 +73,7 @@ Full text: [PDF](https://arxiv.org/pdf/1902.00544v1)
 
 
 ### Abstract
+
 Multiparty session types (MST) are a well-established type theory that describes the interactive
 structure of a fixed number of components from a global point of view and type-checks the components
 through projection of the global type onto the participants of the session. They guarantee communicationsafety for a language of multiparty sessions (LMS), i.e., distributed, parallel components can exchange values

@@ -71,6 +71,7 @@ Full text: [PDF](https://arxiv.org/pdf/2005.09028v2)
 
 
 ### Abstract
+
 Domain-specific languages (DSLs) are touted as both easy to embed in
 programs and easy to optimize. Yet these goals are often in
 tension. Embedded or internal DSLs fit naturally with a host language,

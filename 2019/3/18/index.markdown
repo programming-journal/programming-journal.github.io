@@ -28,6 +28,7 @@ Full text: [PDF](https://arxiv.org/pdf/1902.05464v1)
 
 
 ### Abstract
+
 Our community believes that new domain-specific languages should be as general as possible to increase their impact. However, I argue in this essay that we should stop claiming generality for new domain-specific languages. More general domain-specific languages induce more boilerplate code. Moreover, domain-specific languages are co-developed with their applications in practice, and tend to be specific for these applications. Thus, I argue we should stop claiming generality in favor of documenting how domain-specific language based software development is beneficial to the overall software development process. The acceptance criteria for scientific literature should make the same shift: accepting good domain-specific language engineering practice, instead of the next language to rule them all.
 
 

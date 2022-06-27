@@ -39,6 +39,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10670v1)
 
 
 ### Abstract
+
 Context. TypeState-Oriented Programming (TSOP) is a paradigm intended to help developers in the implementation and use of mutable objects whose public interface depends on their private state. Under this paradigm, well-typed programs are guaranteed to conform with the protocol of the objects they use.
 
 Inquiry. Previous works have investigated TSOP for both sequential and concurrent objects. However, an important difference between the two settings still remains. In a sequential setting, a well-typed program either progresses indefinitely or terminates eventually. In a concurrent setting, protocol conformance is no longer enough to avoid deadlocks, a situation in which the execution of the program halts because two or more objects are involved in mutual dependencies that prevent any further progress.

@@ -65,6 +65,7 @@ Kapil Arya, Tyler Denniston, Ariel Rabkin, and Gene Cooperman
 
 
 
+
   {: start="17"}
   1. [What Is the Best Way For Developers to Learn New Software Tools? An Empirical Comparison Between a Text and a Video Tutorial](/2017/1/17)  
 Verena Käfer, Daniel Kulesz, and Stefan Wagner
