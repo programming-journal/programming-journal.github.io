@@ -33,7 +33,7 @@ excerpt: |
     The presented approach can be implemented in any dynamic compiler. We believe that it can help to analyze compilation decisions and leverage the use of machine learning into dynamic compilation.
 
 ---
-Raphael Mosaner[^1], David Leopoldseder[^2] [![OrcidLogo]](https://orcid.org/0000-0002-9361-6431), Wolfgang Kisling[^3], Lukas Stadler[^4], and Hanspeter Mössenböck[^5]  [![OrcidLogo]](https://orcid.org/0000-0001-7706-7308)
+Raphael Mosaner[^1], David Leopoldseder[^2] [![OrcidLogo]](https://orcid.org/0000-0002-9361-6431), Wolfgang Kisling[^3], Lukas Stadler[^4], and Hanspeter Mössenböck[^5] [![OrcidLogo]](https://orcid.org/0000-0001-7706-7308)
 
 The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 1, Article 3
 
@@ -65,5 +65,6 @@ The presented approach can be implemented in any dynamic compiler. We believe th
 [^5]: JKU Linz, Austria  
     [![OrcidLogo]](https://orcid.org/0000-0001-7706-7308) <https://orcid.org/0000-0001-7706-7308>
 
+
 [OrcidLogo]: /assets/images/orcid.svg "Orcid Logo"
-{: height="16" width="16" style="vertical-align: top"}
+{: style="vertical-align: top" height="16"}

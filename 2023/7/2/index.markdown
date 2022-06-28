@@ -60,7 +60,7 @@ Submission date: 2022-04-29
 Publication date: 2022-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/2>  
 Full text: *t.b.a*  
-Related Artifact: <https://doi.org/10.5281/zenodo.6577584>
+Related Artifact: <https://doi.org/10.5281/zenodo.6577584>  
 
 
 ### Abstract
@@ -96,5 +96,6 @@ Static Python is the first sound gradual language whose piece-meal application t
 
 [^6]: <mailto:shriram@gmail.com>, Brown University, USA
 
+
 [ae_reusable]: /assets/images/ae_reusable.svg "Reusable Artifact Badge"
-{: height="120" }
+{: height="120"}

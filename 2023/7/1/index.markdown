@@ -80,7 +80,8 @@ Submission date: 2022-04-28
 Publication date: 2022-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/1>  
 Full text: *t.b.a*  
-Related Artifact: <https://doi.org/10.5281/zenodo.6581453>
+Related Artifact: <https://doi.org/10.5281/zenodo.6581453>  
+
 
 ### Abstract
 
@@ -140,6 +141,6 @@ software supply chains.
 
 [^1]: <mailto:ludovic.courtes@inria.fr>, Inria, France
 
-[ae_reusable]: /assets/images/ae_reusable.svg "Reusable Artifact Badge"
-{: height="120" }
 
+[ae_reusable]: /assets/images/ae_reusable.svg "Reusable Artifact Badge"
+{: height="120"}
