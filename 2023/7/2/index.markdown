@@ -29,6 +29,8 @@ authors:
 
 artifactDoi: "10.5281/zenodo.6577584"
 artifactBadge: "reusable"
+arxiv: "2206.13831"
+file: "https://arxiv.org/pdf/2206.13831v1"
 excerpt: |
     Context:  
     Gradually-typed languages allow typed and untyped code to interoperate, but typically come with significant drawbacks. In some languages, the types are unreliable; in others, communication across type boundaries can be extremely expensive; and still others allow only limited forms of interoperability. The research community is actively seeking a sound, fast, and expressive approach to gradual typing.  
@@ -59,7 +61,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 1, Article
 Submission date: 2022-04-29  
 Publication date: 2022-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/2>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2206.13831v1)  
 Related Artifact: <https://doi.org/10.5281/zenodo.6577584>  
 
 

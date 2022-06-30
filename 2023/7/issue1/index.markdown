@@ -4,7 +4,7 @@ category: "Issues"
 order: -7001
 type: "issue"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2023%2F7%2Fissue1"
-date: "2022-06-28"
+date: "2022-06-30"
 ---
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/issue1>
 

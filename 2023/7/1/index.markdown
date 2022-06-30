@@ -14,6 +14,8 @@ authors:
 
 artifactDoi: "10.5281/zenodo.6581453"
 artifactBadge: "reusable"
+arxiv: "2206.14606"
+file: "https://arxiv.org/pdf/2206.14606v1"
 excerpt: |
     The *software supply chain* is becoming a widespread
     analogy to designate the series of steps taken to go from source code
@@ -79,7 +81,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 1, Article
 Submission date: 2022-04-28  
 Publication date: 2022-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/1>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2206.14606v1)  
 Related Artifact: <https://doi.org/10.5281/zenodo.6581453>  
 
 

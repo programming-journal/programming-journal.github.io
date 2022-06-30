@@ -24,6 +24,8 @@ authors:
   - name: "Mössenböck, Hanspeter"
     affiliation: "JKU Linz, Austria"
 
+arxiv: "2206.14091"
+file: "https://arxiv.org/pdf/2206.14091v1"
 excerpt: |
     Compiler optimization decisions are often based on hand-crafted heuristics centered around a few established benchmark suites. Alternatively, they can be learned from feature and performance data produced during compilation. 
     However, data-driven compiler optimizations based on machine learning models require large sets of quality data for training in order to match or even outperform existing human-crafted heuristics. In static compilation setups, related work has addressed this problem with iterative compilation. However, a dynamic compiler may produce different data depending on dynamically-chosen compilation strategies, which aggravates the generation of comparable data. 
@@ -40,7 +42,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 1, Article
 Submission date: 2022-05-02  
 Publication date: 2022-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2206.14091v1)  
 
 
 ### Abstract
