@@ -13,6 +13,25 @@ To celebrate the work of the community around the journal, we have instituted th
 
 * **Outstanding Reviewer Awards**: given annually to up to 3 members of the Standing Review Committee by the Editorial Board of the journal, this award recognizes these members' stellar reviewing service.
 
+### 2022
+
+* Reviewers' Choice Awardee  
+   [Continuation-Passing Style, Defunctionalization, Accumulations, and Associativity](https://doi.org/10.22152/programming-journal.org/2022/6/7)  
+Jeremy Gibbons
+
+* Editors' Choice Awardee  
+   [Types for Tables: A Language Design Benchmark](https://doi.org/10.22152/programming-journal.org/2022/6/8)  
+Kuang-Chen Lu, Ben Greenman, and Shriram Krishnamurthi
+
+* Outstanding Reviewer Awardees
+
+  * Eric Van Wyk,
+     University of Minnesota, USA 
+  * Samuel Gruetter,
+     MIT, USA
+  * Max Schäfer,
+     GitHub, United Kingdom
+
 ### 2021
 
 * Reviewers' Choice Awardee  
@@ -31,7 +50,6 @@ John Wrenn, Tim Nelson, and Shriram Krishnamurthi
      Cap3 GmbH, Germany
   * Chris Martens,
      North Carolina State University, USA
-    
 
 ### 2020
 
