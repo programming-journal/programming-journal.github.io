@@ -52,6 +52,7 @@ Full text: [PDF](https://arxiv.org/pdf/1712.01161v1)
 
 
 ### Abstract
+
 Web programmers are often faced with several challenges in the development process of modern, rich internet applications.
 Technologies for the different tiers of the application have to be selected: a server-side language, a combination of JavaScript, HTML and CSS for the client, and a database technology. 
 Meeting the expectations of contemporary web applications requires even more effort from the developer: many state of the art libraries must be mastered and glued together.

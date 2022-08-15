@@ -42,6 +42,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10202v1)
 
 
 ### Abstract
+
 Scientific progress increasingly depends on data management, particularly to clean and curate data so that it can be systematically analyzed and reused.  A wealth of techniques for managing and curating data (and its provenance) have been proposed, largely in the database community.  In particular, a number of influential papers have proposed collecting provenance information explaining where a piece of data was copied from, or what other records were used to derive it.  Most of these techniques, however, exist only as research prototypes and are not available in mainstream database systems.  This means scientists must either implement such techniques themselves or (all too often) go without.
 
 This is essentially a code reuse problem: provenance techniques currently cannot be implemented reusably, only as ad hoc, usually unmaintained extensions to standard databases.  An alternative, relatively unexplored approach is to support such techniques at a higher abstraction level, using metaprogramming or reflection techniques.  Can advanced programming techniques make it easier to transfer provenance research results into practice?

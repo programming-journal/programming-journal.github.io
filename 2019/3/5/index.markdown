@@ -57,6 +57,7 @@ Full text: [PDF](https://arxiv.org/pdf/1902.00524v1)
 
 
 ### Abstract
+
 Context: The term reactivity is popular in two areas of research: programming languages and
 distributed systems. On one hand, reactive programming is a paradigm which provides programmers with
 the means to declaratively write event-driven applications. On the other hand, reactive distributed systems

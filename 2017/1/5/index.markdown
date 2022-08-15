@@ -42,6 +42,7 @@ Full text: [PDF](https://arxiv.org/pdf/1703.10873v1)
 
 
 ### Abstract
+
 Context: This paper presents the concept of open programming language interpreters and the implementation of a framework-level metaobject protocol (MOP) to support them.
 
 Inquiry: We address the problem of dynamic interpreter adaptation to tailor the interpreter's behavior on the task to be solved and to introduce new features to fulfill unforeseen requirements. Many languages provide a MOP that to some degree supports reflection. However, MOPs are typically language-specific, their reflective functionality is often restricted, and the adaptation and application logic are often mixed which hardens the understanding and maintenance of the source code. Our system overcomes these limitations.

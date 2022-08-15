@@ -34,6 +34,7 @@ Full text: [PDF](https://arxiv.org/pdf/1701.08124v1)
 
 
 ### Abstract
+
 The context of this research is testing and building software systems and, specifically, software language repositories (SLRs), i.e., repositories with components for language processing (interpreters, translators, analyzers, transformers, pretty printers, etc.). SLRs are typically set up for developing and using metaprogramming systems, language workbenches, language definition frameworks, executable semantic frameworks, and modeling frameworks.
 This work is an inquiry into testing and building SLRs in a manner that the repository is seen as a collection of language-typed artifacts being related by the applications of language-typed functions or relations which serve language processing. The notion of language is used in a broad sense to include text-, tree-, graph-based languages as well as representations based on interchange formats and also proprietary formats for serialization.
 The overall approach underlying this research is one of language design driven by a complex case study, i.e., a specific SLR with a significant number of processed languages and language processors as well as a noteworthy heterogeneity in terms of representation types and implementation languages.

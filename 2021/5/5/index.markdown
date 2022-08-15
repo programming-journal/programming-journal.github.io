@@ -56,6 +56,7 @@ Full text: [PDF](https://arxiv.org/pdf/2010.16303v2)
 
 
 ### Abstract
+
 #### Context
 Most approaches to automated white-box testing consider the client side and the server side of a web application in isolation from each other.
 Such testers lack a whole-program perspective on the web application under test.

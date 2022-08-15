@@ -36,6 +36,7 @@ Full text: [PDF](https://arxiv.org/pdf/2202.09230v1)
 
 
 ### Abstract
+
 Graphs and various graph-like combinatorial structures, such as  preorders and hypergraphs, are ubiquitous in programming. This paper focuses on  representing graphs in a purely functional programming language like Haskell.  There are several existing approaches; one of the most recently developed ones  is the “algebraic graphs” approach (2017). It uses an algebraic data type to  represent graphs and has attracted users, including from industry, due to its  emphasis on equational reasoning and making a common class of bugs impossible  by eliminating internal invariants.  
   
 The previous formulation of algebraic graphs did not support edge labels, which  was a serious practical limitation. In this paper, we redesign the main  algebraic data type and remove this limitation. We follow a fairly standard  approach of parameterising a data structure with a semiring of edge labels. The  new formulation is both more general and simpler: the two operations for  composing graphs used in the previous work can now be obtained from a single  operation by fixing the semiring parameter to zero and one, respectively.  

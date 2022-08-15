@@ -39,6 +39,7 @@ Full text: [PDF](https://arxiv.org/pdf/1902.00525v1)
 
 
 ### Abstract
+
 ParaSail is a language specifically designed to simplify the construction of programs that make full,
 safe use of parallel hardware even while manipulating potentially irregular data structures. As parallel hardware has proliferated, there has been an urgent need for languages that ease the writing of correct parallel
 programs. ParaSail achieves these goals largely through simplification of the language, rather than by adding

@@ -46,6 +46,7 @@ Full text: [PDF](https://arxiv.org/pdf/2202.09228v1)
 
 
 ### Abstract
+
 Reactive programming is a popular paradigm to program event-driven applications, and it is often proposed as a paradigm to write distributed applications. One such type of application is *prosumer* applications, which are distributed applications that both produce and consume many events.  
   
 We analyse the problems that occur when using a reactive programming language or framework to implement prosumer applications. We find that the assumption of an open network, which means prosumers of various types spontaneously join and leave the network, can cause a lot of code complexity or run-time inefficiency. At the basis of these issues lies *acquaintance management*: the ability to discover prosumers as they join and leave the network, and correctly maintaining this state throughout the reactive program. Most existing reactive programming languages and frameworks have limited support for managing acquaintances, resulting in accidental complexity of the code or inefficient computations.  

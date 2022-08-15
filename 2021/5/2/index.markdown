@@ -65,6 +65,7 @@ Full text: [PDF](https://arxiv.org/pdf/2006.03102v1)
 
 
 ### Abstract
+
 This paper presents Skini, a programming methodology and an execution
 environment for interactive structured music. With this system, the
 composer programs his scores in the HipHop.js synchronous reactive

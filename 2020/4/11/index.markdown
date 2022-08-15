@@ -45,6 +45,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06180v1)
 
 
 ### Abstract
+
 Context: Computational notebooks are a contemporary style of literate programming, in which users can communicate and transfer knowledge by interleaving executable code, output, and prose in a single rich document. A Domain-Specific Language (DSL) is an artificial software language tailored for a particular application domain. Usually, DSL users are domain experts that may not have a software engineering background. As a consequence, they might not be familiar with Integrated Development Environments (IDEs). Thus, the development of tools that offer different interfaces for interacting with a DSL is relevant.
 
 Inquiry: However, resources available to DSL designers are limited. We would like to leverage tools used to interact with general purpose languages in the context of DSLs. Computational notebooks are an example of such tools. Then, our main question is: What is an efficient and effective method of designing and implementing notebook interfaces for DSLs? By addressing this question we might be able to speed up the development of DSL tools, and ease the interaction between end-users and DSLs.

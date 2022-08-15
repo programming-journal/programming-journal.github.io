@@ -50,6 +50,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10831v1)
 
 
 ### Abstract
+
 To cope with the increasing complexity of developing and maintaining modern (software) systems, multiple abstractions (models) of the same system can be established and used to allow different domain experts to collaborate and contribute their respective expertise. This divide-and-conquer, model-based approach requires, however, support for a concurrent engineering process, i.e., providing a means of checking, restoring, and ensuring the consistency of all involved and concurrently maintained models. The task of providing such support is often referred to as consistency management.
 
 Although there exist various approaches to consistency management and numerous (industrial) case studies described in the literature on bidirectional transformations (bx), there is currently no uniform description of diverse but related industrial applications of model synchronisation and other forms of consistency management. This makes it challenging to detect similarities and differences related to requirements, constraints, applied techniques and tools. It is thus difficult to compare and transfer knowledge gained from (successful) projects to other bx approaches or even other bx tools for the same general approach.

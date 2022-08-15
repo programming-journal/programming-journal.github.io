@@ -56,6 +56,7 @@ Full text: [PDF](https://arxiv.org/pdf/1902.00546v1)
 
 
 ### Abstract
+
 Context: Trait composition has inspired new research in the area of code reuse for object oriented
 (OO) languages. One of the main advantages of this kind of composition is that it makes possible to separate
 subtyping from subclassing; which is good for code-reuse, design and reasoning. However, handling of

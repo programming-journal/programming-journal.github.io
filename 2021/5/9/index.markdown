@@ -52,6 +52,7 @@ Full text: [PDF](https://arxiv.org/pdf/2010.16305v1)
 
 
 ### Abstract
+
 CONTEXT
 The success of QuickCheck has led to the development of property-based testing (PBT) libraries for many languages and the process is getting increasing attention. However, unlike regular testing, PBT is not widespread in collegiate curricula.
 

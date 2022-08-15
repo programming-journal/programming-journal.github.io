@@ -36,6 +36,7 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10199v1)
 
 
 ### Abstract
+
 The current demands for seamless connections with the surrounding environment make software more reactive. For example, such demands are evident in systems consisting of the Internet of Things. Such systems include a set of reactive values that are periodically updated in response to external or internal events to form a dataflow in the sense that such updates are propagated to other reactive values. Two effective approaches for realizing such reactive values have been proposed: the event mechanisms in event-based programming and the signals in functional-reactive programming. These two approaches are now becoming mixed in several languages such as Flapjax and REScala, which makes these languages notably expressive for modularizing the implementation of reactive software. For example, REScala provides a rich API that consists of functions converting events to signals and vice versa.
 
 In this paper, we explore another, simpler approach in the design space of reactive programming languages: the event mechanism is harmonized with signals, resulting in a simplified programming interface that is mostly based on signals. Based on this approach, we realize SignalJ, a simple extension of Java with events and signals. Our notable findings are (1) an event can be represented as an update of a signal and (2) such an effectful signal can be represented using annotations instead of introducing types and constructors for signals to further simplify the language.

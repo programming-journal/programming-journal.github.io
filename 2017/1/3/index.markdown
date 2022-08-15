@@ -46,6 +46,7 @@ Full text: [PDF](https://arxiv.org/pdf/1701.08122v1)
 
 
 ### Abstract
+
 The context of the reported research is the documentation of software technologies such as object/relational mappers, web-application frameworks, or code generators. We assume that documentation should model a macroscopic view on usage scenarios of technologies in terms of involved artifacts, leveraged software languages, data flows, conformance relationships, and others. In previous work, we referred to such documentation also as ‘linguistic architecture’. The corresponding models may also be referred to as ‘megamodels’ while adopting this term from the technological space of modeling/model-driven engineering.
 This work is an inquiry into making such documentation less abstract and more effective by means of connecting (mega)models, systems, and developer experience in several ways.
 To this end, we adopt an approach that is primarily based on prototyping (i.e., implementa- tion of a megamodeling infrastructure with all conceivable connections) and experimentation with showcases (i.e., documentation of concrete software technologies).

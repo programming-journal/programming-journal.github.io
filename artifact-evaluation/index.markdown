@@ -56,6 +56,7 @@ Making the artifact available is the prerequisite for the Functional or Reusable
 The badge can also be earned by an artifact that was not reviewed by the AEC or not found _Functional_ during reviewing.
 
 There are two routes for this:
+
 1.  Authors upload a snapshot of the complete artifact to [Zenodo](https://zenodo.org/), which provides a DOI specific to the artifact. Note that GitHub etc. are not adequate for receiving this badge (see FAQ), and that Zenodo provides a way to make subsequent revisions of the artifact available and linked from the specific version. Please upload your artifact to the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/). Please send the resulting DOI to the AEC chairs.
 2.  Authors can send the complete artifact to the AEC chairs to take care of publication via [Zenodo](https://zenodo.org/).
 
@@ -85,6 +86,7 @@ A _Reusable_ badge is given when the artifact not only satisfies the requirement
 For binary-only artifacts to be considered _Reusable_, it must be possible for others to directly use the binary in their research, such as a JAR file with very high-quality client documentation for someone else to use it as a component in their project.
 
 Artifacts with source code can be considered reusable:
+
 - if they can be reused as components,
 - if others can learn from the source code and apply the knowledge elsewhere (e.g., learning an implementation or proof/formalization technique for use in a separate codebase), or
 - if others can directly modify and/or extend the system to handle new or expanded use cases.

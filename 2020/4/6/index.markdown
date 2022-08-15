@@ -48,6 +48,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06188v1)
 
 
 ### Abstract
+
   Developing web applications requires dealing with their distributed nature and the natural asynchronicity of user input and network communication.
 
   For facilitating this, different researchers have explored the combination of a multi-tier programming language and functional reactive programming.

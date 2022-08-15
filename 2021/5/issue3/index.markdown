@@ -27,6 +27,7 @@ Dominik Aumayr, Stefan Marr, Sophie Kaleba, Elisa Gonzalez Boix, and Hanspeter M
 
 
 
+
 {: start="15"}
 1. [Jupyter Notebooks on GitHub: Characteristics and Code Clones](/2021/5/15)  
 Malin Källén and Tobias Wrigstad

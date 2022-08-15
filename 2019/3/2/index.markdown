@@ -50,6 +50,7 @@ Full text: [PDF](https://arxiv.org/pdf/1807.08576v1)
 
 
 ### Abstract
+
 Embedded software is growing fast in size and complexity, leading to intimate mixture of complex architectures and complex control. Consequently, software speci cation requires modeling both structures and behaviour of systems. Unfortunately, existing languages do not integrate these aspects well, usually prioritizing one of them. It is common to develop a separate language for each of these facets 
 
 In this paper, we contribute Clafer: a small language that attempts to tackle this challenge. It combines rich structural modeling with state of the art behavioural formalisms. We are not aware of any other modeling language that seamlessly combines these facets common to system and software modeling. 

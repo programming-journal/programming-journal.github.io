@@ -49,6 +49,7 @@ Full text: [PDF](https://arxiv.org/pdf/2107.07300v1)
 
 
 ### Abstract
+
 Context: Static Application Security Testing (SAST) and Runtime Application Security Protection (RASP) are important and complementary techniques used for detecting and enforcing application-level security policies in web applications.
  
  Inquiry: The current state of the art, however, does not allow a safe and efficient combination of SAST and RASP based on a shared set of security policies, forcing developers to reimplement and maintain the same policies and their enforcement code in both tools.

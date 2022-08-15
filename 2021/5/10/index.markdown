@@ -42,6 +42,7 @@ Full text: [PDF](https://arxiv.org/pdf/2010.16301v1)
 
 
 ### Abstract
+
 Context: Actor-based programming languages offer many essential features for developing modern distributed reactive systems. These systems exploit the actor model’s isolation property to fulfill their performance and scalability demands. Unfortunately, the reliance of the model on isolation as its most fundamental property requires programmers to express complex interaction patterns between their actors to be expressed manually in terms of complex combinations of messages sent between the isolated actors.
 
 Inquiry: In the last three decades, several language design proposals have been introduced to reduce the complexity that emerges from describing said interaction and coordination of actors. We argue that none of these proposals is satisfactory in order to express the many complex interaction patterns between actors found in modern reactive distributed systems.

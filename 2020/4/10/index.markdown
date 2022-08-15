@@ -45,6 +45,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06185v1)
 
 
 ### Abstract
+
 Microservices architectures allow for short deployment cycles and immediate effects but offer no safety mechanisms when service contracts need to be changed. Maintaining the soundness of microservice architectures is an error-prone task that is only accessible to the most disciplined development teams.
 
 We present a microservice management system that statically verifies service interfaces and supports the seamless evolution of compatible interfaces. We define a compatibility relation that captures real evolution patterns and embodies known good practices on the evolution of interfaces. Namely, we allow for the addition, removal, and renaming of data fields of a producer module without breaking or needing to upgrade consumer services. The evolution of interfaces is supported by runtime generated proxy components that dynamically adapt data exchanged between services to match with the statically checked service code.

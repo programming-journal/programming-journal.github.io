@@ -58,6 +58,7 @@ Full text: [PDF](https://arxiv.org/pdf/2202.09231v1)
 
 
 ### Abstract
+
 Context: It is common for programming languages that their reference implementation is implemented in the language itself. This requires a “bootstrap”: a copy of a previous version of the implementation is provided along with the sources, to be able to run the implementation itself.  
   
 Those bootstrap files are opaque binaries; they could contain bugs, or even malicious changes that could reproduce themselves when running the source version of the language implementation – this is called the ”trusting trust attack”. For this reason, a collective project called Bootstrappable was launched in 2016 to remove those bootstraps, providing alternative build paths that do not rely on opaque binaries.  

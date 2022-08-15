@@ -33,6 +33,7 @@ Full text: [PDF](https://arxiv.org/pdf/1907.00822v4)
 
 
 ### Abstract
+
 Distributed systems address the increasing demand for fast access to resources and fault tolerance for data. However, due to scalability requirements, software developers need to trade consistency for performance. For certain data, consistency guarantees may be weakened if application correctness is unaffected. In contrast, data flow from data with weak consistency to data with strong consistency requirements is problematic, since application correctness may be broken.
 
 

@@ -11,7 +11,7 @@ DOI: <https://doi.org/10.22152/programming-journal.org/2017/1/issue1>
 
 * [Editorial: Introducing The Art, Science, and Engineering of Programming  
 An Open Access Journal for All-Things Programming](/2017/1/editorial)  
-Cristina V. Lopes, Shigeru Chiba, Theo D’Hondt, Wolfgang De Meuter, Richard Gabriel, Robert Hirschfeld, Tobias Pape, Guido Salvaneschi, and Mario Südholt
+Cristina V. Lopes, Shigeru Chiba, Theo D’Hondt, Wolfgang De Meuter, Richard Gabriel, Robert Hirschfeld, Tobias Pape, Guido Salvaneschi, and Mario Südholt
 
 
 
