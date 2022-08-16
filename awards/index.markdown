@@ -13,6 +13,43 @@ To celebrate the work of the community around the journal, we have instituted th
 
 * **Outstanding Reviewer Awards**: given annually to up to 3 members of the Standing Review Committee by the Editorial Board of the journal, this award recognizes these members' stellar reviewing service.
 
+### 2021
+
+* Reviewers' Choice Awardee  
+   [Interactive Music and Synchronous Reactive Programming](https://doi.org/10.22152/programming-journal.org/2021/5/2)  
+Bertrand Petit and Manuel Serrano
+
+* Editors' Choice Awardee  
+   [Using Relational Problems to Teach Property-Based Testing](https://doi.org/10.22152/programming-journal.org/2021/5/9)  
+John Wrenn, Tim Nelson, and Shriram Krishnamurthi
+
+* Outstanding Reviewer Awardees
+
+  * Shriram Krishnamurthi,
+     Brown University, USA
+  * Sandra Dylus,
+     Cap3 GmbH, Germany
+  * Chris Martens,
+     North Carolina State University, USA
+    
+
+### 2020
+
+* Reviewers' Choice Awardee  
+   [Foundations of a live data exploration environment](https://doi.org/10.22152/programming-journal.org/2020/4/8)  
+Tomas Petricek
+
+* Editors' Choice Awardee  
+   [Did JHotDraw Respect the Law of Good Style? A deep dive into the nature offalse positives of bad code smells](https://doi.org/10.22152/programming-journal.org/2020/4/14)  
+Daniel Speicher
+
+* Outstanding Reviewer Awardees
+
+  * Erik Ernst,
+     Google, Denkmark
+  * Gordana Rakić,
+     University of Novi Sad, Serbia
+
 ### 2019
 
 * Reviewers' Choice Awardee  

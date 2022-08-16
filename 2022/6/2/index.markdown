@@ -49,6 +49,7 @@ Full text: [PDF](https://arxiv.org/pdf/2107.07296v1)
 
 
 ### Abstract
+
 The rise of streaming libraries such as Akka Stream, Reactive Extensions, and LINQ popularized the declarative functional style of data processing. The stream paradigm offers concise syntax to write down processing pipelines to consume the vast amounts of real-time data available today.
 
 These libraries offer the programmer a domain specific language (DSL) embedded in the host language to describe data streams.

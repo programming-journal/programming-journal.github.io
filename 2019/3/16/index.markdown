@@ -22,6 +22,7 @@ authors:
   - name: "Sunshine, Joshua"
     affiliation: "Carnegie Mellon University, United States"
 
+file: "https://zenodo.org/api/files/d338ce6f-980a-4368-9f43-68dd09b53720/InterdisciplinaryProgrammingLanguageDesign.pdf"
 excerpt: "Approaches for traditional programming language design center around theoretical and performance-oriented evaluation. Recently, researchers have been considering more approaches to language design, including the use of quantitative and qualitative user studies that examine how different designs might affect programmers. In this paper, we argue for an interdisciplinary approach that incorporates many different methods in the creation and evaluation of programming languages. We show how the addition of user-oriented design techniques can be helpful at many different stages in the programming language design process."
 ---
 Michael Coblenz[^1], Jonathan Aldrich[^2], Brad Myers[^3], and Joshua Sunshine[^4]
@@ -31,10 +32,11 @@ The Art, Science, and Engineering of Programming, 2019, Vol. 3, Essays, Article 
 Submission date: 2018-04-19  
 Publication date: 2018-02-18  
 DOI: <https://doi.org/10.22152/programming-journal.org/2019/3/16>  
-Full text: *t.b.a*  
+Full text: [PDF](https://zenodo.org/record/6298953)  
 
 
 ### Abstract
+
 Approaches for traditional programming language design center around theoretical and performance-oriented evaluation. Recently, researchers have been considering more approaches to language design, including the use of quantitative and qualitative user studies that examine how different designs might affect programmers. In this paper, we argue for an interdisciplinary approach that incorporates many different methods in the creation and evaluation of programming languages. We show how the addition of user-oriented design techniques can be helpful at many different stages in the programming language design process.
 
 

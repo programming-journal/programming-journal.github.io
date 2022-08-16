@@ -36,6 +36,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06184v1)
 
 
 ### Abstract
+
 Multitier programming languages reduce the complexity of developing distributed systems by developing the distributed system in a single coherent code base. The compiler or the runtime separate the code for the components of the distributed system, enabling abstraction over low level implementation details such as data representation, serialization and network protocols. Our ScalaLoci language allows developers to declare the different components and their architectural relation at the type level, allowing static reasoning about about distribution and remote communication and guaranteeing static type safety across components. The compiler splits the multitier program into the component-specific code and automatically generates the communication boilerplate. Communication between components can be modeled by declaratively specifying data flows between components using reactive programming.
 
 

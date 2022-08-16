@@ -2,7 +2,7 @@
 title: "Volume 2"
 type: "volume"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2018%2F2"
-date: "2018-03-28"
+date: "2017-08-08"
 ---
 DOI: <https://doi.org/10.22152/programming-journal.org/2018/2>
 

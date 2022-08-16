@@ -42,6 +42,7 @@ Full text: [PDF](https://arxiv.org/pdf/2006.03103v1)
 
 
 ### Abstract
+
 Automatic indentation of source code is fundamentally a simple matter of
 parsing the code and then applying language- and style-specific rules about
 relative indentation of the various constructs.  Yet, in practice, full

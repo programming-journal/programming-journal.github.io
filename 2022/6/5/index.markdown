@@ -44,6 +44,7 @@ Full text: [PDF](https://arxiv.org/pdf/2107.07301v1)
 
 
 ### Abstract
+
 While modern software development heavily uses versioned packages, programming languages rarely support the concept of versions in their semantics, which makes software updates more bulky and unsafe.
 This paper proposes a programming language that intrinsically supports versions. The main goals are to design core language features to support multiple versions in one program and establish a proper notion of type safety with those features.
 The proposed core calculus, called Lambda VL, has versioned values, each containing different values under different versions.

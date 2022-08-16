@@ -24,6 +24,7 @@ Full text: [PDF](essays-editorial.pdf)
 
 
 ### Abstract
+
 In 2018, Onward! accepted three essays. Their authors were given the choice of publication in the ACM Onward! 2018 proceedings or in The Art, Science, and Engineering of Programming. One essay is published in full here, as are the extended abstracts of the two others.
 
 

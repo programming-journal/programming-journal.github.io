@@ -16,14 +16,25 @@ function gestureStart() {
   }
 }
 
+
+function imageOnlyLink(link) {
+  return link.children.length == 1 &&
+         link.children[0].tagName.toUpperCase() == "IMG"
+}
+
+function externalLink(link) {
+  return link.protocol != "mailto:" &&
+         link.hostname != window.location.hostname &&
+         !imageOnlyLink(link)
+}
+
+
 (function() {
   var links = document.links;
-  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-    // can also be
-    //  links[i].hostname != 'subdomain.example.com'
-    if (links[i].protocol != "mailto:" && links[i].hostname != window.location.hostname) {
-      links[i].target = '_blank';
-      links[i].className += ' externalLink';
+  for (let link of links) {
+    if (externalLink(link)) {
+      link.target = '_blank';
+      link.className += ' externalLink';
     }
   }
 })();

@@ -64,6 +64,7 @@ Full text: [PDF](https://arxiv.org/pdf/1708.01679v1)
 
 
 ### Abstract
+
 Context. An extension method is a method declared in a package other than the
 package of its host class. Thanks to extension methods, developers can adapt to their needs
 classes they do not own: adding methods to core classes is a typical use case. This is

@@ -79,6 +79,7 @@ Richard P. Gabriel
 
 
 
+
   {: start="16"}
   1. [Interdisciplinary Programming Language Design](/2019/3/16)  
 Michael Coblenz, Jonathan Aldrich, Brad Myers, and Joshua Sunshine
@@ -88,6 +89,7 @@ Friedrich Steimann
 
 
   - #### Essay
+
 
 
 

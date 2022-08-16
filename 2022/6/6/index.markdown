@@ -40,6 +40,7 @@ Full text: [PDF](https://arxiv.org/pdf/2010.03608v3)
 
 
 ### Abstract
+
 Many object-oriented dynamic languages allow programmers to _extract methods_ from objects and treat them as functions. This allows for flexible programming patterns, but presents challenges for type systems. In particular, a simple treatment of method extraction would require methods to be contravariant in the receiver type, making overriding all-but-impossible. We present a detailed investigation of this problem, as well as an implemented and evaluated solution.
 
 Method extraction is a feature of many dynamically-typed and gradually-typed languages, ranging from Python and PHP to Flow and TypeScript. In these languages, the underlying representation of objects as records of procedures can be accessed, and the procedures that implement methods can be reified as functions that can be called independently. In many of these languages, the programmer can then explicitly specify the `this` value to be used when the method implementation is called.

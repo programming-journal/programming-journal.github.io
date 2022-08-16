@@ -80,6 +80,7 @@ Full text: [PDF](https://arxiv.org/pdf/2111.10412v1)
 
 
 ### Abstract
+
 #### Context
 Tables are ubiquitous formats for data. Therefore, techniques for writing
 correct programs over tables, and debugging incorrect ones, are vital. Our

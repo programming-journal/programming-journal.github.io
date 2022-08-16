@@ -43,6 +43,7 @@ Full text: [PDF](https://arxiv.org/pdf/2002.06176v1)
 
 
 ### Abstract
+
 Throughout the history of functional programming, recursion has emerged as a natural method for describing loops in programs.
 However, there does often exist a substantial cognitive distance between the recursive definition and the simplest explanation of an algorithm even for the basic list processing functions such as map, concat, or unique; when we explain these functions, we seldom use recursion explicitly as we do in functional programming.
 For example, map is often explained as follows: the map function takes a function and a list and returns a list of the results of applying the function to all the elements of the list.
