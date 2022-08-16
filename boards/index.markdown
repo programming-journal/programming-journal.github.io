@@ -11,11 +11,11 @@ order: 500
 * [Cristina V. Lopes](https://www.ics.uci.edu/~lopes/), University of California, Irvine, California
 
 **Associate Editors**
-* [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, SE (Volume 6)
+* [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6)
 * [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), Oxford University, UK (Volume 5)
-* [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4)
 
 **Past Associate Editors**
+* [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4)
 * [Matt Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3)
 * [Guido Salvaneschi](http://www.guidosalvaneschi.com/wp/), Technische Universität Darmstadt, Germany (Volume 2)
 

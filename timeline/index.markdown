@@ -2,7 +2,7 @@
 title: Timeline
 category: For Authors
 order: 500
-featured: "Upcoming Submission Deadline: October 1, 2020"
+featured: "Upcoming Submission Deadline: February 1, 2022"
 ---
 Papers can be [submitted to the journal at any time](/submission/), but submitted papers are batched and reviewed in cycles with strict deadlines. The batch processing is designed to keep everyone involved (editors, reviewers and authors) on track, and to establish a strong sense of predictability for when specific activities are to happen. The goal is to have a fast turnaround of **four months** from start to end of each reviewing cycle.
 
@@ -70,3 +70,5 @@ In normal operation, the journal uses the following cycles for each Volume (dead
 
   Publication
   : February 1
+
+*[AoE]:Anywhere on Earth, that is, UTC−12:00

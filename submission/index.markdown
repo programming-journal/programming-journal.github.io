@@ -7,6 +7,7 @@ order: 800
 ## Submission Process
 Papers submitted to *The Art, Science, and Engineering of Programming* must use the [online submission system][submit]. 
 
+
 ## Typesetting
 
 Submissions must use the [LaTeX template][latex template] of the journal. Please download the [template package][template package]; a manual is included.
@@ -36,7 +37,7 @@ The absence of an abstract conforming to this specification is grounds for the r
 ## Attribution, Prior Papers, and Concurrent Submissions
 Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review on another journal or conference.
 
-[submit]: https://easychair.org/conferences/?conf=programming21
+[submit]: https://programming63.hotcrp.com/paper/new
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
 [latex template]: https://github.com/programming-journal/programming/releases
 [template package]: https://github.com/programming-journal/programming/releases/download/v1.3a/programming-template_v1.3a.zip
