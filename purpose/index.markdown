@@ -7,7 +7,7 @@ order: 300
 ---
 *The Art, Science, and Engineering of Programming* journal is a fully refereed, open access, free, electronic journal. It welcomes papers on the art of programming, broadly construed (see [Call for Papers](/cfp)).
 
-Papers are refereed in the traditional way, with two or more referees per paper. Copyright is retained by the authors. Full-text access to all papers is freely available. No registration or subscription is required, and there are no Open Access fees for publication. Authors of published papers are expected to present their work in partenering conferences.
+Papers are refereed in the traditional way, with two or more referees per paper. Copyright is retained by the authors. Full-text access to all papers is freely available. No registration or subscription is required, and there are no Open Access fees for publication. Authors of published papers are expected to present their work in partnering conferences.
 
 The journal is published by AOSA, a non-profit organization whose purpose is to facilitate the dissemination of scholarly works pertaining to programming.
 
