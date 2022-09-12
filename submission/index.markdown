@@ -12,9 +12,7 @@ Papers submitted to *The Art, Science, and Engineering of Programming* must use 
 
 Submissions must use the [LaTeX template][latex template] of the journal. Please download the [template package][template package]; a manual is included.
 
-<!--
 The template is also available in [Overleaf][overleaf].
--->
 
 ## Language and Page Recommendations
 Papers must be written in English using high standards of writing. Papers that show poor mastery of the English language may be disqualified without review.
