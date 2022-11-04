@@ -23,6 +23,8 @@ authors:
 
 artifactDoi: "10.5281/zenodo.6988909"
 artifactBadge: "reusable"
+arxiv: "2211.01677"
+file: "https://arxiv.org/pdf/2211.01677v1"
 excerpt: |
     
     #### Context
@@ -65,7 +67,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 2, Article
 Submission date: 2022-05-31  
 Publication date: 2022-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/7>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2211.01677v1)  
 Related Artifact: <https://doi.org/10.5281/zenodo.6988909>  
 
 

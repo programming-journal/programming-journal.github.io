@@ -18,6 +18,8 @@ authors:
   - name: "Haveraaen, Magne"
     affiliation: "University of Bergen, Norway"
 
+arxiv: "2211.01678"
+file: "https://arxiv.org/pdf/2211.01678v1"
 excerpt: |
     
     #### Context
@@ -76,7 +78,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 2, Article
 Submission date: 2022-06-02  
 Publication date: 2022-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/4>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2211.01678v1)  
 
 
 ### Abstract
