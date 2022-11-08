@@ -20,6 +20,8 @@ authors:
 
 artifactDoi: "10.5281/zenodo.7105666"
 artifactBadge: "reusable"
+arxiv: "2203.02461"
+file: "https://arxiv.org/pdf/2203.02461v2"
 excerpt: |
     In programming, protocols are everywhere. Protocols describe the pattern of interaction (or communication) between software systems, for example, between a user-space program and the kernel or between a local application and an online service. Ensuring conformance to protocols avoids a significant class of software errors. Subsequently, there has been a lot of work on verifying code against formal protocol specifications. The pervading approaches focus on distributed settings involving parallel composition of processes within a single monolithic protocol description. However we observe that, at the level of a single thread/process, modern software must often implement a number of clearly delineated protocols at the same time which become dependent on each other, e.g., a banking API and one or more authentication protocols. Rather than plugging together modular protocol-following components, the code must re-integrate multiple protocols into a single component.
     
@@ -40,7 +42,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 2, Article
 Submission date: 2022-06-01  
 Publication date: 2022-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/6>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2203.02461v2)  
 Related Artifact: <https://doi.org/10.5281/zenodo.7105666>  
 
 
