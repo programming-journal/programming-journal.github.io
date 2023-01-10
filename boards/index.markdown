@@ -25,7 +25,11 @@ order: 500
 
 **Managing Editors**
 
-* [Tobias Pape](https://www.hpi.uni-potsdam.de/swa/people/pape/index.html), Hasso Plattner Institute, University of Postdam, Germany
+* [Tobias Pape](https://www.hpi.uni-potsdam.de/swa/people/pape/), Hasso Plattner Institute, University of Postdam, Germany
+
+**Past Managing Editors**
+
+* [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), Hasso Plattner Institute, University of Potsdam, Germany
 
 ## Advisory Board
 The role of the advisory board is to guide and support the work of the editorial board, to help planning longer-term editorial strategies, and to provide institutional memory. Advisory Board members serve for a period of three years, extendable to another three years.
