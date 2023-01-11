@@ -14,8 +14,6 @@ order: 500
 
 * [Cristina V. Lopes](http://www.ics.uci.edu/~lopes), University of California, Irvine, California (2016–2022)
 
-* [Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/), University of Oxford, UK
-
 **Associate Editors**
 
 * [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), HPI, University of Potsdam, Germany (Volume 7, 2022–2023)
