@@ -8,28 +8,33 @@ order: 500
 
 **Editor-in-Chief**
 
+* [Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/), University of Oxford, UK (since 2022)
+
+**Past Editors-in-Chief**
+* [Cristina V. Lopes](http://www.ics.uci.edu/~lopes), University of California, Irvine, California (2016–2022)
+
 * [Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/), University of Oxford, UK
 
 **Associate Editors**
 
-* [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), HPI, University of Potsdam, Germany (Volume 7)
-* [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6)
+* [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), HPI, University of Potsdam, Germany (Volume 7, 2022–2023)
+* [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6, 2021–2022)
 
 **Past Associate Editors**
 
-* [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), Oxford University, UK (Volume 5)
-* [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4)
-* [Matt Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3)
-* [Guido Salvaneschi](http://www.guidosalvaneschi.com/wp/), University of St. Gallen, Switzerland (Volume 2)
-* [Cristina V. Lopes](http://www.ics.uci.edu/~lopes) (Founding Editor-in-Chief), University of California, Irvine, California (Volume 1)
+* [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), Oxford University, UK (Volume 5, 2020–2021)
+* [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4, 2019–2020)
+* [Matt Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3, 2018–2019)
+* [Guido Salvaneschi](http://www.guidosalvaneschi.com/wp/), University of St. Gallen, Switzerland (Volume 2, 2017–2018)
+* [Cristina V. Lopes](http://www.ics.uci.edu/~lopes) (Founding Editor-in-Chief), University of California, Irvine, California (Volume 1, 2016–2017)
 
 **Managing Editors**
 
-* [Tobias Pape](https://www.hpi.uni-potsdam.de/swa/people/pape/), Hasso Plattner Institute, University of Postdam, Germany
+* [Tobias Pape](https://www.hpi.uni-potsdam.de/swa/people/pape/), Hasso Plattner Institute, University of Postdam, Germany (since 2016)
 
 **Past Managing Editors**
 
-* [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), Hasso Plattner Institute, University of Potsdam, Germany
+* [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), Hasso Plattner Institute, University of Potsdam, Germany (2016–2022)
 
 ## Advisory Board
 The role of the advisory board is to guide and support the work of the editorial board, to help planning longer-term editorial strategies, and to provide institutional memory. Advisory Board members serve for a period of three years, extendable to another three years.
