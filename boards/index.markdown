@@ -11,6 +11,7 @@ order: 500
 * [Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/), University of Oxford, UK (since 2022)
 
 **Past Editors-in-Chief**
+
 * [Cristina V. Lopes](http://www.ics.uci.edu/~lopes), University of California, Irvine, California (2016–2022)
 
 * [Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/), University of Oxford, UK
