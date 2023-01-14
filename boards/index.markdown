@@ -12,7 +12,7 @@ order: 500
 
 **Past Editors-in-Chief**
 
-* [Cristina V. Lopes](http://www.ics.uci.edu/~lopes), University of California, Irvine, California (2016–2022)
+* [Cristina V. Lopes](http://www.ics.uci.edu/~lopes) (Founding Editor-in-Chief), University of California, Irvine, California (2016–2022)
 
 **Associate Editors**
 
@@ -25,7 +25,7 @@ order: 500
 * [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4, 2019–2020)
 * [Matt Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3, 2018–2019)
 * [Guido Salvaneschi](http://www.guidosalvaneschi.com/wp/), University of St. Gallen, Switzerland (Volume 2, 2017–2018)
-* [Cristina V. Lopes](http://www.ics.uci.edu/~lopes) (Founding Editor-in-Chief), University of California, Irvine, California (Volume 1, 2016–2017)
+* [Cristina V. Lopes](http://www.ics.uci.edu/~lopes), University of California, Irvine, California (Volume 1, 2016–2017)
 
 **Managing Editors**
 
