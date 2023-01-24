@@ -16,11 +16,13 @@ order: 500
 
 **Associate Editors**
 
+* [Manuel Serrano](http://www-sop.inria.fr/members/Manuel.Serrano/), Inria; University of Côte d'Azur, France (Volume 8, 2023–2024)
+* [Martin Rinard](https://people.csail.mit.edu/rinard/), MIT, United States (Volume 8, 2023–2024)
 * [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), HPI, University of Potsdam, Germany (Volume 7, 2022–2023)
-* [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6, 2021–2022)
 
 **Past Associate Editors**
 
+* [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6, 2021–2022)
 * [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), Oxford University, UK (Volume 5, 2020–2021)
 * [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4, 2019–2020)
 * [Matt Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3, 2018–2019)
