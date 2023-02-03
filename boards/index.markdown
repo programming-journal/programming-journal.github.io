@@ -19,7 +19,7 @@ order: 500
 
 * [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), Oxford University, UK (Volume 5)
 * [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4)
-* [Matt Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3)
+* [Matthew Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3)
 * [Guido Salvaneschi](http://www.guidosalvaneschi.com/wp/), University of St. Gallen, Switzerland (Volume 2)
 * [Cristina V. Lopes](http://www.ics.uci.edu/~lopes) (Founding Editor-in-Chief), University of California, Irvine, California (Volume 1)
 
