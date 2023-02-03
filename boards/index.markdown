@@ -25,7 +25,7 @@ order: 500
 * [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6, 2021–2022)
 * [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), Oxford University, UK (Volume 5, 2020–2021)
 * [Stefan Marr](https://www.cs.kent.ac.uk/people/staff/sm951/), University of Kent, UK (Volume 4, 2019–2020)
-* [Matt Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3, 2018–2019)
+* [Mattew Flatt](https://www.cs.utah.edu/~mflatt/), University of Utah, USA (Volume 3, 2018–2019)
 * [Guido Salvaneschi](http://www.guidosalvaneschi.com/wp/), University of St. Gallen, Switzerland (Volume 2, 2017–2018)
 * [Cristina V. Lopes](http://www.ics.uci.edu/~lopes), University of California, Irvine, California (Volume 1, 2016–2017)
 
