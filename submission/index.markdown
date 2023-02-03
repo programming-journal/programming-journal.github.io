@@ -14,7 +14,6 @@ Submissions must use the [LaTeX template][latex template] of the journal. Please
 
 The template is also available in [Overleaf][overleaf].
 
-
 ## Language and Page Recommendations
 Papers must be written in English using high standards of writing. Papers that show poor mastery of the English language may be disqualified without review.
 
@@ -37,8 +36,8 @@ The absence of an abstract conforming to this specification is grounds for the r
 ## Attribution, Prior Papers, and Concurrent Submissions
 Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review on another journal or conference.
 
-[submit]: https://programming72.hotcrp.com/paper/new
+[submit]: https://programming81.hotcrp.com/paper/new
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
 [latex template]: https://github.com/programming-journal/programming/releases
-[template package]: https://github.com/programming-journal/programming/releases/download/v1.3a/programming-template_v1.3a.zip
+[template package]: https://github.com/programming-journal/programming/releases/download/v1.4a/programming-template_v1.4a.zip
 [overleaf]: https://www.overleaf.com/articles/programming/kzcgbdsnnyyt#.V7OJ85grKHs
