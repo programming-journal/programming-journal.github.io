@@ -27,6 +27,8 @@ authors:
   - name: "Mössenböck, Hanspeter"
     affiliation: "Johannes Kepler University Linz, Austria"
 
+arxiv: "2302.10098"
+file: "https://arxiv.org/pdf/2302.10098v1"
 excerpt: |
     Columnar databases are an established way to speed up online analytical processing (OLAP) queries. Nowadays, data processing (e.g., storage, visualization, and analytics) is often performed at the programming language level, hence it is desirable to also adopt columnar data structures for common language runtimes.
     
@@ -55,7 +57,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 3, Article
 Submission date: 2023-01-01  
 Publication date: 2023-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/9>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2302.10098v1)  
 
 
 ### Abstract

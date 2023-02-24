@@ -15,6 +15,8 @@ authors:
   - name: "Lopes, Cristina V."
     affiliation: "University of California at Irvine, USA"
 
+arxiv: "2302.10005"
+file: "https://arxiv.org/pdf/2302.10005v1"
 excerpt: |
     Similarity, or clone, detection has important applications in copyright violation, software theft, code search, and the detection of malicious components. There is now a good number of open source and proprietary clone detectors for programs written in traditional programming languages.
     However, the increasing adoption of deep learning models in software poses a challenge to these tools: these models implement functions that are inscrutable black boxes.
@@ -39,7 +41,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 3, Article
 Submission date: 2022-09-30  
 Publication date: 2023-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/12>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2302.10005v1)  
 
 
 ### Abstract

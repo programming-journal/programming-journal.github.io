@@ -27,6 +27,8 @@ authors:
   - name: "Hicks, Michael"
     affiliation: "University of Maryland, USA / Amazon, USA"
 
+arxiv: "2302.10076"
+file: "https://arxiv.org/pdf/2302.10076v1"
 excerpt: |
     #### Context
     
@@ -99,7 +101,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 3, Article
 Submission date: 2023-01-01  
 Publication date: 2023-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/14>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2302.10076v1)  
 
 
 ### Abstract

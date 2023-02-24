@@ -23,6 +23,8 @@ authors:
 
 artifactDoi: "10.5281/zenodo.7557341"
 artifactBadge: "functional"
+arxiv: "2302.10006"
+file: "https://arxiv.org/pdf/2302.10006v1"
 excerpt: |
     The Stream API was added in Java 8 to allow the declarative expression of data-processing logic, typically map-reduce-like data transformations on collections and datasets. The Stream API introduces two key abstractions. The stream, which is a sequence of elements available in a data source, and the stream pipeline, which contains operations (e.g., map, filter, reduce) that are applied to the elements in the stream upon execution. Streams are getting popular among Java developers as they leverage the conciseness of functional programming and ease the parallelization of data processing.
     
@@ -47,7 +49,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 3, Article
 Submission date: 2022-12-30  
 Publication date: 2023-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/10>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2302.10006v1)  
 Related Artifact: <https://doi.org/10.5281/zenodo.7557341>  
 
 

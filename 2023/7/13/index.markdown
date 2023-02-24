@@ -18,6 +18,8 @@ authors:
   - name: "Petricek, Tomas"
     affiliation: "University of Kent, UK / Charles University, Czechia"
 
+arxiv: "2302.10003"
+file: "https://arxiv.org/pdf/2302.10003v1"
 excerpt: |
     Programming requires much more than just writing code in a programming language. It is usually done in the context of a stateful environment, by interacting with a system through a graphical user interface. Yet, this wide space of possibilities lacks a common structure for navigation. Work on programming systems fails to form a coherent body of research, making it hard to improve on past work and advance the state of the art.
     
@@ -39,7 +41,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 3, Article
 Submission date: 2022-09-30  
 Publication date: 2023-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/13>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2302.10003v1)  
 
 
 ### Abstract

@@ -13,6 +13,8 @@ authors:
   - name: "Gabriel, Richard P."
     affiliation: "Hasso Plattner Institute, Germany"
 
+arxiv: "2302.12087"
+file: "https://arxiv.org/pdf/2302.12087v1"
 excerpt: |
     This essay is a picaresque---a first-person narrative relating the adventures of a rogue (me) sifting through the mind of Christopher Alexander as he left behind formalized design thinking in favor of a more intuitive, almost spiritual process.
     
@@ -34,7 +36,7 @@ The Art, Science, and Engineering of Programming, 2023, Vol. 7, Issue 3, Article
 Submission date: 2022-09-14  
 Publication date: 2023-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2023/7/8>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2302.12087v1)  
 
 
 ### Abstract
