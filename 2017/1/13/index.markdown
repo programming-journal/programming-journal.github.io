@@ -52,5 +52,8 @@ We present an implementation of *Edit Transactions* along with *Edit-Transaction
 
 
 [^1]: <mailto:toni.mattis@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+
 [^2]: <mailto:patrick.rein@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+
 [^3]: <mailto:robert.hirschfeld@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+

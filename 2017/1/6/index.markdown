@@ -57,4 +57,6 @@ Importance: Manipulation of multidimensional arrays is a common task in software
 
 
 [^1]: <mailto:orserang@uw.edu>, Freie Univeristät Berlin, Germany
+
 [^2]: <mailto:f.heyl@gmx.de>, Freie Univeristät Berlin, Germany
+

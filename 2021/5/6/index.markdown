@@ -41,4 +41,6 @@ In this paper, we propose lattice-based consistency types for replicated data (C
 
 
 [^1]: <mailto:xizhao@kth.se>
+
 [^2]: <mailto:phaller@kth.se>
+

@@ -68,5 +68,8 @@ Context: Static Application Security Testing (SAST) and Runtime Application Secu
 
 
 [^1]: <mailto:angel.luis.scull.pupo@vub.be>, Vrije Universiteit Brussel, Belgium
+
 [^2]: <mailto:jens.nicolay@vub.be>, Vrije Universiteit Brussel, Belgium
+
 [^3]: <mailto:egonzale@vub.be>, Vrije Universiteit Brussel, Belgium
+

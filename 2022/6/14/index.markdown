@@ -61,5 +61,8 @@ We consider our work to be an important step to use functional reactive programm
 
 
 [^1]: <mailto:svdvonde@vub.be>, Vrije Universiteit Brussel, Belgium
+
 [^2]: <mailto:trenaux@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+
 [^3]: <mailto:wdmeuter@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+

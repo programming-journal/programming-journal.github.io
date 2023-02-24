@@ -63,6 +63,10 @@ Importance. Interactive pipelines are complicated software artifacts that power 
 
 
 [^1]: <mailto:g.d.p.konat@tudelft.nl>, Delft University of Technology, Netherlands
+
 [^2]: <mailto:michael@steindorfer.name>, Delft University of Technology, Netherlands
+
 [^3]: <mailto:s.t.erdweg@tudelft.nl>, Delft University of Technology, Netherlands
+
 [^4]: <mailto:e.visser@tudelft.nl>, Delft University of Technology, Netherlands
+

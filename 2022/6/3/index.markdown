@@ -68,7 +68,12 @@ Our benchmarks show the viability of the approach from a performance point of vi
 
 
 [^1]: <mailto:nicolas.chappe@ens-lyon.fr>, University of Lyon, France / EnsL, France / Claude Bernard University Lyon 1, France / CNRS, France / Inria, France / LIP, France
+
 [^2]: <mailto:ludovic.henrio@cnrs.fr>, University of Lyon, France / EnsL, France / Claude Bernard University Lyon 1, France / CNRS, France / Inria, France / LIP, France
+
 [^3]: <mailto:amaury.maille@ens-lyon.fr>, University of Lyon, France / EnsL, France / Claude Bernard University Lyon 1, France / CNRS, France / Inria, France / LIP, France
+
 [^4]: <mailto:matthieu.moy@univ-lyon1.fr>, University of Lyon, France / EnsL, France / Claude Bernard University Lyon 1, France / CNRS, France / Inria, France / LIP, France
+
 [^5]: <mailto:hadrien.renaud@polytechnique.edu>, University of Lyon, France / EnsL, France / Claude Bernard University Lyon 1, France / CNRS, France / Inria, France / LIP, France / École Polytechnique, France / Institut Polytechnique de Paris, France
+

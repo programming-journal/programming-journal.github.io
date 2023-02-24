@@ -45,4 +45,6 @@ Another contribution of this paper is the formal model of SignalJ. As both mecha
 
 
 [^1]: <mailto:kamina@acm.org>, Ritsumeikan University, Japan
+
 [^2]: <mailto:aotani@is.titech.ac.jp>, The University of Tokyo, Japan
+

@@ -57,5 +57,8 @@ Importance: This work aims to provide a set of synchronization operators that he
 
 
 [^1]: <mailto:rhumbert@vub.be>
+
 [^2]: <mailto:jdekoste@vub.be>
+
 [^3]: <mailto:wdmeuter@vub.be>
+

@@ -98,5 +98,8 @@ This makes the technique suitable for modern applications which are increasingly
 
 
 [^1]: <mailto:matteo.marra@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+
 [^2]: <mailto:guillermopolito@gmail.com>, INRIA, France
+
 [^3]: <mailto:egonzale@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+

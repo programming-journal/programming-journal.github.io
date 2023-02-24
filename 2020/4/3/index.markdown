@@ -83,6 +83,10 @@ Importance:  Our experience indicates that ShillDB is a practical language for e
 
 
 [^1]: <mailto:ezrazigmond@gmail.com>, Harvard University, United States
+
 [^2]: <mailto:chong@seas.harvard.edu>, Harvard University, United States
+
 [^3]: <mailto:chrdimo@northwestern.edu>, Northwestern University, United States
+
 [^4]: <mailto:scott@galois.com>, Galois, Inc, United States
+

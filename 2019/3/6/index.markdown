@@ -110,7 +110,12 @@ processes such as subject reduction, communication safety, and progress are esta
 
 
 [^1]: <mailto:bejleriandi@gmail.com>, IBM GBS, Frankfurt, Germany
+
 [^2]: <mailto:edomnori@epoka.edu.al>, Canadian Institute of Technology, Tirana, Albania
+
 [^3]: <mailto:viering@dsp.tu-darmstadt.de>, TU Darmstadt, Germany
+
 [^4]: <mailto:patrick.thomas.eugster@usi.ch>, Universita della Svizzera Italiana, Switzerland
+
 [^5]: <mailto:mezini@st.informatik.tu-darmstadt.de>, TU Darmstadt, Germany
+

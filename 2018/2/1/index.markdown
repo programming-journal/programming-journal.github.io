@@ -95,6 +95,10 @@ fundamental invariants.
 
 
 [^1]: <mailto:guillermopolito@gmail.com>, Univ. Lille, CNRS, Centrale Lille, Inria, UMR 9189 - CRIStAL - Centre de Recherche en Informatique Signal et Automatique de Lille, France
+
 [^2]: <mailto:camille.teruel@gmail.com>, Inria, France
+
 [^3]: <mailto:stephane.ducasse@inria.fr>, INRIA, France
+
 [^4]: <mailto:luc.fabresse@gmail.com>, Mines Douai, IA, F-59508 Douai, France, France
+

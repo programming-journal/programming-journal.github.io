@@ -68,5 +68,8 @@ Extensibility and fine-tuning should be possible in these libraries to ensure a 
 
 
 [^1]: <mailto:cdetroye@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+
 [^2]: <mailto:jens.nicolay@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+
 [^3]: <mailto:wdmeuter@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+

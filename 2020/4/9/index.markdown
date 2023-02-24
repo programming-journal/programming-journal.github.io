@@ -53,4 +53,6 @@ Grounding: We implemented a generator named Protocool to demonstrate our algorit
 
 
 [^1]: <mailto:nakamaru@csg.ci.i.u-tokyo.ac.jp>, The University of Tokyo, Japan
+
 [^2]: <mailto:chibas@acm.org>, The University of Tokyo, Japan
+

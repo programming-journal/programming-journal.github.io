@@ -140,5 +140,8 @@ that access the components of compound data structures.
 
 
 [^1]: <mailto:matthew.pickering@bristol.ac.uk>, University of Bristol, United Kingdom
+
 [^2]: <mailto:Jeremy.Gibbons@cs.ox.ac.uk>, University of Oxford, United Kingdom
+
 [^3]: <mailto:nicolas.wu@bristol.ac.uk>, University of Bristol, United Kingdom
+

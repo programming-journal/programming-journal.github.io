@@ -71,6 +71,10 @@ We present a search-based recommender system that maximises the offline availabi
 
 
 [^1]: <mailto:lphilips@vub.ac.be>, Software Languages Lab, Belgium
+
 [^2]: <mailto:jdekoste@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+
 [^3]: <mailto:wdmeuter@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+
 [^4]: <mailto:cderoove@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+

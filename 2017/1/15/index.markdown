@@ -47,4 +47,6 @@ Our ultimate goal is to let programmers add any kind of new language construct t
 
 
 [^1]: <mailto:ichikawa@csg.ci.i.u-tokyo.ac.jp>, The University of Tokyo, Japan
+
 [^2]: <mailto:chiba@acm.org>, The University of Tokyo, Japan
+

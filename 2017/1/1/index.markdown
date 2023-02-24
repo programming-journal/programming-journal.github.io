@@ -66,7 +66,12 @@ Importance. We report some interesting variability-related bugs that we discover
 
 
 [^1]: <mailto:afla@itu.dk>, IT University of Copenhagen, Denmark
+
 [^2]: <mailto:jeam@itu.dk>, IT University of Copenhagen, Denmark
+
 [^3]: <mailto:adim@itu.dk>, IT University of Copenhagen, Denmark
+
 [^4]: <mailto:brabrand@itu.dk>, IT University of Copenhagen, Denmark
+
 [^5]: <mailto:wasowski@itu.dk>, IT University of Copenhagen, Denmark
+

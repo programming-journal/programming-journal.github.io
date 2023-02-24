@@ -76,5 +76,8 @@ Based on our findings, we believe that relational problems are an underutilized 
 
 
 [^1]: <mailto:jswrenn@cs.brown.edu>
+
 [^2]: <mailto:tbnelson@gmail.com>
+
 [^3]: <mailto:sk@cs.brown.edu>
+

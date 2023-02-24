@@ -61,8 +61,14 @@ We evaluate Clafer using a power window case study, and comparing it against oth
 
 
 [^1]: <mailto:pjuo@itu.dk>, IT University of Copenhagen, Denmark
+
 [^2]: <mailto:a9sarkar@gsd.uwaterloo.ca>, University of Waterloo, Canada
+
 [^3]: <mailto:rrm.itm@cbs.dk>, Department of Technology, Kristiania University College, Norway
+
 [^4]: <mailto:mantkiew@gsd.uwaterloo.ca>, University of Waterloo, Canada
+
 [^5]: <mailto:czarnecki@acm.org>, University of Waterloo, Canada
+
 [^6]: <mailto:wasowski@itu.dk>, IT University of Copenhagen, Denmark
+

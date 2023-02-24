@@ -49,5 +49,8 @@ We present an idealised calculus for dataflow with both imperative and functiona
 
 
 [^1]: <mailto:cwtsteven@gmail.com>
+
 [^2]: <mailto:d.r.ghica@cs.bham.ac.uk>
+
 [^3]: <mailto:koko.muro.m@gmail.com>
+

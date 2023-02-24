@@ -45,10 +45,18 @@ Network programmability will be required to handle future increased network traf
 
 
 [^1]: <mailto:sterz@informatik.uni-marburg.de>
+
 [^2]: <mailto:eichholz@st.informatik.tu-darmstadt.de>
+
 [^3]: <mailto:mogk@st.informatik.tu-darmstadt.de>
+
 [^4]: <mailto:baumgaertner@cs.tu-darmstadt.de>
+
 [^5]: <mailto:graubner@informatik.uni-marburg.de>
+
 [^6]: <mailto:mhollick@seemoo.tu-darmstadt.de>
+
 [^7]: <mailto:mezini@informatik.tu-darmstadt.de>
+
 [^8]: <mailto:freisleb@informatik.uni-marburg.de>
+

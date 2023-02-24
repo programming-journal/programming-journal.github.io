@@ -57,5 +57,8 @@ Since producing tutorials requires effort, knowing with which type of tutorial l
 
 
 [^1]: <mailto:verena.kaefer@informatik.uni-stuttgart.de>, Universität Stuttgart, Germany
+
 [^2]: <mailto:daniel.kulesz@informatik.uni-stuttgart.de>, Institute for Software Technology, University of Stuttgart, Germany
+
 [^3]: <mailto:stefan.wagner@informatik.uni-stuttgart.de>, University of Stuttgart, Germany
+

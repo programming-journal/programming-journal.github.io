@@ -60,5 +60,8 @@ Full text: [PDF](https://arxiv.org/pdf/1803.10215v1)
 
 
 [^1]: <mailto:l.e.desouzaamorim-1@tudelft.nl>, Delft University of Technology, Netherlands
+
 [^2]: <mailto:m.j.steindorfer@tudelft.nl>, Delft University of Technology, Netherlands
+
 [^3]: <mailto:E.Visser@tudelft.nl>, Delft University of Technology, Netherlands
+

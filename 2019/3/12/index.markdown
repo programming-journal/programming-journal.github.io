@@ -82,5 +82,8 @@ flexible and could be used in many new languages.
 
 
 [^1]: <mailto:arorahrsh@ecs.vuw.ac.nz>, Victoria University of Wellington, New Zealand
+
 [^2]: <mailto:marco.servetto@ecs.vuw.ac.nz>, Victoria University Wellington, New Zealand
+
 [^3]: <mailto:bruno@cs.hku.hk>, The University of Hong Kong, Hong Kong
+

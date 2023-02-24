@@ -57,4 +57,6 @@ Active expressions enable the separation of essential from non-essential parts w
 
 
 [^1]: <mailto:stefan.ramson@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+
 [^2]: <mailto:robert.hirschfeld@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+

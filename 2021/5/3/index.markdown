@@ -120,5 +120,8 @@ requirements are not embarrassingly parallel.
 
 
 [^1]: <mailto:tim.soethout@cwi.nl>, ING Bank / Centrum Wiskunde & Informatica (CWI), Netherlands
+
 [^2]: <mailto:storm@cwi.nl>, Centrum Wiskunde & Informatica (CWI) / Universiteit Groningen, Netherlands
+
 [^3]: <mailto:Jurgen.Vinju@cwi.nl>, Centrum Wiskunde & Informatica (CWI) / TU Eindhoven, Netherlands
+

@@ -61,5 +61,8 @@ Importance: This survey provides a starting point for valuable pedagogic baselin
 
 
 [^1]: <mailto:e.murphy@bath.ac.uk>, University of Bath, United Kingdom
+
 [^2]: <mailto:tcrick@cardiffmet.ac.uk>, Cardiff Metropolitan University, United Kingdom
+
 [^3]: <mailto:jhd@cs.bath.ac.uk>, University of Bath, United Kingdom
+

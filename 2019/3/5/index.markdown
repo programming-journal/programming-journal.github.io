@@ -84,5 +84,8 @@ support reactive distributed systems. Our runtime is the first to bridge this re
 
 
 [^1]: <mailto:fmyter@vub.ac.be>, Vrije Unversiteit Brussel, Belgium
+
 [^2]: <mailto:Christophe.Scholliers@UGent.be>, Ghent University, Belgium
+
 [^3]: <mailto:wdmeuter@vub.ac.be>, Vrije Universiteit Brussel, Belgium
+

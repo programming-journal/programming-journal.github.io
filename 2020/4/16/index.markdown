@@ -83,5 +83,8 @@ Importance: Although we demonstrate our design approach on the Stratego programm
 
 
 [^1]: <mailto:j.smits-1@tudelft.nl>, Delft University of Technology, Netherlands
+
 [^2]: <mailto:g.d.p.konat@tudelft.nl>, Delft University of Technology, Netherlands
+
 [^3]: <mailto:eelcovis@gmail.com>, Delft University of Technology, Netherlands
+

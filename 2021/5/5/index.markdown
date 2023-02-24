@@ -82,7 +82,12 @@ Classifying errors as being of high or low importance aids developers in priorit
 
 
 [^1]: <mailto:mvdcamme@vub.ac.be>
+
 [^2]: <mailto:Laurent.Christophe@vub.be>
+
 [^3]: <mailto:d.dinucci@uvt.nl>
+
 [^4]: <mailto:wdmeuter@vub.ac.be>
+
 [^5]: <mailto:cderoove@vub.ac.be>
+

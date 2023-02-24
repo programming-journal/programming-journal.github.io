@@ -130,5 +130,8 @@ orderly science. It also benefits programmers trying to choose a language.
 
 
 [^1]: <mailto:LuKuangchen1024@gmail.com>, Brown University, USA
+
 [^2]: <mailto:benjaminlgreenman@gmail.com>, Brown University, USA
+
 [^3]: <mailto:shriram@gmail.com>, Brown University, USA
+

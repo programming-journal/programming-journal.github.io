@@ -85,5 +85,8 @@ To our knowledge, this document is the first scholarly discussion of “tailored
 
 
 [^1]: <mailto:naela.courant@inria.fr>, Inria, France
+
 [^2]: <mailto:julien.lepiller@yale.edu>, Yale University, USA
+
 [^3]: <mailto:gabriel.scherer@gmail.com>, Inria, France
+

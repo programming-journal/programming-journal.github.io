@@ -53,4 +53,6 @@ We formalize our design, extending an existing formal model of the Typed Racket 
 
 
 [^1]: <mailto:yuqfu@iu.edu>, Indiana University, USA
+
 [^2]: <mailto:samth@cs.indiana.edu>, Indiana University, USA
+

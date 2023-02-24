@@ -95,6 +95,10 @@ thorough investigation of this strategy.
 
 
 [^1]: <mailto:benjaminlgreenman@gmail.com>, Brown University, USA
+
 [^2]: <mailto:lukas.lazarek@eecs.northwestern.edu>, Northwestern University, USA
+
 [^3]: <mailto:chrdimo@northwestern.edu>, Northwestern University, USA
+
 [^4]: <mailto:matthias@ccs.neu.edu>, Northeastern University, USA
+

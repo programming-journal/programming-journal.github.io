@@ -76,5 +76,8 @@ Importance. Reflectivity exposes powerful abstractions to deal with partial beha
 
 
 [^1]: <mailto:steven.costiou@inria.fr>, INRIA, France
+
 [^2]: <mailto:vincent.aranega@inria.fr>, INRIA, France
+
 [^3]: <mailto:denker@acm.org>, INRIA, France
+

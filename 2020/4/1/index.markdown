@@ -46,5 +46,8 @@ This paper presents the array capability design space and show how it applies to
 
 
 [^1]: <mailto:beatrice@dsv.su.se>, Stockholm University, Sweden
+
 [^2]: <mailto:eliasca@kth.se>, KTH Royal Institute of Technology, Sweden
+
 [^3]: <mailto:tobias.wrigstad@it.uu.se>, Uppsala University, Sweden
+

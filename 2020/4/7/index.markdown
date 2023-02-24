@@ -59,4 +59,6 @@ These programming techniques allow us to redefine not only the most basic functi
 
 
 [^1]: <mailto:egisatoshi@gmail.com>, Rakuten Institute of Technology, Japan
+
 [^2]: <mailto:nyuichi@is.s.u-tokyo.ac.jp>, The University of Tokyo, Japan
+

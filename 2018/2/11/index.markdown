@@ -57,4 +57,6 @@ Our work makes provenance tracking available to users of DSH at little cost. Alt
 
 
 [^1]: <mailto:jan.stolarek@ed.ac.uk>, The University of Edinburgh, United Kingdom
+
 [^2]: <mailto:jcheney@inf.ed.ac.uk>, The University of Edinburgh, United Kingdom
+

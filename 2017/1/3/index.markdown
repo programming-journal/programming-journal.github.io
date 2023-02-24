@@ -56,7 +56,12 @@ The importance of this work lies in providing more formal (ontologically rich, n
 
 
 [^1]: <mailto:johanneshaertel@uni-koblenz.de>, University of Koblenz-Landau, Germany
+
 [^2]: <mailto:lukashaertel@gmail.com>, University of Koblenz and Landau, Germany, Germany
+
 [^3]: <mailto:rlaemmel@gmail.com>, Universität Koblenz-Landau, Germany
+
 [^4]: <mailto:dotnetby@gmail.com>, Universität Koblenz-Landau, Germany
+
 [^5]: <mailto:heinz@uni-koblenz.de>, University of Koblenz, Germany
+

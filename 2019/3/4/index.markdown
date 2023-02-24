@@ -49,4 +49,6 @@ Finally, we contextualize this example in archaeology and lay the groundwork for
 
 
 [^1]: <mailto:aycock@ucalgary.ca>, University of Calgary, Canada
+
 [^2]: <mailto:tjc528@york.ac.uk>, University of York, United Kingdom
+

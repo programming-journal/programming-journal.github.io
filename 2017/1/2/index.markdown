@@ -54,4 +54,6 @@ Our method of separation of code assets facilitates a better separation of work,
 
 
 [^1]: <mailto:lorenz@openu.ac.il>, Open University of Israel, Israel
+
 [^2]: <mailto:brosenan@gmail.com>, University of Haifa, Israel
+

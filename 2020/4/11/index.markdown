@@ -60,5 +60,8 @@ Importance: The adoption of notebooks by novice-programmers and end-users has ma
 
 
 [^1]: <mailto:m.verano.merino@tue.nl>, Eindhoven University of Technology, Netherlands
+
 [^2]: <mailto:Jurgen.Vinju@cwi.nl>, Centrum Wiskunde & Informatica - TU Eindhoven, Netherlands
+
 [^3]: <mailto:storm@cwi.nl>, CWI - University of Groningen, Netherlands
+

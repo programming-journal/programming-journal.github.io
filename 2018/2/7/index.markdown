@@ -61,8 +61,14 @@ We use our proposed description languages to discuss a series of application sce
 
 
 [^1]: <mailto:anthony.anjorin@upb.de>, Paderborn University, Germany
+
 [^2]: <mailto:enes@mail.uni-paderborn.de>, Paderborn University, Germany
+
 [^3]: <mailto:erhan.leblebici@es.tu-darmstadt.de>, TU Darmstadt, Germany
+
 [^4]: <mailto:andy.schuerr@es.tu-darmstadt.de>, TU Darmstadt, Germany
+
 [^5]: <mailto:marius.lauder@continental-corporation.com>, Continental Automotive GmbH, Germany, Germany
+
 [^6]: <mailto:martin.witte@siemens.com>, Siemens AG, Germany
+

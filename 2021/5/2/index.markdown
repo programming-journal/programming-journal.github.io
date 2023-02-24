@@ -104,4 +104,6 @@ presented as an evidence of viability of the system.
 
 
 [^1]: <mailto:bertrand.petit@inria.fr>, INRIA, France
+
 [^2]: <mailto:manuel.serrano@inria.fr>, INRIA, France
+

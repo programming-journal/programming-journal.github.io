@@ -73,6 +73,10 @@ curricula, such as the Bootstrap:Physics curriculum, to take flight. Thousands o
 
 
 [^1]: <mailto:jpolitz@eng.ucsd.edu>, University of California San Diego, United States
+
 [^2]: <mailto:blerner@ccs.neu.edu>, Northeastern University, United States
+
 [^3]: <mailto:sorawee.pwase@gmail.com>, Brown University, United States
+
 [^4]: <mailto:sk@cs.brown.edu>, Brown University, United States
+

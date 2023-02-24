@@ -112,7 +112,12 @@ provide researchers new to the field of liveness with an initial overview.
 
 
 [^1]: <mailto:patrick.rein@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+
 [^2]: <mailto:stefan.ramson@hpi.de>, Hasso Plattner Institute, Germany
+
 [^3]: <mailto:jens.lincke@hpi.uni-potsdam.de>, Hasso Plattner Institute, University of Potsdam, Germany
+
 [^4]: <mailto:robert.hirschfeld@gmx.net>, Hasso-Plattner-Institut (HPI), Germany
+
 [^5]: <mailto:tobias.pape@hpi.uni-potsdam.de>, Hasso Plattner Institute, Germany
+

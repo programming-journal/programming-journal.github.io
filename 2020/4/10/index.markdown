@@ -54,7 +54,12 @@ The model was instantiated in a core language whose semantics is defined by a la
 
 
 [^1]: <mailto:joao.seco@fct.unl.pt>, Universidade NOVA de Lisboa, Portugal
+
 [^2]: <mailto:paulo.ferreira@outsystems.com>, OutSystems, Portugal
+
 [^3]: <mailto:hugo.lourenco@outsystems.com>, OutSystems, Portugal
+
 [^4]: <mailto:carla.ferreira@fct.unl.pt>, Universidade NOVA de Lisboa, Portugal
+
 [^5]: <mailto:lucio.ferrao@outsystems.com>, OutSystems, Portugal
+

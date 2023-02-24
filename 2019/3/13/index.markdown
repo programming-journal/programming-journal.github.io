@@ -64,6 +64,10 @@ both frameworks aid users in the handling of typical failure scenarios.
 
 
 [^1]: <mailto:pseifer@uni-koblenz.de>, University of Koblenz-Landau, Germany
+
 [^2]: <mailto:mleinberger@uni-koblenz.de>, University of Koblenz-Landau, Germany
+
 [^3]: <mailto:laemmel@uni-koblenz.de>, University of Koblenz-Landau, Germany
+
 [^4]: <mailto:staab@uni-koblenz.de>, University of Koblenz-Landau and University of Southampton, Germany
+

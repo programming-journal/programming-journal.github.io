@@ -41,4 +41,6 @@ This work represents the first example of in-vivo model checking operating direc
 
 
 [^1]: <mailto:gene@ccs.neu.edu>, Northeastern University, United States
+
 [^2]: <mailto:martin.quinson@ens-rennes.fr>, École Normale Supérieure Rennes, France
+

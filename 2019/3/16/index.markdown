@@ -41,6 +41,10 @@ Approaches for traditional programming language design center around theoretical
 
 
 [^1]: <mailto:mcoblenz@cs.cmu.edu>, Carnegie Mellon University, United States
+
 [^2]: <mailto:jonathan.aldrich@cs.cmu.edu>, Carnegie Mellon University, United States
+
 [^3]: <mailto:bam@cs.cmu.edu>, Carnegie Mellon University, United States
+
 [^4]: <mailto:sunshine@cs.cmu.edu>, Carnegie Mellon University, United States
+

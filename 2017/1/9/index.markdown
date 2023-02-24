@@ -41,4 +41,6 @@ We propose the design of a new module system that incorporates models and model 
 
 
 [^1]: <mailto:S.T.Erdweg@tudelft.nl>, TU Delft, Netherlands
+
 [^2]: <mailto:klaus.ostermann@uni-tuebingen.de>, University of Tübingen, Germany
+

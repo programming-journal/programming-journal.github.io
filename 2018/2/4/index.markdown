@@ -56,7 +56,12 @@ Importance: Using introspection in user code is a novel approach to tackling the
 
 
 [^1]: <mailto:manuel.rigger@jku.at>, Johannes Kepler University Linz, Austria
+
 [^2]: <mailto:rene.mayrhofer@jku.at>, Johannes Kepler University Linz, Austria
+
 [^3]: <mailto:roland.schatz@oracle.com>, Oracle Labs, Austria
+
 [^4]: <mailto:matthias.grimmer@oracle.com>, Oracle Labs, Austria
+
 [^5]: <mailto:hanspeter.moessenboeck@jku.at>, Johannes Kepler University Linz, Austria
+

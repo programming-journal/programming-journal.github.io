@@ -33,4 +33,6 @@ Automated specification-based testing has a long history with several notable to
 
 
 [^1]: <mailto:chinjani@myvuw.ac.nz>
+
 [^2]: <mailto:david.pearce@mcs.vuw.ac.nz>
+

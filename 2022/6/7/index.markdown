@@ -66,3 +66,4 @@ Understanding the crucial role played by associativity clarifies when continuati
 
 
 [^1]: <mailto:jeremy.gibbons@cs.ox.ac.uk>, University of Oxford, UK
+

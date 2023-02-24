@@ -81,4 +81,6 @@ modularity and reuse of shallow EDSLs.
 
 
 [^1]: <mailto:wxzhang2@cs.hku.hk>, The University of Hong Kong, Hong Kong
+
 [^2]: <mailto:bruno@cs.hku.hk>, The University of Hong Kong, Hong Kong
+

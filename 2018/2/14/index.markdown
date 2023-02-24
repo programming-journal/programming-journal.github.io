@@ -67,7 +67,12 @@ Importance: Experience with Truffle Instrumentation validates the notion that ad
 
 
 [^1]: <mailto:mlvdv@acm.org>, Oracle Labs, United States
+
 [^2]: <mailto:chris.seaton@oracle.com>, Oracle Labs, United Kingdom
+
 [^3]: <mailto:haupt@acm.org>, self, Germany
+
 [^4]: <mailto:christian.humer@oracle.com>, Oracle Labs, Switzerland
+
 [^5]: <mailto:thomas.wuerthinger@oracle.com>, Oracle Labs, Switzerland
+

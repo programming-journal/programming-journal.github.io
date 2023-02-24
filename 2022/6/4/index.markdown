@@ -112,5 +112,8 @@ work through complex staging or partial evaluation systems.
 
 
 [^1]: <mailto:rawalia@indiana.edu>, Indiana University, USA
+
 [^2]: <mailto:ccshan@indiana.edu>, Indiana University, USA
+
 [^3]: <mailto:samth@indiana.edu>, Indiana University, USA
+

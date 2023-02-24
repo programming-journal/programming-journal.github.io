@@ -81,8 +81,14 @@ As both educators and programmers, we believe PBT is a valuable tool for student
 
 
 [^1]: <mailto:tbn@cs.brown.edu>, Brown University, USA
+
 [^2]: <mailto:elijah_rivera@brown.edu>, Brown University, USA
+
 [^3]: <mailto:ssoucie@iu.edu>, Indiana University, USA
+
 [^4]: <mailto:thomas_del_vecchio@brown.edu>, Brown University, USA
+
 [^5]: <mailto:jswrenn@cs.brown.edu>, Brown University, USA
+
 [^6]: <mailto:shriram@brown.edu>, Brown University, USA
+

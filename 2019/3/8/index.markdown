@@ -102,5 +102,8 @@ the next story about monads and proofs, then this tale is for you.
 
 
 [^1]: <mailto:sad@informatik.uni-kiel.de>, CAU Kiel, Germany
+
 [^2]: <mailto:jan.christiansen@hs-flensburg.de>, Flensburg University of Applied Sciences, Germany
+
 [^3]: <mailto:fte@informatik.uni-kiel.de>, University of Kiel, Germany
+

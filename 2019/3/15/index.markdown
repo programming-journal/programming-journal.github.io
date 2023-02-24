@@ -90,5 +90,8 @@ patterns available with very little effort, thereby improving and promoting the 
 
 
 [^1]: <mailto:Rodin.Aarssen@cwi.nl>, CWI, Netherlands
+
 [^2]: <mailto:Jurgen.Vinju@cwi.nl>, CWI, Netherlands
+
 [^3]: <mailto:T.van.der.Storm@cwi.nl>, CWI, Netherlands
+

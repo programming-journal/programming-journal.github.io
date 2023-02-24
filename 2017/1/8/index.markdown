@@ -44,5 +44,8 @@ The case studies were performed in collaboration with engineers from Ericsson AB
 
 
 [^1]: <mailto:s.j.thompson@kent.ac.uk>, University of Kent, United Kingdom
+
 [^2]: <mailto:huiqing.li@ee.co.uk>, University of Kent, United Kingdom
+
 [^3]: <mailto:andreas.schumacher@mac.com>, Ericsson AB, Sweden
+

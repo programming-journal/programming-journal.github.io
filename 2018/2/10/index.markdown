@@ -54,3 +54,4 @@ Understand your aesthetic sensitivities and you may gain considerable insight on
 
 
 [^1]: <mailto:didier@lrde.epita.fr>, EPITA Research and Development Laboratory (LRDE), France
+

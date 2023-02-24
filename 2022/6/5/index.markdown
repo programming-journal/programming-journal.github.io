@@ -55,6 +55,10 @@ It will serve as a basis for designing advanced language features like module sy
 
 
 [^1]: <mailto:yudaitnb@prg.is.titech.ac.jp>, Tokyo Institute of Technology, Japan
+
 [^2]: <mailto:luthfanlubis@prg.is.titech.ac.jp>, Tokyo Institute of Technology, Japan
+
 [^3]: <mailto:tomoyuki-aotani@mamezou.com>, Mamezou, Japan
+
 [^4]: <mailto:masuhara@acm.org>, Tokyo Institute of Technology, Japan
+

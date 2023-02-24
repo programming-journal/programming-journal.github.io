@@ -47,7 +47,12 @@ We believe our concurrency-model-agnostic approach helps developers of applicati
 
 
 [^1]: <mailto:dominik.aumayr@jku.at>
+
 [^2]: <mailto:s.marr@kent.ac.uk>
+
 [^3]: <mailto:s.kaleba@kent.ac.uk>
+
 [^4]: <mailto:egonzale@vub.ac.be>
+
 [^5]: <mailto:hanspeter.moessenboeck@jku.at>
+

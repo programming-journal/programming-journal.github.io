@@ -44,4 +44,6 @@ We further find that clones between different repositories are far more common t
 
 
 [^1]: <mailto:Malin.Kallen@it.uu.se>
+
 [^2]: <mailto:tobias.wrigstad@it.uu.se>
+

@@ -51,6 +51,10 @@ This architecture allows for an efficient and easy-to-write snapshot-based rever
 
 
 [^1]: <mailto:kapil@ccs.neu.edu>, Northeastern University, USA
+
 [^2]: <mailto:tyler@csail.mit.edu>, MIT, USA
+
 [^3]: <mailto:asrabkin@gmail.com>, Cloudera, USA
+
 [^4]: <mailto:gene@ccs.neu.edu>, Northeastern University, USA
+
