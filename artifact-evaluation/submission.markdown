@@ -22,7 +22,7 @@ Artifacts do _not_ need to be anonymous; reviewers will be aware of author ident
 
 ### Submission System
 
-Submit your artifact documentation via the [online submission system](https://easychair.org/conferences/?conf=programmingartifacts0).
+Submit your artifact documentation via the [online submission system](https://easychair.org/conferences/?conf=programmingartifacts1).
 
 Please upload a single file that includes the URL to your artifact, the hash of the artifact at submission time, and the content of the README file.
 
