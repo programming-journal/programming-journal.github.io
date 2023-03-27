@@ -13,6 +13,21 @@ To celebrate the work of the community around the journal, we have instituted th
 
 * **Outstanding Reviewer Awards**: given annually to up to 3 members of the Standing Review Committee by the Editorial Board of the journal, this award recognizes these members' stellar reviewing service.
 
+### 2023
+
+* Reviewers' Choice Awardee  
+   [Notes on "Notes on the Synthesis of Form" – Dawning Insights in Early Christopher Alexander](https://doi.org/10.22152/programming-journal.org/2023/7/8)  
+Richard P. Gabriel
+
+* Editors' Choice Awardee  
+   [Technical Dimensions of Programming Systems](https://doi.org/10.22152/programming-journal.org/2023/7/13)  
+Joel Jakubovic, Jonathan Edwards, and Tomas Petricek
+
+* Outstanding Reviewer Awardee
+
+  * Guy L. Steele,
+     Oracle Labs, USA
+
 ### 2022
 
 * Reviewers' Choice Awardee  
