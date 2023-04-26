@@ -74,7 +74,7 @@ Deviations from this ideal must be for good reason. A non-exclusive list of just
 *   Some of the results are performance data and therefore exact numbers depend on the particular hardware. In this case, the artifact should explain how to recognize when experiments on other hardware reproduce the high-level results (e.g., that a certain optimization exhibits a particular trend, or that comparing two tools one outperforms the other in a certain class of cases).
 *   In some cases repeating the evaluation may take a long time. Reviewers may not reproduce full results in such cases.
 
-In some cases, the artifact may require specialized hardware (e.g., a CPU with a particular new feature, a specific class of GPU, or a cluster of GPUs). For such cases, authors should contact the Artifact Evaluation Co-Chairs ([Patrick Rein and Fabio Niephaus](mailto:patrick.rein@hpi.uni-potsdam.de,fabio.niephaus@hpi.uni-potsdam.de?subject=ProgrammingAE)) as soon as possible after their articles’ acceptance notification to work out how to make these possible to evaluate. One possible outcome is that the authors of the artifact requiring specialized hardware pay for a cloud instance with the hardware, which reviewers could access remotely.
+In some cases, the artifact may require specialized hardware (e.g., a CPU with a particular new feature, a specific class of GPU, or a cluster of GPUs). For such cases, authors should contact the Artifact Evaluation Chairs as soon as possible after their articles’ acceptance notification to work out how to make these possible to evaluate. One possible outcome is that the authors of the artifact requiring specialized hardware pay for a cloud instance with the hardware, which reviewers could access remotely.
 
 
 #### Reusable
