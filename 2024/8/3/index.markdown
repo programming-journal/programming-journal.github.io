@@ -18,6 +18,8 @@ authors:
   - name: "Strassburger, Lutz"
     affiliation: "Inria, France / École Polytechnique, France"
 
+arxiv: "2306.12411"
+file: "https://arxiv.org/pdf/2306.12411v1"
 excerpt: |
     A compiler consists of a sequence of phases going from lexical analysis to
     code generation. Ideally, the formal verification of a compiler should include
@@ -77,7 +79,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 1, Article
 Submission date: 2023-02-01  
 Publication date: 2023-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2306.12411v1)  
 
 
 ### Abstract

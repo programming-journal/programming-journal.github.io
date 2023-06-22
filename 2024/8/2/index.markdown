@@ -24,6 +24,8 @@ authors:
   - name: "Tesone, Pablo"
     affiliation: "University of Lille, France / Inria, France / CNRS, France / Centrale Lille, France / UMR 9189 CRIStAL, France"
 
+arxiv: "2306.12410"
+file: "https://arxiv.org/pdf/2306.12410v1"
 excerpt: |
     In object-oriented languages, method visibility modifiers hold a key role in separating internal methods from the public API. Protected visibility modifiers offer a way to hide methods from external objects while authorizing internal use and overriding in subclasses. While present in main statically-typed languages, visibility modifiers are not as common or mature in dynamically-typed languages.  
     
@@ -41,7 +43,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 1, Article
 Submission date: 2023-02-01  
 Publication date: 2023-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/2>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2306.12410v1)  
 
 
 ### Abstract
