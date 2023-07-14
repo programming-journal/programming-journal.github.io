@@ -12,6 +12,8 @@ author:
   name: The  editors of The Art, Science, and Engineering of Programming
   email: editors@programming-journal.org
 
+menu_categories: ["The Journal", "For Authors", "Issues"]
+
 #baseurl: /
 
 highlighter: rouge

@@ -40,7 +40,7 @@
     {% assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.category != nil" | sort:"order" %}
     {% endcomment %} 
     {% assign pages = site.pages | where_exp: "page", "page.category != nil" | sort:"order" %}
-    {% assign all_categories = pages | group_by: "category" | sort: 'name' | reverse %}
+    {% assign all_categories = pages | group_by: "category" %}
     {% assign local_pages = pages %}
     <div class="container">
       <div class="row hidden-xs" style="position: relative">
@@ -136,7 +136,9 @@
           <header id="mainheader" class="hidden-xs">
             <nav id="mainnav">
                 <ul>
-                  {% for category in all_categories %}
+		  {% for category_name in site.menu_categories %}
+		  {% assign filtered_category = all_categories | where: 'name', category_name %}
+		  {% for category in filtered_category %}
                   <li class="h3" id="main-{{category.name | uri_escape | downcase }}">{{category.name}}</li>
                   {% assign local_pages = category.items %}
                   <li><ul>
@@ -163,6 +165,7 @@
                 </a></li>
                     {% endfor %}
                   </ul></li>
+                    {% endfor %}
                     {% endfor %}
                   </ul>
             </nav>
