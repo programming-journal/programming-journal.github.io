@@ -18,6 +18,8 @@ authors:
   - name: "Cooperman, Gene"
     affiliation: "Northeastern University, USA"
 
+arxiv: "2212.05468"
+file: "https://arxiv.org/pdf/2212.05468v2"
 excerpt: |
     #### Context
     
@@ -107,7 +109,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 1, Article
 Submission date: 2023-02-01  
 Publication date: 2023-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/1>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2212.05468v2)  
 
 
 ### Abstract

@@ -2,7 +2,7 @@
 title: "Volume 8"
 type: "volume"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2024%2F8"
-date: "2023-06-21"
+date: "2023-06-22"
 ---
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8>
 
