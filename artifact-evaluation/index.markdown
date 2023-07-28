@@ -53,8 +53,9 @@ The badge can be earned by an artifact without the _Supports Claims_ badge.
 
 We expect artifacts that are submitted for artifact evaluation to be available publicly.
 Authors who want an artifact to be considered for the _Supports Claims_ badge without making it available publicly must justify why the artifact cannot be made available.
+The reason will be listed on the article's web page to inform readers of the unavailability.  
 
-The badge can also be awarded to artifacts that choose embargoed access (publicly available after a specific date) or restricted access (access only on request), if authors can justify why they limit access to the artifact.
+The badge can also be awarded to artifacts that choose embargoed access (publicly available after a specific date) or restricted access (access only on request) if authors can justify why they limit access to the artifact.
 
 There are two routes for publication:
 
