@@ -57,7 +57,7 @@ The reason will be listed on the article's web page to inform readers of the una
 
 The badge can also be awarded to artifacts that choose embargoed access (publicly available after a specific date) or restricted access (access only on request) if authors can justify why they limit access to the artifact.
 
-There are two routes for publication:
+There are two routes for the publication of the artifact:
 
 1.  Authors upload a snapshot of the complete artifact to [Zenodo](https://zenodo.org/), which provides a DOI specific to the artifact. Note that GitHub etc. are not adequate for receiving this badge (see FAQ), and that Zenodo provides a way to make subsequent revisions of the artifact available and linked from the specific version. Please upload your artifact to the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/). Please send the resulting DOI to the AEC chairs.
 2.  Authors can send the complete artifact to the AEC chairs to take care of publication via [Zenodo](https://zenodo.org/).
