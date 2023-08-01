@@ -46,7 +46,7 @@ The AEC evaluates each artifact and awards one of the following badges: _Availab
 
 #### Available
 
-<aside style="float:right;" ><img src="../assets/images/ae_available.svg" width=200 alt="available badge"></aside>
+<!-- <aside style="float:right;" ><img src="../assets/images/ae_available.svg" width=200 alt="available badge"></aside> -->
 
 This badge is earned by artifacts that are made publicly available _in an archival location_.
 The badge can be earned by an artifact without the _Supports Claims_ badge.
@@ -65,7 +65,7 @@ There are two routes for the publication of the artifact:
 
 #### Supports Claims
 
-<aside style="float:right;" ><img src="../assets/images/ae_functional.svg" width=200 alt="functional badge"></aside>
+<!-- <aside style="float:right;" ><img src="../assets/images/ae_functional.svg" width=200 alt="functional badge"></aside> -->
 
 This is the basic “accepted” outcome for an artifact. An artifact can be awarded a _Supports Claims_ badge if the artifact supports all claims made in the article, possibly excluding some claims if there are very good reasons they cannot be supported. In the ideal case, an artifact with this designation includes all relevant materials (code, dependencies, input data, benchmark scripts, questionnaires, raw data) and the artifact’s documentation is sufficient for reviewers to reproduce the exact results described in the article. The material should also include all required external resources. For instance, if the artifact is claimed to outperform a related system in some way (in time, accuracy, etc.) and that related system was used to generate new numbers for the article (e.g., an existing tool was run on new benchmarks not considered by the corresponding publication), artifacts should include a version of that related system and instructions for reproducing the numbers used for comparison as well. If the alternative tool crashes on a subset of the inputs, simply note this expected behavior.
 
