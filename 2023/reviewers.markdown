@@ -1,5 +1,5 @@
 ---
-title: "Volume 7, Issue 3: Reviewers"
+title: "Volume 7: Reviewers"
 ---
 
 ## Standing Review Committee
