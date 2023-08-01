@@ -40,7 +40,7 @@ After submitting their artifact, there is a short window of time in which the re
 
 We allow additional rounds of interaction with reviewers in case new issues are discovered after the kick-the-tires window. This is in the hope that artifacts that would be just short of being _Supports Claims_ can have more opportunities to make small corrections. After the kick-the-tires response, reviewers will be able to post author-visible comments with questions for authors at any time, and authors may respond to those reviewer questions or requests. Such interaction is on the reviewers’ initiative; authors will be asked not to post unless in response to reviewer requests.
 
-### Badges
+### Badges (v2.0)
 
 The AEC evaluates each artifact and awards one of the following badges: _Available_ and _Supports Claims_.
 
