@@ -15,6 +15,8 @@ authors:
   - name: "Henrio, Ludovic"
     affiliation: "Univ Lyon - EnsL - UCBL - CNRS - Inria - LIP, France"
 
+arxiv: "2312.16977"
+file: "https://arxiv.org/pdf/2312.16977v1"
 excerpt: |
     The **context** of this work is cooperative scheduling, a
     concurrency paradigm, where task execution is not arbitrarily
@@ -67,7 +69,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 2, Article
 Submission date: 2023-05-23  
 Publication date: 2023-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/6>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2312.16977v1)  
 
 
 ### Abstract

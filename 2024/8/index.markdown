@@ -22,6 +22,25 @@ Wendlasida Ouedraogo, Gabriel Scherer, and Lutz Strassburger
 
 
 
+* [Volume 8, Issue 2](issue2)  
+
+
+
+
+  {: start="4"}
+  1. [The Design Principles of the Elixir Type System](/2024/8/4)  
+Giuseppe Castagna, Guillaume Duboc, and José Valim
+  1. [Live Objects All The Way Down: Removing the Barriers between Applications and Virtual Machines](/2024/8/5)  
+Javier E. Pimás, Stefan Marr, and Diego Garbervetsky
+  1. [Provably Fair Cooperative Scheduling](/2024/8/6)  
+Reiner Hähnle and Ludovic Henrio
+  1. [Conceptual Mutation Testing for Student Programming Misconceptions](/2024/8/7)  
+Siddhartha Prasad, Ben Greenman, Tim Nelson, and Shriram Krishnamurthi
+  1. [Real-World Choreographic Programming: Full-Duplex Asynchrony and Interoperability](/2024/8/8)  
+Lovro Lugović and Fabrizio Montesi
+
+
+
 
 
 

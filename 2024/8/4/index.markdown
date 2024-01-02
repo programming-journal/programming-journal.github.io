@@ -18,6 +18,8 @@ authors:
   - name: "Valim, José"
     affiliation: "Dashbit, Poland"
 
+arxiv: "2306.06391"
+file: "https://arxiv.org/pdf/2306.06391v3"
 excerpt: |
     Elixir is a dynamically-typed functional language running on the Erlang Virtual Machine, designed for building scalable and maintainable applications. Its characteristics have earned it a surging adoption by hundreds of industrial actors and tens of thousands of developers. Static typing seems nowadays to be the most important request coming from the Elixir community. We present a gradual type system we plan to include in the Elixir compiler, outline its characteristics and design principles, and show by some short examples how to use it in practice.  
       
@@ -35,7 +37,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 2, Article
 Submission date: 2023-05-31  
 Publication date: 2023-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/4>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2306.06391v3)  
 
 
 ### Abstract

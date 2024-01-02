@@ -15,6 +15,8 @@ authors:
   - name: "Montesi, Fabrizio"
     affiliation: "University of Southern Denmark, Denmark"
 
+arxiv: "2303.03983"
+file: "https://arxiv.org/pdf/2303.03983v3"
 excerpt: |
     In the paradigm of choreographic programming, the overall behaviour of a distributed system is coded as a choreography from a global viewpoint.
     The choreography can then be automatically projected (compiled) to a correct implementation for each participant.
@@ -49,7 +51,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 2, Article
 Submission date: 2023-06-01  
 Publication date: 2023-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/8>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2303.03983v3)  
 
 
 ### Abstract

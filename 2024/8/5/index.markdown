@@ -18,6 +18,8 @@ authors:
   - name: "Garbervetsky, Diego"
     affiliation: "University of Buenos Aires, Argentina"
 
+arxiv: "2312.16973"
+file: "https://arxiv.org/pdf/2312.16973v1"
 excerpt: |
     Object-oriented languages often use virtual machines (VMs)
     that provide mechanisms such as just-in-time (JIT) compilation
@@ -82,7 +84,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 2, Article
 Submission date: 2023-05-31  
 Publication date: 2023-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/5>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2312.16973v1)  
 
 
 ### Abstract
