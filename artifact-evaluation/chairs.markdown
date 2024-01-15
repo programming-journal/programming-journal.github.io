@@ -1,6 +1,6 @@
 ---
 title: "Chairs"
-order: 353
+order: 352
 ---
 
 **Artifact Evaluation Chairs**
