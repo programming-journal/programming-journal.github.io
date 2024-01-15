@@ -7,10 +7,10 @@ order: 350
 
 Help others to build upon the technical contributions of your article!
 
-The Artifact Evaluation (AE) process is a service provided by the Programming Journal to help authors of accepted articles (including accepted articles subject to minor revisions) to extend the reach of their work so future researchers can build on and compare with that work. The results can be of any form (implementations, data, analysis results). The AEC will read the article and explore the artifact to give feedback about how well the artifact supports the article.
+The Artifact Evaluation (AE) process is a service provided by the Programming Journal to help authors of accepted articles (including articles accepted subject to minor revisions) to extend the reach of their work so future researchers can build on and compare with that work. The results can be of any form (implementations, data, analysis results). The AEC will read the article and explore the artifact to give feedback about how well the artifact supports the article.
 
 Submissions to AE are voluntary. Articles evaluated positively in the AE process will receive badges to be included on the first page of the article.
-By default, we expect artifacts to be available publicly (for details and exceptions see below). We will publish and archive the artifact alongside their article via Zenodo as part of the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/).
+By default, we expect artifacts to be available publicly (for details and exceptions see below). We will publish and archive the artifact alongside the article via Zenodo as part of the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/).
 Articles will include references to their artifacts and artifacts references to the corresponding articles.
  
 Two badges are available: _Available_ and _Supports Claims_ (details below).
@@ -36,9 +36,9 @@ The Artifact Evaluation Committee (AEC) takes the position of future researchers
 
 ### Review Process Overview
 
-After submitting their artifact, there is a short window of time in which the reviewers will work through _only_ the kick-the-tires instructions and upload preliminary reviews indicating whether or not they were able to get those 30-or-so minutes of instructions working. At that point, the preliminary reviews will be shared with authors, who may make modest updates and corrections in order to resolve any issues the reviewers encountered.
+After submitting their artifact, there is a short window of time in which the reviewers will work through _only_ the kick-the-tyres instructions and upload preliminary reviews indicating whether or not they were able to get those 30-or-so minutes of instructions working. At that point, the preliminary reviews will be shared with authors, who may make modest updates and corrections in order to resolve any issues the reviewers encountered.
 
-We allow additional rounds of interaction with reviewers in case new issues are discovered after the kick-the-tires window. This is in the hope that artifacts that would be just short of being _Supports Claims_ can have more opportunities to make small corrections. After the kick-the-tires response, reviewers will be able to post author-visible comments with questions for authors at any time, and authors may respond to those reviewer questions or requests. Such interaction is on the reviewers’ initiative; authors will be asked not to post unless in response to reviewer requests.
+We allow additional rounds of interaction with reviewers in case new issues are discovered after the kick-the-tyres window. This is in the hope that artifacts that would be just short of satisfying the _Supports Claims_ requirements can have more opportunities to make small corrections. After the kick-the-tyres response, reviewers will be able to post author-visible comments with questions for authors at any time, and authors may respond to those reviewer questions or requests. Such interaction is on the reviewers’ initiative; authors are asked not to post unless in response to reviewer requests.
 
 ### Badges (v2.0)
 
