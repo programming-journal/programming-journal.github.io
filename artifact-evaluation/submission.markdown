@@ -7,13 +7,13 @@ All accepted articles (including accepted articles subject to minor revisions) a
 
 Your submission should consist of three parts, all in one file:
 
-1.  a Markdown-formatted `README.md` of your artifact,
+1.  a Markdown-formatted `README.md` for your artifact;
 2.  a URL pointing to either
-    *   a single file containing the artifact (recommended) or
-    *   the address of a public source control repository,
+    *   a single file containing the artifact (recommended), or
+    *   the address of a public source control repository;
 3.  a hash certifying the version of the artifact at submission time, either
-    *   an sha256 hash of the single file (use the `sha256sum` command-line tool to generate the hash) or
-    *   the _full_ commit hash for the repository (e.g., from `git reflog --no-abbrev`)
+    *   an sha256 hash of the single file (use the `sha256sum` command-line tool to generate the hash), or
+    *   the _full_ commit hash for the repository (e.g., from `git reflog --no-abbrev`).
 
 The URL must be a public Google Drive, Dropbox, GitHub, Bitbucket, or GitLab URL, to help protect the anonymity of the reviewers.
 <!-- This is the easy-chair limitation, checked 2022-03-07 -->
@@ -24,7 +24,7 @@ Artifacts do _not_ need to be anonymous; reviewers will be aware of author ident
 
 Submit your artifact documentation via the [online submission system](https://easychair.org/conferences/?conf=programmingartifacts1).
 
-Please upload a single file that includes the URL to your artifact, the hash of the artifact at submission time, and the content of the README file.
+Please upload a single file that includes the URL for your artifact, the hash of the artifact at submission time, and the content of the README file.
 
 ### Contents of the Artifact README.md
 Your README.md should consist of three parts:
@@ -35,7 +35,7 @@ Your README.md should consist of three parts:
 
 #### Getting Started Guide
 
-Your "Getting Started Guide" should contain setup instructions (including, for example, a pointer to the VM player software, its version, passwords if needed, etc.) and basic testing of your artifact that you expect a reviewer to be able to complete in 30 minutes or less. Reviewers will follow all the steps in the guide during an initial kick-the-tires phase. The Getting Started Guide should be as simple as possible, and yet it should stress the key elements of your artifact. Anyone who has successfully followed the Getting Started Guide should have no technical difficulties with your artifact.
+Your "Getting Started Guide" should contain setup instructions (including, for example, a pointer to the VM player software, its version, passwords if needed, etc.) and basic testing of your artifact that you expect a reviewer to be able to complete in 30 minutes or less. Reviewers will follow all the steps in the guide during an initial kick-the-tyres phase. The Getting Started Guide should be as simple as possible, and yet it should stress the key elements of your artifact. Anyone who has successfully followed the Getting Started Guide should have no technical difficulties with your artifact.
 
 #### Overview of Claims
 
@@ -59,7 +59,7 @@ When packaging your artifact, please keep in mind: a) how accessible you are mak
 
 We ask that you make the artifact available as a Docker image or a virtual machine (VM) image in OVF / OVA format containing the installed artifact and all of the necessary libraries installed. A VM provides an easily reproducible environment. It also helps the AEC have confidence that errors or other problems cannot cause harm to their machines.
 
-You should make your artifact available as a single archive file. Please use a widely available compressed archive format such as ZIP (`.zip`), tar and gzip (`.tgz`), or tar and bzip2 (`.tbz2`). Please use open formats for documents and preferably CSV or JSON for data.
+You should make your artifact available as a single archive file. Please use a widely available compressed archive format such as ZIP (`.zip`), tar and gzip (`.tgz`), or tar and bzip2 (`.tbz2`). Please use open formats for documents, preferably CSV or JSON for data.
 
 For ensuring quality packaging, we strongly recommend testing your own instructions on a fresh machine (or VM), following exactly the instructions you have given.
 
@@ -68,7 +68,7 @@ Authors submitting machine-checked proof artifacts should consult Marianna Rapop
 
 ### Common Issues
 
-Common issues in the kick-the-tires phase are:
+Common issues in the kick-the-tyres phase are:
 
 *   Overstating platform support. Several artifacts claiming the need for only UNIX-like systems failed severely under macOS — in particular those requiring 32-bit compilers, which are no longer present in newer macOS versions. We recommend future artifacts scope their claimed support more narrowly. Generally, this could be fixed by the authors providing a Dockerfile.
 *   Missing dependencies, or poor documentation of dependencies. The single most effective way to avoid these sorts of issues ahead of time is to run the instructions independently on a fresh machine, VM, or Docker container.
