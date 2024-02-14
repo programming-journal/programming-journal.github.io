@@ -39,5 +39,5 @@ Submitted papers must present original work made by the authors, must not overla
 [submit]: https://programming25-92.hotcrp.com/paper/new
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
 [latex template]: https://github.com/programming-journal/programming/releases
-[template package]: https://github.com/programming-journal/programming/releases/download/v1.4a/programming-template_v1.4a.zip
+[template package]: https://github.com/programming-journal/programming/releases/download/v8.1/programming-template_v8.1.zip
 [overleaf]: https://www.overleaf.com/articles/programming/kzcgbdsnnyyt#.V7OJ85grKHs
