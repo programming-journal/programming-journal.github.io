@@ -74,7 +74,7 @@ The development is based on Choral, an object-oriented higher-order choreographi
 We find that two of Choral's features are key to our implementation: higher-order choreographies are used for modelling the complex interaction patterns that arise due to IRC's asynchronous nature, while user-definable communication semantics are relevant for achieving interoperability with third-party implementations.
 In the process we also discover a missing piece: the capability of statically detecting that choices on alternative distributed behaviours are appropriately communicated by means of message types, for which we extend the Choral compiler with an elegant solution based on subtyping.
 
-Our Choral implementation of IRC arguably represents a milestone for choreographic programming, since it is the first empirical evidence that the paradigm can be used to faithfully codify protocols found `in the wild'.
+Our Choral implementation of IRC arguably represents a milestone for choreographic programming, since it is the first empirical evidence that the paradigm can be used to faithfully codify protocols found "in the wild".
 We observe that the choreographic approach reduces the interaction complexity of our program, compared to the traditional approach of writing separate send and receive actions.
 To check that our implementation is indeed interoperable with third-party software, we test it against publicly available conformance tests for IRC and some of the most popular IRC client and server software.
 We also evaluate the performance and scalability of our implementation by performing performance tests.
