@@ -11,8 +11,12 @@
     <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
     <link rel="icon" type="image/png" sizes="1024x1024" href="{{ '/assets/images/favicon.png' | relative_url }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon_32.png' | relative_url }}">
-    <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+    <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+    <link rel="manifest" href="{{ '/assets/images/site.webmanifest' | relative_url }}">
+    <link rel="mask-icon" href="{{ '/assets/images/safari-pinned-tab.svg' | relative_url }}" color="#4169e1">
     <meta name="msapplication-TileColor" content="#4169e1">
+    <meta name="msapplication-config" content="{{ '/assets/images/browserconfig.xml' | relative_url }}">
     <meta name="theme-color" content="#ffffff">
     {% assign alternates = site.pages | where_exp: "page", "page.alternate != nil" | sort:"order" %}
     {% for alternate in alternates %}
