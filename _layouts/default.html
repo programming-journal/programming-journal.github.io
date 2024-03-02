@@ -8,10 +8,10 @@
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/stylesheets/xcharter.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/stylesheets/bootstrap.min.css' | relative_url }}">
-    <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
-    <link rel="icon" type="image/png" sizes="1024x1024" href="/assets/images/favicon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon_32.png">
-    <link rel="icon" href="/assets/images/favicon/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="1024x1024" href="{{ '/assets/images/favicon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon_32.png' | relative_url }}">
+    <link rel="icon" href="{{ '/assets/images/favicon/favicon.ico' | relative_url }}">
     <meta name="msapplication-TileColor" content="#4169e1">
     <meta name="theme-color" content="#ffffff">
     {% assign alternates = site.pages | where_exp: "page", "page.alternate != nil" | sort:"order" %}
