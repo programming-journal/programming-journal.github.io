@@ -9,9 +9,10 @@ description: The Art, Science, and Engineering of Programming journal is a
   the art of programming, broadly construed.
 
 author:
-  name: The  editors of The Art, Science, and Engineering of Programming
+  name: The editors of The Art, Science, and Engineering of Programming
   email: editors@programming-journal.org
 
+logo: /assets/images/favicon.svg
 menu_categories: ["The Journal", "For Authors", "Issues"]
 
 #baseurl: /

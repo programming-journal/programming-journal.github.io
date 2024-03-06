@@ -12,9 +12,11 @@ date: "2024-02-15"
 authors: 
   - name: "Liell-Cock, Jack"
     affiliation: "University of Oxford, United Kingdom"
+    id: "0009-0005-7121-8095"
 
   - name: "Schrijvers, Tom"
     affiliation: "KU Leuven, Belgium"
+    id: "0000-0001-8771-5559"
 
 arxiv: "2403.02296"
 file: "https://arxiv.org/pdf/2403.02296.pdf"

@@ -11,12 +11,15 @@ date: "2024-02-15"
 authors: 
   - name: "Hideshima, Takato"
     affiliation: "University of Tokyo, Japan"
+    id: "0009-0001-8078-3898"
 
   - name: "Sato, Shigeyuki"
     affiliation: "University of Electro-Communications, Japan"
+    id: "0000-0002-1496-1422"
 
   - name: "Ugawa, Tomoharu"
     affiliation: "University of Tokyo, Japan"
+    id: "0000-0002-3849-8639"
 
 arxiv: "2403.02183"
 file: "https://arxiv.org/pdf/2403.02183.pdf"

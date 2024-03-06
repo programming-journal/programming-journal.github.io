@@ -11,12 +11,15 @@ date: "2024-02-15"
 authors: 
   - name: "Oeyen, Bjarno"
     affiliation: "Vrije Universiteit Brussel, Belgium"
+    id: "0000-0002-2100-4559"
 
   - name: "De Koster, Joeri"
     affiliation: "Vrije Universiteit Brussel, Belgium"
+    id: "0000-0002-2932-8208"
 
   - name: "De Meuter, Wolfgang"
     affiliation: "Vrije Universiteit Brussel, Belgium"
+    id: "0000-0002-5229-5627"
 
 arxiv: "2403.02296"
 file: "https://arxiv.org/pdf/2403.02296.pdf"

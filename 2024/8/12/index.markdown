@@ -11,15 +11,19 @@ date: "2024-02-15"
 authors: 
   - name: "Greenman, Ben"
     affiliation: "Brown University, USA / University of Utah, USA"
+    id: "0000-0001-7078-9287"
 
   - name: "Jeffrey, Alan"
     affiliation: "Roblox, USA"
+    id: "0000-0001-6342-0318"
 
   - name: "Krishnamurthi, Shriram"
     affiliation: "Brown University, USA"
+    id: "0000-0001-5184-1975"
 
   - name: "Shah, Mitesh"
     affiliation: "Roblox, USA"
+    id: "0009-0000-6084-123X"
 
 arxiv: "2403.02409"
 file: "https://arxiv.org/pdf/2403.02409.pdf"

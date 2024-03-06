@@ -11,12 +11,15 @@ date: "2024-02-15"
 authors: 
   - name: "Döderlein, Jean-Baptiste"
     affiliation: "ENS Rennes, France"
+    id: "0000-0002-9741-8571"
 
   - name: "Rozen, Riemer van"
     affiliation: "CWI, Netherlands"
+    id: "0000-0002-3834-682X"
 
   - name: "Storm, Tijs van der"
     affiliation: "CWI, Netherlands / University of Groningen, Netherlands"
+    id: "0000-0001-8853-7934"
 
 arxiv: "2403.02161"
 file: "https://arxiv.org/pdf/2403.02161.pdf"

@@ -7,26 +7,40 @@
 {%- assign description = page.description | default: page.excerpt | default: site.description -%}
 {%- assign description = description | markdownify | strip_html | normalize_whitespace | escape_once -%}
 {%- assign description_short = description | markdownify | strip_html | normalize_whitespace | escape_once | truncate: 140 -%}
+{%- if site.logo -%}
+  {%- assign site_logo = site.logo -%}
+  {%- unless site_logo contains "://" -%}
+    {%- assign site_logo = site_logo | absolute_url -%}
+  {%- endunless -%}
+  {%- assign site_logo = site_logo | escape -%}
+{%- endif -%}
+{%- if page.image -%}
+  {%- assign page_image = page.image.path | default: page.image.facebook | default: page.image -%}
+  {%- unless page_image contains "://" -%}
+    {%- assign page_image = page_image | absolute_url -%}
+  {%- endunless -%}
+  {%- assign page_image = page_image | escape -%}
+{%- endif -%}
 {%- capture page_start -%}{{ page.number }}:1{%- endcapture -%}
 {%- capture page_end -%}{{ page.number }}:{{ page.numpages }}{%- endcapture -%}
 {%- capture resolver -%}https://doi.org/{{ page.doi }}{%- endcapture -%}
 {%- capture authornames -%}{{ page.authors | map: "name" | array_to_sentence_string | xml_escape }}{%- endcapture -%}
 <script type="application/ld+json">
-{"@context": { "@version": 1.1, "@vocab": "https://schema.org/"} ,
+{"@context": { "@version": 1.1, "@vocab": "https://schema.org/", "@base": {{ page.url | replace:'/index.html','/' | absolute_url | jsonify }}} ,
 "@graph": [
 {
-  "@id": "_:#issue", 
+  "@id": "#issue", 
   "@type": "PublicationIssue", 
   "issueNumber": {{ page.issue | jsonify}}, 
   "isPartOf": {
-    "@id": "_:#periodical", 
+    "@id": "#periodical", 
     "@type": ["PublicationVolume", "Periodical"], 
     "name": {{ site.title | jsonify }}, 
     "issn": {{ site.issn | jsonify }},
     "volumeNumber": {{ page.volume  | jsonify }} } },
 { 
   "@type": "ScholarlyArticle",
-  "isPartOf": "_:#issue", 
+  "isPartOf": "#issue", 
   "name": {{ page_title | jsonify }},
   "headline": {{ page_title | jsonify }},
   "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
@@ -34,25 +48,31 @@
   "pageStart":  {{ page_start | jsonify }},
   "pageEnd":  {{ page_end | jsonify }},
   "sameAs": {{ resolver | jsonify }},
-  {%- assign authors = page.authors -%}
-  "author": [{ "@type": "Person", "name": {{ authors[0].name |jsonify }}{%- if authors[0].affiliation -%},"affiliation": {{ authors[0].affiliation |jsonify }}{%- endif -%} }
-    {%- for author in authors offset: 1 -%},{ "@type": "Person", "name": {{ author.name |jsonify }}{%- if author.affiliation -%},"affiliation": {{ author.affiliation |jsonify }}{%- endif -%} } {%- endfor -%}
+  {%- assign authors = page.authors %}
+  "author": [{ "@type": "Person", "name": {{ authors[0].name |jsonify }}
+    {%- if authors[0].affiliation -%},"affiliation": {{ authors[0].affiliation |jsonify }}{%- endif -%}
+    {%- if authors[0].id -%}
+      {%- capture orcid -%}https://orcid.org/{{ authors[0].id }}{%- endcapture -%}
+      ,"@id": {{ orcid |jsonify }}, "url": {{ orcid |jsonify }}
+    {%- endif -%}}
+    {%- for author in authors offset: 1 -%},
+    { "@type": "Person", "name": {{ author.name |jsonify }}
+    {%- if author.affiliation -%},"affiliation": {{ author.affiliation |jsonify }}{%- endif -%}
+    {%- if author.id -%}
+      {%- capture orcid -%}https://orcid.org/{{ author.id }}{%- endcapture -%}
+      ,"@id": {{ orcid |jsonify }}, "url": {{ orcid |jsonify }}
+    {%- endif -%}} }
+    {%- endfor -%}
   ],
-  {%- if page_image -%}
-  "image": {
-    "@type": "ImageObject",
-    "url": {{ page_image | jsonify }}
-  },
-  {%- else -%}
-  "image": { "@type": "ImageObject", "height":1, "width": 1, "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" },
-  {%- endif -%}
-  {%- if site_logo -%}
+  "image": { "@type": "ImageObject", "url": {{ page_image | default: site_logo |default: "//:0" | jsonify }}},
+  {%- if site_logo %}
   "publisher": {
     "@type": "Organization",
     "logo": { "@type": "ImageObject", "url": {{ site_logo | jsonify }} }
   },
-  {%- endif -%}
-  "url": {{ page.url | replace:'/index.html','/' | absolute_url | jsonify }} }]}</script>
+  {%- endif %}
+  "url": {{ page.url | replace:'/index.html','/' | absolute_url | jsonify }} }]}
+</script>
 <meta name="citation_title" content="{{ page.title | xml_escape}}">
 {%- for author in page.authors -%}
 <meta name="citation_author" content="{{ author.name | xml_escape }}">
@@ -61,6 +81,7 @@
 {%- endif -%}
 {%- endfor -%}
 <meta name="citation_language" content="en">
+<meta name="citation_type" content="JOUR">
 <meta name="citation_publication_date" content="{{ page.date | date: "%Y/%m/%d" }}">
 <meta name="citation_online_date" content="{{ page.date | date: "%Y/%m/%d" }}">
 <meta name="citation_date" content="{{ page.date | date: "%Y/%m/%d" }}">
@@ -71,7 +92,9 @@
 <meta name="citation_firstpage" content="{{ page_start }}">
 <meta name="citation_lastpage" content="{{ page_end }}">
 <meta name="citation_doi" content="{{ page.doi | xml_escape }}">
+<meta name="dc.identifier" content="{{ page.doi | xml_escape }}">
 <meta name="citation_abstract_html_url" content="{{ page.url | absolute_url | xml_escape}}">
+<meta name="citation_publisher" content="AOSA, Inc.">
 {%- if page.file and page.file != empty -%}
 {%- if page.file contains "://" -%}
 <meta name="citation_pdf_url" content="{{ page.file | xml_escape }}">
@@ -80,22 +103,8 @@
 <meta name="citation_pdf_url" content="{{ file | absolute_url | xml_escape }}">
 {%- endif -%}
 {%- endif -%}
-
-{%- if site.logo -%}
-  {%- assign site_logo = site.logo -%}
-  {%- unless site_logo contains "://" -%}
-    {%- assign site_logo = site_logo | absolute_url -%}
-  {%- endunless -%}
-  {%- assign site_logo = site_logo | escape -%}
-{%- endif -%}
-
-{%- if page.image -%}
-  {%- assign page_image = page.image.path | default: page.image.facebook | default: page.image -%}
-  {%- unless page_image contains "://" -%}
-    {%- assign page_image = page_image | absolute_url -%}
-  {%- endunless -%}
-  {%- assign page_image = page_image | escape -%}
-{%- endif -%}
+<meta name="citation_journal_abbrev" content="Programming">
+<meta name="citation_journal_title" content="The Art, Science, and Engineering of Programmging">
 <title>{{ title }}</title>
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
@@ -114,8 +123,10 @@
   {%- if page.image.width -%}
     <meta property="og:image:width" content="{{ page.image.width }}" />
   {%- endif -%}
+{%- elsif site_logo -%}
+<meta property="og:image" content="{{site_logo | relative_url }}" />
 {%- else -%}
-<meta property="og:image" content="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+<meta property="og:image" content="//:0" />
 {%- endif -%}
 <meta name="author" content="{{ authornames }}" />
 

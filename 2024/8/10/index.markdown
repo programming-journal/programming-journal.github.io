@@ -11,12 +11,15 @@ date: "2024-02-15"
 authors: 
   - name: "Shimchenko, Marina"
     affiliation: "Uppsala University, Sweden"
+    id: "0000-0002-0701-8540"
 
   - name: "Österlund, Erik"
     affiliation: "Oracle, Sweden"
+    id: "0000-0003-3686-8568"
 
   - name: "Wrigstad, Tobias"
     affiliation: "Uppsala University, Sweden"
+    id: "0000-0002-4269-5408"
 
 arxiv: "2403.02200"
 file: "https://arxiv.org/pdf/2403.02200.pdf"

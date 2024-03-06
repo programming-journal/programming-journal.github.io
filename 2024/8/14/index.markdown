@@ -12,9 +12,11 @@ date: "2024-02-15"
 authors: 
   - name: "Åkerblom, Beatrice"
     affiliation: "Stockholm University, Sweden"
+    id: "0009-0005-2855-136X"
 
   - name: "Castegren, Elias"
     affiliation: "Uppsala University, Sweden"
+    id: "0000-0003-4918-6582"
 
 arxiv: "2403.02416"
 file: "https://arxiv.org/pdf/2403.02416.pdf"

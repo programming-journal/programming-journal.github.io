@@ -12,18 +12,23 @@ date: "2024-02-15"
 authors: 
   - name: "Rein, Patrick"
     affiliation: "Hasso Plattner Institute - University of Potsdam, Germany"
+    id: "0000-0001-9454-8381"
 
   - name: "Flach, Christian"
     affiliation: "Hasso Plattner Institute - University of Potsdam, Germany"
+    id: "0000-0003-0549-5084"
 
   - name: "Ramson, Stefan"
     affiliation: "Hasso Plattner Institute - University of Potsdam, Germany"
+    id: "0000-0002-0913-1264"
 
   - name: "Krebs, Eva"
     affiliation: "Hasso Plattner Institute - University of Potsdam, Germany"
+    id: "0000-0002-9089-7784"
 
   - name: "Hirschfeld, Robert"
     affiliation: "Hasso Plattner Institute - University of Potsdam, Germany"
+    id: "0000-0002-4249-6003"
 
 arxiv: "2403.02428"
 file: "https://arxiv.org/pdf/2403.02428.pdf"
