@@ -6,7 +6,7 @@
 {%- assign page_title = page_title | smartify | strip_html | normalize_whitespace | escape_once -%}
 {%- assign description = page.description | default: page.excerpt | default: site.description -%}
 {%- assign description = description | markdownify | strip_html | normalize_whitespace | escape_once -%}
-{%- assign description_short = description | markdownify | strip_html | normalize_whitespace | escape_once | truncate: 140 -%}
+{%- assign description_short = description | markdownify | strip_html | normalize_whitespace | escape_once | truncate: 300 -%}
 {%- if site.logo -%}
   {%- assign site_logo = site.logo -%}
   {%- unless site_logo contains "://" -%}
