@@ -74,8 +74,7 @@
                   {% assign murl = feature.url | remove: "index.html" %}
                 {% endif %}
             <a href="{{ murl }}">
-              <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
-              &nbsp;{{ feature.featured }}
+               <span style="border-radius: 50%; background: #4169e1; color: white;" >&nbsp;ℹ︎&nbsp;</span>&nbsp;{{ feature.featured }}
             </a><br>
               {% endif %}
             {% endfor %}
