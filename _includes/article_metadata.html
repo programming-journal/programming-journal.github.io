@@ -61,7 +61,7 @@
     {%- if author.id -%}
       {%- capture orcid -%}https://orcid.org/{{ author.id }}{%- endcapture -%}
       ,"@id": {{ orcid |jsonify }}, "url": {{ orcid |jsonify }}
-    {%- endif -%}} }
+    {%- endif -%}}
     {%- endfor -%}
   ],
   "image": { "@type": "ImageObject", "url": {{ page_image | default: site_logo |default: "//:0" | jsonify }}},
