@@ -12,16 +12,15 @@
     <link rel="icon" type="image/png" sizes="1024x1024" href="{{ '/assets/images/favicon.png' | relative_url }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon_32.png' | relative_url }}">
     <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
     <link rel="manifest" href="{{ '/assets/images/site.webmanifest' | relative_url }}">
     <link rel="mask-icon" href="{{ '/assets/images/safari-pinned-tab.svg' | relative_url }}" color="#4169e1">
     <meta name="msapplication-TileColor" content="#4169e1">
     <meta name="msapplication-config" content="{{ '/assets/images/browserconfig.xml' | relative_url }}">
     <meta name="theme-color" content="#ffffff">
-    {% assign alternates = site.pages | where_exp: "page", "page.alternate != nil" | sort:"order" %}
-    {% for alternate in alternates %}
+    {%- assign alternates = site.pages | where_exp: "page", "page.alternate != nil" | sort:"order" -%}
+    {%- for alternate in alternates -%}
     <link rel="alternate" type="{{alternate.alternate}}" title="{{alternate.menutitle}}" href="{{ alternate.url }}">
-    {% endfor %}
+    {%- endfor -%}
     <style type="text/css">
       body { padding-top: 70px;} .externalLink::after { content: ' ⇗'; }
       a {font-family: "Fira Sans", sans-serif; font-size: 90%}
@@ -36,22 +35,22 @@
     <!--[if lt IE 9]>
     <script src="{{ '/assets/javascripts/html5shiv.min.js' | relative_url }}"></script>
     <![endif]-->
-    {% if page.type and page.type == "article" %}
-    {% include article_metadata.html %}
-    {% else %}
-    {% include metadata.html %}
-    {% endif %}
+    {%- if page.type and page.type == "article" -%}
+    {%- include article_metadata.html -%}
+    {%- else -%}
+    {%- include metadata.html -%}
+    {%- endif -%}
   </head>
   <body>
-    {% assign home = site.pages | where:'menutitle', 'About' | first %}
-    {% assign responsibleurl = "https://aosa-inc.org/steering/" %}
-    {% assign responsibleshort = "AOSA" %}
-    {% comment %} 
-    {% assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.category != nil" | sort:"order" %}
-    {% endcomment %} 
-    {% assign pages = site.pages | where_exp: "page", "page.category != nil" | sort:"order" %}
-    {% assign all_categories = pages | group_by: "category" %}
-    {% assign local_pages = pages %}
+    {%- assign home = site.pages | where:'menutitle', 'About' | first -%}
+    {%- assign responsibleurl = "https://aosa-inc.org/steering/" -%}
+    {%- assign responsibleshort = "AOSA" -%}
+    {%- comment -%} 
+    {%- assign pages = site.pages | where: 'name', 'index.markdown' | where_exp: "page", "page.category != nil" | sort:"order" -%}
+    {%- endcomment -%} 
+    {%- assign pages = site.pages | where_exp: "page", "page.category != nil" | sort:"order" -%}
+    {%- assign all_categories = pages | group_by: "category" -%}
+    {%- assign local_pages = pages -%}
     <div class="container">
       <div class="row hidden-xs" style="position: relative">
         <div class="col-md-12">
@@ -61,30 +60,30 @@
       <div class="row">
 
         <div class="col-lg-9 col-md-9 col-sm-9">
-          {% assign featured_seen = false %}
-          {% for feature in pages %}
-              {% if feature.featured %}
-                {% unless featured_seen %}
+          {%- assign featured_seen = false -%}
+          {%- for feature in pages -%}
+              {%- if feature.featured -%}
+                {%- unless featured_seen -%}
           <div class="well">
-                  {% assign featured_seen = true %}
-                {% endunless %}
-                {% if feature.external %}
-                  {% assign murl = feature.external %}
-                {% else %}
-                  {% assign murl = feature.url | remove: "index.html" %}
-                {% endif %}
+                  {%- assign featured_seen = true -%}
+                {%- endunless -%}
+                {%- if feature.external -%}
+                  {%- assign murl = feature.external -%}
+                {%- else -%}
+                  {%- assign murl = feature.url | remove: "index.html" -%}
+                {%- endif -%}
             <a href="{{ murl }}">
                <span style="border-radius: 50%; background: #4169e1; color: white;" >&nbsp;ℹ︎&nbsp;</span>&nbsp;{{ feature.featured }}
             </a><br>
-              {% endif %}
-            {% endfor %}
-            {% if featured_seen %}
+              {%- endif -%}
+            {%- endfor -%}
+            {%- if featured_seen -%}
           </div>
-            {% endif %}
+            {%- endif -%}
           <section>
-            {% include submenu.html %}
+            {%- include submenu.html -%}
             <h1>{{page.title}}</h1>
-            {% if page.lead %}<div class="lead">{{page.lead}}</div>{% endif %}
+            {%- if page.lead -%}<div class="lead">{{page.lead}}</div>{%- endif -%}
             {{content}}
           </section>
         </div>
@@ -103,40 +102,40 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav">
-                  {% for category in all_categories %}
-                  {% assign local_pages = category.items %}
-                  {% comment %}
+                  {%- for category in all_categories -%}
+                  {%- assign local_pages = category.items -%}
+                  {%- comment -%}
                   <!-- <li  class="h3"  id="sm-{{category.name | uri_escape | downcase }}">{{category.name}}</li> -->
                   <!-- <li><ul class="nav navbar-nav"> -->
-                  {% endcomment %}
-                    {% for menuitem in local_pages %}
-                      {% assign liclass = '' %}
-                      {% if menuitem.title == page.title %}
-                        {% capture liclass %}{{ liclass }} active{% endcapture %}
-                      {% endif %}
-                      {% if menuitem.featured %}
-                        {% capture liclass %}{{ liclass }} featured{% endcapture %}
-                      {% endif %}
+                  {%- endcomment -%}
+                    {%- for menuitem in local_pages -%}
+                      {%- assign liclass = '' -%}
+                      {%- if menuitem.title == page.title -%}
+                        {%- capture liclass -%}{{ liclass }} active{%- endcapture -%}
+                      {%- endif -%}
+                      {%- if menuitem.featured -%}
+                        {%- capture liclass -%}{{ liclass }} featured{%- endcapture -%}
+                      {%- endif -%}
                       <li class="{{ liclass }}">
-                      {% if menuitem.external %}
-                        {% assign murl = menuitem.external %}
-                      {% else %}
-                        {% assign murl = menuitem.url|remove:'index.html' %}
-                      {% endif %}
+                      {%- if menuitem.external -%}
+                        {%- assign murl = menuitem.external -%}
+                      {%- else -%}
+                        {%- assign murl = menuitem.url|remove:'index.html' -%}
+                      {%- endif -%}
                       <a href="{{murl}}">
-                        {% if menuitem.short %}
+                        {%- if menuitem.short -%}
                           {{menuitem.short }}
-                        {% elsif menuitem.menutitle %}
+                        {%- elsif menuitem.menutitle -%}
                           {{menuitem.menutitle }}
-                        {% else %}
+                        {%- else -%}
                           {{menuitem.title}}
-                        {% endif %}
+                        {%- endif -%}
                       </a></li>
-                    {% endfor %}
-                  {% comment %}
+                    {%- endfor -%}
+                  {%- comment -%}
                   <!--</ul></li>-->
-                  {% endcomment %}
-                    {% endfor %}
+                  {%- endcomment -%}
+                    {%- endfor -%}
                   </ul>
                 </div><!--/.nav-collapse -->
               </div>
@@ -145,37 +144,37 @@
           <header id="mainheader" class="hidden-xs">
             <nav id="mainnav">
                 <ul>
-		  {% for category_name in site.menu_categories %}
-		  {% assign filtered_category = all_categories | where: 'name', category_name %}
-		  {% for category in filtered_category %}
+		  {%- for category_name in site.menu_categories -%}
+		  {%- assign filtered_category = all_categories | where: 'name', category_name -%}
+		  {%- for category in filtered_category -%}
                   <li class="h3" id="main-{{category.name | uri_escape | downcase }}">{{category.name}}</li>
-                  {% assign local_pages = category.items %}
+                  {%- assign local_pages = category.items -%}
                   <li><ul>
-                    {% for menuitem in local_pages %}
-                  {% assign liclass = '' %}
-                  {% if menuitem.title == page.title %}
-                    {% capture liclass %}{{ liclass }} active{% endcapture %}
-                  {% endif %}
-                  {% if menuitem.featured %}
-                    {% capture liclass %}{{ liclass }} featured{% endcapture %}
-                  {% endif %}
+                    {%- for menuitem in local_pages -%}
+                  {%- assign liclass = '' -%}
+                  {%- if menuitem.title == page.title -%}
+                    {%- capture liclass -%}{{ liclass }} active{%- endcapture -%}
+                  {%- endif -%}
+                  {%- if menuitem.featured -%}
+                    {%- capture liclass -%}{{ liclass }} featured{%- endcapture -%}
+                  {%- endif -%}
                   <li class="{{ liclass }}">
-                  {% if menuitem.external %}
-                    {% assign murl = menuitem.external %}
-                  {% else %}
-                    {% assign murl = menuitem.url|remove:'index.html' %}
-                  {% endif %}
+                  {%- if menuitem.external -%}
+                    {%- assign murl = menuitem.external -%}
+                  {%- else -%}
+                    {%- assign murl = menuitem.url|remove:'index.html' -%}
+                  {%- endif -%}
                   <a href="{{murl}}">
-                    {% if menuitem.menutitle %}
+                    {%- if menuitem.menutitle -%}
                     {{menuitem.menutitle}}
-                    {% else %}
+                    {%- else -%}
                     {{menuitem.title}}
-                    {% endif %}
+                    {%- endif -%}
                 </a></li>
-                    {% endfor %}
+                    {%- endfor -%}
                   </ul></li>
-                    {% endfor %}
-                    {% endfor %}
+                    {%- endfor -%}
+                    {%- endfor -%}
                   </ul>
             </nav>
             <div class="hidden-xs" >
@@ -194,9 +193,9 @@
         <li>DOI <a href="https://doi.org/{{site.doi}}">{{site.doi}}</a></li>
         <li>
           © 2016–{{ 'now' | date: '%Y'}} <a href="{{ responsibleurl }}">
-      {% if responsibleshort %}{{ responsibleshort }}
-      {% else %}{{ responsibletitle}}
-      {% endif %}
+      {%- if responsibleshort -%}{{ responsibleshort }}
+      {%- else -%}{{ responsibletitle}}
+      {%- endif -%}
       </a></li>
       </ol>
       </footer>
