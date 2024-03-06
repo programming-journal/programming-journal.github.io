@@ -19,7 +19,7 @@ authors:
     affiliation: "Vrije Universiteit Brussel, Belgium"
 
 arxiv: "2403.02296"
-file: "https://arxiv.org/pdf/2403.02296v1"
+file: "https://arxiv.org/pdf/2403.02296.pdf"
 excerpt: |
     **Context**:
     Reactive programming (RP) is a declarative programming paradigm suitable for expressing the handling of events.
@@ -62,7 +62,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article
 Submission date: 2023-10-02  
 Publication date: 2024-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/11>  
-Full text: [PDF](https://arxiv.org/pdf/2403.02296v1)  
+Full text: [PDF](https://arxiv.org/pdf/2403.02296.pdf)  
 
 
 ### Abstract

@@ -26,7 +26,7 @@ authors:
     affiliation: "Hasso Plattner Institute - University of Potsdam, Germany"
 
 arxiv: "2403.02428"
-file: "https://arxiv.org/pdf/2403.02428v1"
+file: "https://arxiv.org/pdf/2403.02428.pdf"
 excerpt: |
     Live programming provides feedback on run-time behavior by visualizing concrete values of expressions close to the source code. When using such a local perspective on run-time behavior, programmers have to mentally reconstruct the control flow if they want to understand the relation between observed values. As this requires complete and correct knowledge of all relevant code, this reconstruction is impractical for larger programs as well as in the case of unexpected program behavior. In turn, cross-cutting perspectives on run-time behavior can visualize the actual control flow directly. At the same time, cross-cutting perspectives are often difficult to navigate due to the large number of run-time events.  
       
@@ -40,7 +40,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article
 Submission date: 2023-10-01  
 Publication date: 2024-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/13>  
-Full text: [PDF](https://arxiv.org/pdf/2403.02428v1)  
+Full text: [PDF](https://arxiv.org/pdf/2403.02428.pdf)  
 
 
 ### Abstract

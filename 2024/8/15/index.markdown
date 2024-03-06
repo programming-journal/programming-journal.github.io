@@ -19,7 +19,7 @@ authors:
     affiliation: "University of Tokyo, Japan"
 
 arxiv: "2403.02183"
-file: "https://arxiv.org/pdf/2403.02183v1"
+file: "https://arxiv.org/pdf/2403.02183.pdf"
 excerpt: |
     Disaggregated memory is promising for improving memory utilization in
     computer clusters in which memory demands significantly vary across
@@ -79,7 +79,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article
 Submission date: 2023-10-02  
 Publication date: 2024-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/15>  
-Full text: [PDF](https://arxiv.org/pdf/2403.02183v1)  
+Full text: [PDF](https://arxiv.org/pdf/2403.02183.pdf)  
 
 
 ### Abstract

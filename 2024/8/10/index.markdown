@@ -19,7 +19,7 @@ authors:
     affiliation: "Uppsala University, Sweden"
 
 arxiv: "2403.02200"
-file: "https://arxiv.org/pdf/2403.02200v1"
+file: "https://arxiv.org/pdf/2403.02200.pdf"
 excerpt: |
     The growing concern for energy efficiency in the Information and Communication Technology (ICT) sector has prompted the exploration of resource management techniques. While hardware architectures, such as single-ISA asymmetric multicore processors (AMP), offer potential energy savings, there is still untapped potential for software optimizations. This paper aims to bridge this gap by investigating the scheduling of garbage collection (GC) activities on a heterogeneous architecture with both performance cores ("p-cores") and energy cores ("e-cores") to achieve energy savings.  
       
@@ -37,7 +37,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article
 Submission date: 2023-10-02  
 Publication date: 2024-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/10>  
-Full text: [PDF](https://arxiv.org/pdf/2403.02200v1)  
+Full text: [PDF](https://arxiv.org/pdf/2403.02200.pdf)  
 
 
 ### Abstract

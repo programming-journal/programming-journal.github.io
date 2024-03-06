@@ -22,7 +22,7 @@ authors:
     affiliation: "Roblox, USA"
 
 arxiv: "2403.02409"
-file: "https://arxiv.org/pdf/2403.02409v1"
+file: "https://arxiv.org/pdf/2403.02409.pdf"
 excerpt: |
     **Context**: Roblox Studio lets millions of creators build interactive experiences by programming in a variant of Lua called Luau. The creators form a broad group, ranging from novices writing their first script to professional developers; thus, Luau must support a wide audience. As part of its efforts to support all kinds of programmers, Luau includes an optional, gradual type system and goes to great lengths to minimize false positive errors.  
       
@@ -44,7 +44,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article
 Submission date: 2023-10-01  
 Publication date: 2024-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/12>  
-Full text: [PDF](https://arxiv.org/pdf/2403.02409v1)  
+Full text: [PDF](https://arxiv.org/pdf/2403.02409.pdf)  
 
 
 ### Abstract

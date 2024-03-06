@@ -19,7 +19,7 @@ authors:
     affiliation: "CWI, Netherlands / University of Groningen, Netherlands"
 
 arxiv: "2403.02161"
-file: "https://arxiv.org/pdf/2403.02161v1"
+file: "https://arxiv.org/pdf/2403.02161.pdf"
 excerpt: |
     **Context**:  In the first part of his 2012 presentation "Inventing on Principle", Bret Victor gives a demo of a live code editor for Javascript which shows the dynamic history of values of variables in real time. This form of live programming has become known as "probes". Probes provide the programmer with permanent and continuous insight into the dynamic evolution of function or method variables, thus improving feedback and developer experience.
     
@@ -41,7 +41,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article
 Submission date: 2023-10-02  
 Publication date: 2024-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/16>  
-Full text: [PDF](https://arxiv.org/pdf/2403.02161v1)  
+Full text: [PDF](https://arxiv.org/pdf/2403.02161.pdf)  
 
 
 ### Abstract

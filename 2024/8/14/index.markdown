@@ -17,7 +17,7 @@ authors:
     affiliation: "Uppsala University, Sweden"
 
 arxiv: "2403.02416"
-file: "https://arxiv.org/pdf/2403.02416v1"
+file: "https://arxiv.org/pdf/2403.02416.pdf"
 excerpt: |
     The array is a data structure used in a wide range of programs.
      Its compact storage and constant time random access makes it
@@ -60,7 +60,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article
 Submission date: 2023-10-02  
 Publication date: 2024-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/14>  
-Full text: [PDF](https://arxiv.org/pdf/2403.02416v1)  
+Full text: [PDF](https://arxiv.org/pdf/2403.02416.pdf)  
 
 
 ### Abstract

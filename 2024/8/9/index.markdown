@@ -17,7 +17,7 @@ authors:
     affiliation: "KU Leuven, Belgium"
 
 arxiv: "2403.02296"
-file: "https://arxiv.org/pdf/2403.02296v1"
+file: "https://arxiv.org/pdf/2403.02296.pdf"
 excerpt: |
     **Context**: Edge graphs are graphs whose edges are labelled with identifiers, and nodes can have multiple edges between them. They are used to model a wide range of systems, including networks with distances or degrees of connection and complex relational data.  
       
@@ -39,7 +39,7 @@ The Art, Science, and Engineering of Programming, 2024, Vol. 8, Issue 3, Article
 Submission date: 2023-09-26  
 Publication date: 2024-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2024/8/9>  
-Full text: [PDF](https://arxiv.org/pdf/2403.02296v1)  
+Full text: [PDF](https://arxiv.org/pdf/2403.02296.pdf)  
 
 
 ### Abstract
