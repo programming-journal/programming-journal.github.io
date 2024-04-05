@@ -13,6 +13,28 @@ To celebrate the work of the community around the journal, we have instituted th
 
 * **Outstanding Reviewer Awards**: given annually to up to 3 members of the Standing Review Committee by the Editorial Board of the journal, this award recognizes these members' stellar reviewing service.
 
+
+### 2024
+
+* Reviewers' Choice Awardee  
+   [The Design Principles
+of the Elixir Type System](https://doi.org/10.22152/programming-journal.org/2024/8/4)  
+Giuseppe Castagna, Guillaume Duboc, and José Valim
+
+* Editors' Choice Awardee  
+   [Broadening the View of Live Programmers  
+Integrating a Cross-Cutting Perspective on Run-Time Behavior into a Live Programming Environment](https://doi.org/10.22152/programming-journal.org/2024/8/13)  
+Patrick Rein, Christian Flach, Stefan Ramson,
+Eva Krebs, and Robert Hirschfeld
+
+* Outstanding Reviewer Awardees
+
+  * Stephen Kell,  
+    King’s College London, UK
+  * Stefan Marr,
+    University of Kent, UK
+
+
 ### 2023
 
 * Reviewers' Choice Awardee  
@@ -25,7 +47,7 @@ Joel Jakubovic, Jonathan Edwards, and Tomas Petricek
 
 * Outstanding Reviewer Awardee
 
-  * Guy L. Steele,
+  * Guy L. Steele,  
      Oracle Labs, USA
 
 ### 2022
@@ -40,11 +62,11 @@ Kuang-Chen Lu, Ben Greenman, and Shriram Krishnamurthi
 
 * Outstanding Reviewer Awardees
 
-  * Eric Van Wyk,
+  * Eric Van Wyk,  
      University of Minnesota, USA 
-  * Samuel Gruetter,
+  * Samuel Gruetter,  
      MIT, USA
-  * Max Schäfer,
+  * Max Schäfer,  
      GitHub, United Kingdom
 
 ### 2021
@@ -59,11 +81,11 @@ John Wrenn, Tim Nelson, and Shriram Krishnamurthi
 
 * Outstanding Reviewer Awardees
 
-  * Shriram Krishnamurthi,
+  * Shriram Krishnamurthi,  
      Brown University, USA
-  * Sandra Dylus,
+  * Sandra Dylus,  
      Cap3 GmbH, Germany
-  * Chris Martens,
+  * Chris Martens,  
      North Carolina State University, USA
 
 ### 2020
@@ -78,9 +100,9 @@ Daniel Speicher
 
 * Outstanding Reviewer Awardees
 
-  * Erik Ernst,
+  * Erik Ernst,  
      Google, Denkmark
-  * Gordana Rakić,
+  * Gordana Rakić,  
      University of Novi Sad, Serbia
 
 ### 2019
@@ -95,9 +117,9 @@ Weixin Zhang and Bruno Oliveira
 
 * Outstanding Reviewer Awardees
 
-  * Stephen Kell,
+  * Stephen Kell,  
      University of Kent, UK
-  * Christos Dimoulas,
+  * Christos Dimoulas,  
      Northwestern University, USA
 
 ### 2018
