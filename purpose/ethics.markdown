@@ -67,6 +67,13 @@ in the paper. Sources of data and ideas used in the reported work should be prop
 Authors of Essays and other analytical works should use appropriate care with material that has been previously published, so not to mislead readers in thinking it is original material.
 
 
+#### Plagiarism
+
+Plagiarism is the misrepresentation of someone else's work as one's own, for example by incorporating it without appropriate attribution. The work might be words, or ideas, or programs, or pictures, among others; it might be copied verbatim, or paraphrased, or generated. It is irrelevant whether the original source has been formally published, or whether the original creator has granted permission.
+
+Plagiarism is academic misconduct, and any plagiarising submission will be summarily rejected.
+
+
 #### Data access and retention
 
 Although the journal currently does not have a separate Artifact Evaluation process, authors may be asked to provide the raw data and/or artifacts of their study together with the paper for editorial review and should be prepared to make the artifacts publicly available if practicable. The journal strongly encourages authors to ensure accessibility of such artifacts to other peers for at least ten years after publication. The journal facilitates this long term storage through Zenodo.
