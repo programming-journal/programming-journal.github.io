@@ -34,7 +34,8 @@ Each submission must be accompanied by a plain-language abstract of up to 500 wo
 The absence of an abstract conforming to this specification is grounds for the rejection of the paper without review.
 
 ## Professional Integrity
-Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review for another journal or conference with published proceedings.
+Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review for another journal or conference with published proceedings. For details of our ethical policies, see [this page](https://programming-journal.org/purpose/ethics.html).
+
 
 [submit]: https://programming25-93.hotcrp.com/paper/new
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
