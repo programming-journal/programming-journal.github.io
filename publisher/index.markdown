@@ -9,3 +9,9 @@ order: 800
 AOSA is a tax-exempt organization, founded in 2001. The journal's editors, executive board, editorial board, and staff all serve on an unpaid volunteer basis, and their work is made possible by the research institutions and universities who support them.
 
 The association welcomes charitable donations, including individual and corporate gifts of money, equipment and personnel to help support the operation of the journal. Individuals and organizations wishing to make donations to support the journal should contact the treasurer.
+
+**Publisher's address**: AOSA
+
+**Production address**: CPC
+
+**Editorial address**: [Jeremy Gibbons](mailto:jeremy.gibbons@cs.ox.ac.uk), Department of Computer Science, University of Oxford, Wolfson Building, Parks Road, Oxford OX1 3QD, UK
