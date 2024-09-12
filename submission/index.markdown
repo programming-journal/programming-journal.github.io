@@ -33,8 +33,8 @@ Each submission must be accompanied by a plain-language abstract of up to 500 wo
 
 The absence of an abstract conforming to this specification is grounds for the rejection of the paper without review.
 
-## Attribution, Prior Papers, and Concurrent Submissions
-Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review on another journal or conference.
+## Professional Integrity
+Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review for another journal or conference with published proceedings.
 
 [submit]: https://programming25-93.hotcrp.com/paper/new
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
