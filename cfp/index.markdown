@@ -60,7 +60,7 @@ There are two rounds of review. The first round assesses the papers according to
 
 Papers rejected in either the first or second phases may be resubmitted one more time to the journal. The resubmission will be treated as a new submission, and the paper may be assigned to new reviewers. After a second rejection, subsequent submissions of the same paper will be desk-rejected.
 
-Reviews are solicited from an external Review Committee; typically three reviews are sought for each paper. Responsibility for the final decision rests with the Associate Editors.
+Reviews are solicited from an external Review Committee; at least three reviews are sought for each submission that undergoes full review. Responsibility for the final decision rests with the Associate Editors.
 
 ## Artifact Evaluation
 
