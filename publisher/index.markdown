@@ -12,6 +12,6 @@ The association welcomes charitable donations, including individual and corporat
 
 **Publisher's address**: AOSA
 
-**Production address**: CPC
+**Production address**: [Dirk Beyer](mailto:info@conference-publishing.com), Conference Publishing Consulting, Dr.-Fritz-Ebbert-Straße 25, D-94034 Passau, DE
 
 **Editorial address**: [Jeremy Gibbons](mailto:jeremy.gibbons@cs.ox.ac.uk), Department of Computer Science, University of Oxford, Wolfson Building, Parks Road, Oxford OX1 3QD, UK
