@@ -25,6 +25,8 @@ authors:
     affiliation: "Hasso Plattner Institute, Germany / University of Potsdam, Germany"
     id: "0000-0002-4249-6003"
 
+arxiv: "2412.06274"
+file: "https://arxiv.org/pdf/2412.06274v1.pdf"
 excerpt: |
     Live programming features can be found in a range of programming environments, from individual prototypes to widely used environments. While liveness is generally considered a useful property, there is little empirical evidence on when and how liveness can be beneficial. Even though there are few experimental studies, their results are largely inconclusive.
     
@@ -42,7 +44,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 9, Issue 1, Article
 Submission date: 2024-05-31  
 Publication date: 2024-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2025/9/1>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2412.06274v1.pdf)  
 
 
 ### Abstract

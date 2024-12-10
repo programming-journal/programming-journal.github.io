@@ -33,6 +33,8 @@ authors:
     affiliation: "Université Paris-Saclay - CNRS - ENS Paris-Saclay - Inria - LMF, France"
     id: "0000-0003-2359-975X"
 
+arxiv: "2412.06391"
+file: "https://arxiv.org/pdf/2412.06391v1.pdf"
 excerpt: |
     In this paper, we present the design of Owi, a symbolic interpreter for WebAssembly written in OCaml, and how we used it to create a state-of-the-art tool to find bugs in programs combining C and Rust code. WebAssembly (Wasm) is a binary format for executable programs. Originally intended for web applications, Wasm is also considered a serious alternative for server-side runtimes and embedded systems due to its performance and security benefits. Despite its security guarantees and sandboxing capabilities, Wasm code is still vulnerable to buffer overflows and memory leaks, which can lead to exploits on production software. To help prevent those, different techniques can be used, including symbolic execution.
      
@@ -52,7 +54,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 9, Issue 1, Article
 Submission date: 2024-06-02  
 Publication date: 2024-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2025/9/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2412.06391v1.pdf)  
 
 
 ### Abstract

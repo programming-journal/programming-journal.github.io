@@ -25,6 +25,8 @@ authors:
     affiliation: "Ink & Switch, USA"
     id: "0000-0003-0858-5165"
 
+arxiv: "2412.06269"
+file: "https://arxiv.org/pdf/2412.06269v1.pdf"
 excerpt: |
     Many improvements to programming have come from shortening feedback loops, for example with Integrated Development Environments, Unit Testing, Live Programming, and Distributed Version Control. A barrier to feedback that deserves greater attention is Schema Evolution. When requirements on the shape of data change then existing data must be migrated into the new shape, and existing code must be modified to suit. Currently these adaptations are often performed manually, or with ad hoc scripts. Manual schema evolution not only delays feedback but since it occurs outside the purview of version control tools it also interrupts collaboration.
      
@@ -52,7 +54,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 9, Issue 1, Article
 Submission date: 2024-05-31  
 Publication date: 2024-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2025/9/2>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2412.06269v1.pdf)  
 
 
 ### Abstract
