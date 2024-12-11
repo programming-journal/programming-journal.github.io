@@ -5,18 +5,19 @@ order: 351
 
 All accepted articles (including accepted articles subject to minor revisions) are eligible to submit artifacts.
 
-Your submission should consist of three parts, all in one file:
+Your submission should consist of four parts, all in one file:
 
-1.  a Markdown-formatted `README.md` for your artifact;
+1.  a Markdown-formatted `README.md` for your artifact (for details see below);
 2.  a URL pointing to either
     *   a single file containing the artifact (recommended), or
     *   the address of a public source control repository;
 3.  a hash certifying the version of the artifact at submission time, either
     *   an sha256 hash of the single file (use the `sha256sum` command-line tool to generate the hash), or
-    *   the _full_ commit hash for the repository (e.g., from `git reflog --no-abbrev`).
+    *   the _full_ commit hash for the repository (e.g., from `git reflog --no-abbrev`);
+4.  a URL pointing to the most recent version of the article corresponding to the artifact.
 
-The URL must be a public Google Drive, Dropbox, GitHub, Bitbucket, or GitLab URL, to help protect the anonymity of the reviewers.
-<!-- This is the easy-chair limitation, checked 2022-03-07 -->
+Please use a public hosting service (Google Drive, Dropbox, GitHub, Bitbucket, or GitLab), so you do not have access to the logs to help protect the anonymity of the reviewers.
+<!-- This is because of the easy-chair limitation that does not allow us to define custom fields, checked 2024-12-11 -->
 
 Artifacts do _not_ need to be anonymous; reviewers will be aware of author identities.
 
