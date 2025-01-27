@@ -51,13 +51,13 @@ The AEC evaluates each artifact and awards one of the following badges: _Availab
 This badge is earned by artifacts that are made publicly available _in an archival location_.
 The badge can be earned by an artifact without the _Supports Claims_ badge.
 
-We expect artifacts that are submitted for artifact evaluation to be available publicly.
-Authors who want an artifact to be considered for the _Supports Claims_ badge without making it available publicly must justify why the artifact cannot be made available.
+We expect artifacts that are submitted for artifact evaluation to be available publicly after they were reviewed.
+Authors who want an artifact to be considered for the _Supports Claims_ badge without making it publicly available must justify in advance of the reviewing process why the artifact cannot be made available.
 The reason will be listed on the article's web page to inform readers of the unavailability.  
 
 The badge can also be awarded to artifacts that choose embargoed access (publicly available after a specific date) or restricted access (access only on request) if authors can justify why they limit access to the artifact.
 
-There are two routes for the publication of the artifact:
+There are two routes for the publication of the artifact once the artifact has been reviewed:
 
 1.  Authors upload a snapshot of the complete artifact to [Zenodo](https://zenodo.org/), which provides a DOI specific to the artifact. Note that GitHub etc. are not adequate for receiving this badge (see FAQ), and that Zenodo provides a way to make subsequent revisions of the artifact available and linked from the specific version. Please upload your artifact to the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/). Please send the resulting DOI to the AEC chairs.
 2.  Authors can send the complete artifact to the AEC chairs to take care of publication via [Zenodo](https://zenodo.org/).
