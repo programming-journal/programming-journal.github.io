@@ -2,7 +2,7 @@
 title: Timeline
 category: For Authors
 order: 500
-featured: "Upcoming Submission Deadline: February 1, 2025"
+featured: "Upcoming Submission Deadline: June 1, 2025"
 ---
 Papers can be [submitted to the journal at any time](/submission/), but submitted papers are batched and reviewed in cycles with strict deadlines. The batch processing is designed to keep everyone involved (editors, reviewers and authors) on track, and to establish a strong sense of predictability for when specific activities are to happen. The goal is to have a fast turnaround of about **four months** from start to end of each reviewing cycle.
 
