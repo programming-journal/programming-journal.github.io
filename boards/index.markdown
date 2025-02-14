@@ -16,13 +16,15 @@ order: 500
 
 **Associate Editors**
 
+* [Philipp Haller](https://people.kth.se/~phaller/), KTH Royal Institute of Technology, Sweden (Volume 10, 2025–2026)
+* [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Institute of Science Tokyo, Japan (Volume 10, 2025–2026)
 * [Shigeru Chiba](https://www.csg.ci.i.u-tokyo.ac.jp/en/), The University of Tokyo, Japan (Volume 9, 2024–2025)
 * [Elisa Gonzalez Boix](https://soft.vub.ac.be/disco/elisa/), Vrije Universiteit Brussel, Belgium (Volume 9, 2024–2025)
-* [Manuel Serrano](http://www-sop.inria.fr/members/Manuel.Serrano/), Inria; University of Côte d'Azur, France (Volume 8, 2023–2024)
-* [Martin Rinard](https://people.csail.mit.edu/rinard/), MIT, United States (Volume 8, 2023–2024)
 
 **Past Associate Editors**
 
+* [Manuel Serrano](http://www-sop.inria.fr/members/Manuel.Serrano/), Inria; University of Côte d'Azur, France (Volume 8, 2023–2024)
+* [Martin Rinard](https://people.csail.mit.edu/rinard/), MIT, United States (Volume 8, 2023–2024)
 * [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), HPI, University of Potsdam, Germany (Volume 7, 2022–2023)
 * [Emma Söderberg](https://cs.lth.se/emma-soderberg/), Lund University, Sweden (Volume 6, 2021–2022)
 * [Jeremy Gibbons](http://www.cs.ox.ac.uk/jeremy.gibbons/), Oxford University, UK (Volume 5, 2020–2021)
