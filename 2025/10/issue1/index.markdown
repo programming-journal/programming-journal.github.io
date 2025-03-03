@@ -3,10 +3,10 @@ title: "Volume 10, Issue 1"
 category: "Issues"
 order: -10001
 type: "issue"
-id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2026%2F10%2Fissue1"
+id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2025%2F10%2Fissue1"
 date: "2025-02-28"
 ---
-DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/issue1>
+DOI: <https://doi.org/10.22152/programming-journal.org/2025/10/issue1>
 
 
 

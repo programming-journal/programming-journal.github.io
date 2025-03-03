@@ -2,11 +2,11 @@
 title: "Skitter: A Distributed Stream Processing Framework with Pluggable Distribution Strategies"
 numpages: 32
 type: "article"
-doi: "10.22152/programming-journal.org/2026/10/4"
+doi: "10.22152/programming-journal.org/2025/10/4"
 number: "4"
 volume: "10"
 issue: "1"
-id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2026%2F10%2F4"
+id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2025%2F10%2F4"
 date: "2025-02-15"
 authors: 
   - name: "Saey, Mathijs"
@@ -61,7 +61,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 
 Submission date: 2024-10-01  
 Publication date: 2025-02-15  
-DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/4>  
+DOI: <https://doi.org/10.22152/programming-journal.org/2025/10/4>  
 Full text: [PDF](https://arxiv.org/pdf/2502.20538v1.pdf)  
 
 

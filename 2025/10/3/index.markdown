@@ -2,11 +2,11 @@
 title: "Automated Profile-Guided Replacement of Data Structures to Reduce Memory Allocation"
 numpages: 43
 type: "article"
-doi: "10.22152/programming-journal.org/2026/10/3"
+doi: "10.22152/programming-journal.org/2025/10/3"
 number: "3"
 volume: "10"
 issue: "1"
-id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2026%2F10%2F3"
+id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2025%2F10%2F3"
 date: "2025-02-15"
 authors: 
   - name: "Makor, Lukas"
@@ -57,7 +57,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 
 Submission date: 2024-09-22  
 Publication date: 2025-02-15  
-DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/3>  
+DOI: <https://doi.org/10.22152/programming-journal.org/2025/10/3>  
 Full text: [PDF](https://arxiv.org/pdf/2502.20536v1.pdf)  
 
 

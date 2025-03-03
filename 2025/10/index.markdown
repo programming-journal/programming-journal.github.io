@@ -1,10 +1,9 @@
 ---
 title: "Volume 10"
 type: "volume"
-id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2026%2F10"
-date: "2025-02-27"
+id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2025%2F10"
 ---
-DOI: <https://doi.org/10.22152/programming-journal.org/2026/10>
+DOI: <https://doi.org/10.22152/programming-journal.org/2025/10>
 
 
 * [Volume 10, Issue 1](issue1)  
