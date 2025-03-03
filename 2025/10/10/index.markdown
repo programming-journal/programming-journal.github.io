@@ -21,6 +21,8 @@ authors:
     affiliation: "Lund University, Sweden"
     id: "0000-0001-7966-4560"
 
+arxiv: "2502.20540"
+file: "https://arxiv.org/pdf/2502.20540v1.pdf"
 excerpt: |
     #### Context
     Developing compilers and static analysis tools (“language tools”) is a difficult and time-consuming task.
@@ -62,7 +64,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-09-30  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/10>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20540v1.pdf)  
 
 
 ### Abstract

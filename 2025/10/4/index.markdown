@@ -21,6 +21,8 @@ authors:
     affiliation: "Vrije Universiteit Brussel, Belgium"
     id: "0000-0002-5229-5627"
 
+arxiv: "2502.20538"
+file: "https://arxiv.org/pdf/2502.20538v1.pdf"
 excerpt: |
     #### Context
     Distributed Stream Processing Frameworks (DSPFs) are popular tools for expressing real-time Big Data applications that have to handle enormous volumes of data in real time. These frameworks distribute their applications over a cluster in order to scale horizontally along with the amount of incoming data.
@@ -60,7 +62,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-10-01  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/4>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20538v1.pdf)  
 
 
 ### Abstract

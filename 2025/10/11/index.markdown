@@ -21,6 +21,8 @@ authors:
     affiliation: "Institute of Science Tokyo, Japan"
     id: "0000-0002-8837-5303"
 
+arxiv: "2502.20534"
+file: "https://arxiv.org/pdf/2502.20534v1.pdf"
 excerpt: |
     **Context:** Many systems require receiving data from multiple information sources, which act as distributed network devices that asynchronously send the latest data at their own pace to generalize various kinds of devices and connections, known as the Internet of Things (IoT). These systems often perform computations both **reactively** and **retroactively** on information received from the sources for monitoring and analytical purposes, respectively.
     
@@ -42,7 +44,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-10-01  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/11>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20534v1.pdf)  
 
 
 ### Abstract

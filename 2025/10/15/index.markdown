@@ -21,6 +21,8 @@ authors:
     affiliation: "EPFL, Switzerland"
     id: "0009-0005-2543-3309"
 
+arxiv: "2502.20546"
+file: "https://arxiv.org/pdf/2502.20546v1.pdf"
 excerpt: |
     Type classes are a popular tool for implementing generic algorithms and data structures without loss of efficiency, bridging the gap between parametric and ad-hoc polymorphism. Since their initial development in Haskell, they now feature prominently in numerous other industry-ready programming languages, notably including Swift, Rust, and Scala. The success of type classes hinges in large part on the compilers' ability to infer arguments to implicit parameters by means of a type-directed resolution. This technique, sometimes dubbed **implicit programming**, lets users elide information that the language implementation can deduce from the context, such as the implementation of a particular type class.
     
@@ -36,7 +38,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-10-01  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/15>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20546v1.pdf)  
 
 
 ### Abstract

@@ -29,6 +29,8 @@ authors:
     affiliation: "CWI, Netherlands / University of Groningen, Netherlands"
     id: "0000-0001-8853-7934?"
 
+arxiv: "2502.20537"
+file: "https://arxiv.org/pdf/2502.20537v1.pdf"
 excerpt: |
     As software grows increasingly complex, the quantity and diversity of concerns to be addressed also rises. To answer this diversity of concerns, developers may end up using multiple programming languages in a single software project, a practice known as polyglot programming. This practice has gained momentum with the rise of execution platforms capable of supporting polyglot systems.
     
@@ -50,7 +52,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-10-01  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/13>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20537v1.pdf)  
 
 
 ### Abstract

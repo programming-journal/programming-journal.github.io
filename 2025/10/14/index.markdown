@@ -29,6 +29,8 @@ authors:
     affiliation: "USI Lugano, Switzerland"
     id: "0000-0001-5527-5931"
 
+arxiv: "2502.20526"
+file: "https://arxiv.org/pdf/2502.20526v1.pdf"
 excerpt: |
     #### Context
     Graphics is a popular domain for teaching introductory programming in a motivating way, even in text-based programming languages.
@@ -76,7 +78,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-10-01  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/14>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20526v1.pdf)  
 
 
 ### Abstract

@@ -25,8 +25,11 @@ authors:
     affiliation: "NYU Abu Dhabi, United Arab Emirates"
     id: "0000-0002-5516-1376"
 
+arxiv: "2502.20533"
+file: "https://arxiv.org/pdf/2502.20533v1.pdf"
 excerpt: |
     A gradual type system allows developers to declare certain types to be enforced by the compiler (i.e., statically typed), while leaving other types to be enforced via runtime checks (i.e., dynamically typed). When runtime checks fail, debugging gradually typed programs becomes cumbersome, because these failures may arise far from the original point where an inconsistent type assumption is made. To ease this burden on developers, some gradually typed languages produce a blame report for a given type inconsistency. However, these reports are sometimes misleading, because they might point to program points that do not need to be changed to stop the error.
+    
     To overcome the limitations of blame reports, we propose using dynamic program slicing as an alternative approach to help programmers debug run-time type errors. We describe a proof-of-concept for TypeSlicer, a tool that would present dynamic program slices to developers when a runtime check fails. We performed a Wizard-of-Oz user study to investigate how developers respond to dynamic program slices through a set of simulated interactions with TypeScript programs. This formative study shows that developers can understand and apply dynamic slice information to provide change recommendations when debugging runtime type errors.
 
 ---
@@ -37,12 +40,13 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-09-30  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/8>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20533v1.pdf)  
 
 
 ### Abstract
 
 A gradual type system allows developers to declare certain types to be enforced by the compiler (i.e., statically typed), while leaving other types to be enforced via runtime checks (i.e., dynamically typed). When runtime checks fail, debugging gradually typed programs becomes cumbersome, because these failures may arise far from the original point where an inconsistent type assumption is made. To ease this burden on developers, some gradually typed languages produce a blame report for a given type inconsistency. However, these reports are sometimes misleading, because they might point to program points that do not need to be changed to stop the error.
+
 To overcome the limitations of blame reports, we propose using dynamic program slicing as an alternative approach to help programmers debug run-time type errors. We describe a proof-of-concept for TypeSlicer, a tool that would present dynamic program slices to developers when a runtime check fails. We performed a Wizard-of-Oz user study to investigate how developers respond to dynamic program slices through a set of simulated interactions with TypeScript programs. This formative study shows that developers can understand and apply dynamic slice information to provide change recommendations when debugging runtime type errors.
 
 

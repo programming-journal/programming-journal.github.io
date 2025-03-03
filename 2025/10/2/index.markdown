@@ -21,6 +21,8 @@ authors:
     affiliation: "Northeastern University, USA"
     id: "0000-0001-6678-1004?"
 
+arxiv: "2502.20542"
+file: "https://arxiv.org/pdf/2502.20542v1.pdf"
 excerpt: |
     #### Context
     
@@ -86,7 +88,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-08-19  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/2>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20542v1.pdf)  
 
 
 ### Abstract

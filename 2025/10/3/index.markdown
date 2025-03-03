@@ -29,6 +29,8 @@ authors:
     affiliation: "JKU Linz, Austria"
     id: "0000-0001-7706-7308"
 
+arxiv: "2502.20536"
+file: "https://arxiv.org/pdf/2502.20536v1.pdf"
 excerpt: |
     Data structures are a cornerstone of most modern programming languages. Whether they are provided via separate libraries, built into the language specification, or as part of the language's standard library - data structures such as lists, maps, sets, or arrays provide programmers with a large repertoire of tools to deal with data. 
     Moreover, each kind of data structure typically comes with a variety of implementations that focus on scalability, memory efficiency, performance, thread-safety, or similar aspects. 
@@ -56,7 +58,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-09-22  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20536v1.pdf)  
 
 
 ### Abstract

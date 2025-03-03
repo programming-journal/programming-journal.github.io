@@ -25,6 +25,8 @@ authors:
     affiliation: "University of Lille - Inria - CNRS - Centrale Lille - UMR 9189 CRIStAL, France"
     id: "0000-0002-5615-6691?"
 
+arxiv: "2502.20543"
+file: "https://arxiv.org/pdf/2502.20543v1.pdf"
 excerpt: |
     Virtual Machines (VMs) combine interpreters and just-in-time (JIT) compiled code to achieve good performance.
     However, implementing different execution engines increases the cost of developing and maintaining such solutions.
@@ -47,7 +49,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-09-30  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/9>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20543v1.pdf)  
 
 
 ### Abstract

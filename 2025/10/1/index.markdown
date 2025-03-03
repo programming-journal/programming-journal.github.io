@@ -21,6 +21,8 @@ authors:
     affiliation: "University of Uppsala, Sweden"
     id: "0000-0002-4269-5408"
 
+arxiv: "2502.20522"
+file: "https://arxiv.org/pdf/2502.20522v1.pdf"
 excerpt: |
     In modern server computing, efficient CPU resource usage is often
     traded for latency. Garbage collection is a key aspect of memory
@@ -60,7 +62,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-08-09  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/1>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20522v1.pdf)  
 
 
 ### Abstract

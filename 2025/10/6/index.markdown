@@ -21,6 +21,8 @@ authors:
     affiliation: "Inria - University of Côte d’Azur, France"
     id: "0000-0002-5240-1610"
 
+arxiv: "2502.20547"
+file: "https://arxiv.org/pdf/2502.20547v1.pdf"
 excerpt: |
     **Context:** Just-in-Time (JIT) compilers are able to specialize the code they generate according to a continuous profiling of the running programs. This gives them an advantage when compared to Ahead-of-Time (AoT) compilers that must choose the code to generate once for all.
     
@@ -42,7 +44,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 1, Articl
 Submission date: 2024-10-01  
 Publication date: 2025-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/10/6>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2502.20547v1.pdf)  
 
 
 ### Abstract
