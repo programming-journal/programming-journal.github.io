@@ -8,6 +8,7 @@ order: 1000
 The following volumes have been published by The Art, Science, and Engineering of Programming.
 
 * [2025](/2025)
+  * [Volume 10](/2025/10)
   * [Volume 9](/2025/9)
 * [2024](/2024)
   * [Volume 8](/2024/8)
