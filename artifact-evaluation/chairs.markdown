@@ -4,6 +4,7 @@ order: 352
 ---
 
 **Artifact Evaluation Chairs**
+
 * [Patrick Rein](https://www.patrickrein.de/), HPI, University of Potsdam, Germany (Volume 10, 2025)
 * [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/), University of Waterloo, Canada (Volume 10, 2025)
 
