@@ -1,0 +1,63 @@
+- name: Jeremy Gibbons
+  affiliation: Department of Computer Science, University of Oxford, United Kingdom
+  extra: "Editor-in-Chief"
+  
+- name: Elisa Gonzalez Boix
+  affiliation: Vrije Universiteit Brussel, Belgium
+  extra: "Associate Editor"
+
+- name: Shigeru Chiba
+  affiliation: University of Tokyo, Japan
+  extra: "Associate Editor"
+  
+- name: Ademar Aguiar
+  affiliation: INESC TEC, Faculdade de Engenharia, Universidade do Porto, Portugal
+  
+- name: Burcu Kulahcioglu Ozkan
+  affiliation: Delf University of Technology, Netherlands
+
+- name: Christophe Scholliers
+  affiliation: Universiteit Gent, Belgium
+  
+- name: Crista Lopes
+  affiliation: University of California, Irvine, California
+  
+- name: Davide Ancona
+  affiliation: University of Genova, Italy
+
+- name: Gordana Rakić
+  affiliation: Department of Mathematics and Informatics, Faculty of Sciences, University of Novi Sad, Serbia
+
+- name: Hidehiko Masuhara
+  affiliation: Tokyo Institute of Technology, Japan
+
+- name: João Costa Seco
+  affiliation: Computer Science Department of the FCT/Universidade Nova de Lisboa, Portugal
+
+- name: Marco Servetto
+  affiliation: VUW
+  
+- name: Matthew Flatt
+  affiliation: University of Utah, United States
+
+- name: Nicolás Cardozo
+  affiliation: Universidad de los Andes, Colombia
+  
+- name: Robert Hirschfeld
+  affiliation: Hasso-Plattner-Institut (HPI), Germany
+  
+- name: Stefan Marr
+  affiliation: University of Kent, United Kingdom
+
+- name: Tomoharu Ugawa
+  affiliation: University of Tokyo, Japan
+  
+- name: Tomoki Nakamaru
+  affiliation: University of Tokyo, Japan
+
+- name: Walter Binder
+  affiliation: USI Lugano, Switzerland
+
+- name: Yu David Liu
+  affiliation: SUNY Binghamton, United States
+ 
