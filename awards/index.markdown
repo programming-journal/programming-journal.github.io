@@ -14,6 +14,7 @@ To celebrate the work of the community around the journal, we have instituted th
 * **Outstanding Reviewer Awards**: given annually to up to 3 members of the Standing Review Committee by the Editorial Board of the journal, this award recognizes these members' stellar reviewing service.
 
 ### 2025
+
 * Reviewers' Choice Awardee  
   [Monk: opportunistic scheduling to delay horizontal scaling](https://programming-journal.org/2025/10/1/)  
   Marina Shimchenko, Erik Österlund and Tobias Wrigstad
