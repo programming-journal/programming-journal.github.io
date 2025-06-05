@@ -13,6 +13,21 @@ To celebrate the work of the community around the journal, we have instituted th
 
 * **Outstanding Reviewer Awards**: given annually to up to 3 members of the Standing Review Committee by the Editorial Board of the journal, this award recognizes these members' stellar reviewing service.
 
+### 2025
+
+* Reviewers' Choice Awardee  
+  [Monk: opportunistic scheduling to delay horizontal scaling](https://programming-journal.org/2025/10/1/)  
+  Marina Shimchenko, Erik Österlund and Tobias Wrigstad
+
+* Editors' Choice Awardee  
+  [Probing the Design Space: Parallel Versions for Exploratory Programming](https://programming-journal.org/2025/10/5/)  
+  Tom Beckmann, Joana Bergsiek, Eva Krebs, Toni Mattis, Stefan Ramson, Martin C. Rinard, and Robert Hirschfeld
+
+* Outstanding Reviewer Awardees
+    * Gordana Rakić,  
+     University of Novi Sad, Serbia
+    * Christophe Scholliers,  
+     Universiteit Gent, Belgium
 
 ### 2024
 
@@ -31,7 +46,7 @@ Eva Krebs, and Robert Hirschfeld
 
   * Stephen Kell,  
     King’s College London, UK
-  * Stefan Marr,
+  * Stefan Marr,  
     University of Kent, UK
 
 
