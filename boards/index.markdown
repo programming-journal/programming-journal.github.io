@@ -16,8 +16,8 @@ order: 500
 
 **Associate Editors**
 
-* [Philipp Haller](https://people.kth.se/~phaller/), KTH Royal Institute of Technology, Sweden (Volume 10/11, 2025)
-* [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Institute of Science Tokyo, Japan (Volume 10/11, 2025)
+* [Philipp Haller](https://people.kth.se/~phaller/), KTH Royal Institute of Technology, Sweden (Volume 10/11, 2025–2026)
+* [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Institute of Science Tokyo, Japan (Volume 10/11, 2025–2026)
 * [Shigeru Chiba](https://www.csg.ci.i.u-tokyo.ac.jp/en/), The University of Tokyo, Japan (Volume 9/10, 2024–2025)
 * [Elisa Gonzalez Boix](https://soft.vub.ac.be/disco/elisa/), Vrije Universiteit Brussel, Belgium (Volume 9/10, 2024–2025)
 
