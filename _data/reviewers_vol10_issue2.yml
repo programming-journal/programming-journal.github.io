@@ -1,0 +1,56 @@
+- name: Jeremy Gibbons
+  affiliation: Department of Computer Science, University of Oxford, United Kingdom
+  extra: "Editor-in-Chief"
+  
+- name: Youyou Cong
+  affiliation: Institute of Science Tokyo
+  extra: "Associate Editor"
+
+- name: Philipp Haller
+  affiliation: KTH Royal Institute of Technology
+  extra: "Associate Editor"
+
+- name: Christophe Scholliers
+  affiliation: Universiteit Gent, Belgium
+
+- name: Fabrizio Montesi
+  affiliation: University of Southern Denmark
+
+- name: Jesper Cockx
+  affiliation: TU Delft
+
+- name: Matthew Flatt
+  affiliation: University of Utah
+
+- name: Meng Wang
+  affiliation: University of Bristol
+
+- name: Oliver Bračevac
+  affiliation: EPFL
+
+- name: Ragnar Mogk
+  affiliation: Technische Universität Darmstadt
+
+- name: Robert Hirschfeld
+  affiliation: HPI
+
+- name: Roly Perera
+  affiliation: University of Bristol
+
+- name: Stefan Marr
+  affiliation: University of Kent
+
+- name: Steve Blackburn
+  affiliation: Google / Australian National University
+
+- name: Tom Schrijvers
+  affiliation: KU Leuven
+
+- name: Tom Van Cutsem
+  affiliation: KU Leuven / Nokia Bell Labs
+
+- name: Yanhong A. Liu
+  affiliation: Stony Brook University
+
+- name: Yukiyoshi Kameyama
+  affiliation: University of Tsukuba
