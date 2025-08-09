@@ -21,6 +21,8 @@ authors:
     affiliation: "Johannes Kepler University Linz, Austria"
     id: "0000-0002-0139-8044"
 
+arxiv: "2508.03832"
+file: "https://arxiv.org/pdf/2508.03832v1.pdf"
 excerpt: |
     A vast number of software systems include components that parse and process structured input. In addition to programming languages, which are analyzed by compilers or interpreters, there are numerous components that process standardized or proprietary data formats of varying complexity. Even if such components were initially developed and tested based on a specification, such as a grammar, numerous modifications and adaptations over the course of software evolution can make it impossible to precisely determine which inputs they actually accept.  
     In this situation, grammar mining can be used to reconstruct the specification in the form of a grammar. Established approaches already produce useful results, provided that sufficient input data is available to fully cover the input language. However, achieving this completeness is a major challenge. In practice, only input data recorded during the operation of the software systems is available. If this data is used for grammar mining, the resulting grammar reflects only the actual processed inputs but not the complete grammar of the input language accepted by the software component. As a result, edge cases or previously supported features that no longer appear in the available input data are missing from the generated grammar.  
@@ -36,7 +38,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 2, Articl
 Submission date: 2025-01-30  
 Publication date: 2025-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2025/10/16>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2508.03832v1.pdf)  
 
 
 ### Abstract

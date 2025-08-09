@@ -17,6 +17,8 @@ authors:
     affiliation: "University of Utah, USA"
     id: "0000-0001-7078-9287"
 
+arxiv: "2508.03830"
+file: "https://arxiv.org/pdf/2508.03830v1.pdf"
 excerpt: |
     **Context:**
     The design of static type systems that can validate dynamically-typed programs (**gradually**) is an ongoing challenge. A key difficulty is that dynamic code rarely follows datatype-driven design. Programs instead use runtime tests to narrow down the proper usage of incoming data. Type systems for dynamic languages thus need a **type narrowing** mechanism that refines the type environment along individual control paths based on dominating tests, a form of flow-sensitive typing. In order to express refinements, the type system must have some notion of sets and subsets. Since set-theoretic types are computationally and ergonomically complex, the need for type narrowing raises design questions about how to balance precision and performance.  
@@ -39,7 +41,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 2, Articl
 Submission date: 2025-02-01  
 Publication date: 2025-06-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2025/10/17>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2508.03830v1.pdf)  
 
 
 ### Abstract
