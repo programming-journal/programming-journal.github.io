@@ -10,7 +10,7 @@ AOSA is a tax-exempt organization, founded in 2001. The journal's editors, execu
 
 The association welcomes charitable donations, including individual and corporate gifts of money, equipment and personnel to help support the operation of the journal. Individuals and organizations wishing to make donations to support the journal should contact the treasurer.
 
-**Publisher's address**: AOSA
+**Publisher's address**: [AOSA](mailto:steering@aosa-inc.org), 42 Fox Hollow, Irvine, California 92614, US
 
 **Production address**: [Dirk Beyer](mailto:info@conference-publishing.com), Conference Publishing Consulting, Dr.-Fritz-Ebbert-Straße 25, D-94034 Passau, DE
 
