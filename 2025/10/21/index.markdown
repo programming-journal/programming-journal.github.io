@@ -21,6 +21,8 @@ authors:
     affiliation: "University of Tokyo, Tokyo, Japan"
     id: "0000-0002-1058-5941"
 
+arxiv: "2511.15821"
+file: "https://arxiv.org/pdf/2511.15821v1.pdf"
 excerpt: |
     Virtual machines (VMs) are highly beneficial for microcontroller development. 
     In particular, interactive programming environments greatly facilitate iterative development processes, 
@@ -50,7 +52,7 @@ The Art, Science, and Engineering of Programming, 2025, Vol. 10, Issue 3, Articl
 Submission date: 2025-06-02  
 Publication date: 2025-10-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2025/10/21>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2511.15821v1.pdf)  
 
 
 ### Abstract

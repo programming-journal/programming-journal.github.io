@@ -2,6 +2,7 @@
 title: "Volume 10"
 type: "volume"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2025%2F10"
+date: "2025-02-28"
 ---
 DOI: <https://doi.org/10.22152/programming-journal.org/2025/10>
 
@@ -57,6 +58,21 @@ Andreas Pointner, Josef Pichler, and Herbert Prähofer
 Hanwen Guo and Ben Greenman
   1. [A Type System for Data Privacy Compliance in Active Object Languages](/2025/10/18)  
 Chinmayi Prabhu Baramashetru, Paola Giannini, Silvia Lizeth Tapia Tarifa, and Olaf Owe
+
+
+
+* [Volume 10, Issue 3](issue3)  
+
+
+
+
+  {: start="19"}
+  1. [Filling the Gaps of Polarity: Implementing Dependent Data and Codata Types with Implicit Arguments](/2025/10/19)  
+Bohdan Liesnikov, David Binder, and Tim Süberkrüb
+  1. [Chorex: Restartable, Language-Integrated Choreographies](/2025/10/20)  
+Ashton Wiersdorf and Ben Greenman
+  1. [BlueScript: A Disaggregated Virtual Machine for Microcontrollers](/2025/10/21)  
+Fumika Mochizuki, Tetsuro Yamazaki, and Shigeru Chiba
 
 
 
