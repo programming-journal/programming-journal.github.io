@@ -1,0 +1,65 @@
+- name: Jeremy Gibbons
+  affiliation: University of Oxford
+  extra: "Editor-in-Chief"
+  
+- name: Youyou Cong
+  affiliation: Institute of Science Tokyo
+  extra: "Associate Editor"
+
+- name: Philipp Haller
+  affiliation: KTH Royal Institute of Technology
+  extra: "Associate Editor"
+
+- name: Burcu Kulahcioglu Ozkan
+  affiliation: 	Delft University of Technology
+
+- name: Christophe Scholliers
+  affiliation: Universiteit Gent
+
+- name: Dominic Orchard
+  affiliation: University of Kent
+
+- name: Gordana Rakić
+  affiliation: 	University of Novi Sad
+
+- name: Jesper Cockx
+  affiliation: TU Delft
+
+- name: Karim Ali
+  affiliation: NYU Abu Dhabi
+
+- name: Matthew Flatt
+  affiliation: University of Utah
+
+- name: Matthias Hauswirth
+  affiliation: Università della Svizzera italiana
+
+- name: Meng Wang
+  affiliation: University of Bristol
+
+- name: Oliver Bračevac
+  affiliation: EPFL
+
+- name: Ragnar Mogk
+  affiliation: Technische Universität Darmstadt
+
+- name: Robert Hirschfeld
+  affiliation: HPI
+
+- name: Roly Perera
+  affiliation: University of Bristol
+
+- name: Stefan Marr
+  affiliation: University of Kent
+
+- name: Steve Blackburn
+  affiliation: Google / Australian National University
+
+- name: Tom Schrijvers
+  affiliation: KU Leuven
+
+- name: Yanhong A. Liu
+  affiliation: Stony Brook University
+
+- name: Yukiyoshi Kameyama
+  affiliation: University of Tsukuba
