@@ -7,7 +7,7 @@ order: 350
 
 Help others to build upon the technical contributions of your article!
 
-The Artifact Evaluation (AE) process is a service provided by the Programming Journal to help authors of accepted articles (including articles accepted subject to minor revisions) to extend the reach of their work so future researchers can build on and compare with that work. The results can be of any form (implementations, data, analysis results). The AEC will read the article and explore the artifact to give feedback about how well the artifact supports the article.
+The Artifact Evaluation (AE) process is a service provided by the Programming Journal to help authors of accepted articles (including articles accepted subject to minor or major revisions within the same issue) to extend the reach of their work so future researchers can build on and compare with that work. The results can be of any form (implementations, data, analysis results). The AEC will read the article and explore the artifact to give feedback about how well the artifact supports the article.
 
 Submissions to AE are voluntary. Articles evaluated positively in the AE process will receive badges to be included on the first page of the article.
 By default, we expect artifacts to be available publicly (for details and exceptions see below). We will publish and archive the artifact alongside the article via Zenodo as part of the [Zenodo ‹Programming› community](https://zenodo.org/communities/programming/).
