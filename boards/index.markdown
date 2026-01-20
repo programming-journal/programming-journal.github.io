@@ -18,11 +18,11 @@ order: 500
 
 * [Philipp Haller](https://people.kth.se/~phaller/), KTH Royal Institute of Technology, Sweden (Volume 10/11, 2025–2026)
 * [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Institute of Science Tokyo, Japan (Volume 10/11, 2025–2026)
-* [Shigeru Chiba](https://www.csg.ci.i.u-tokyo.ac.jp/en/), The University of Tokyo, Japan (Volume 9/10, 2024–2025)
-* [Elisa Gonzalez Boix](https://soft.vub.ac.be/disco/elisa/), Vrije Universiteit Brussel, Belgium (Volume 9/10, 2024–2025)
 
 **Past Associate Editors**
 
+* [Shigeru Chiba](https://www.csg.ci.i.u-tokyo.ac.jp/en/), The University of Tokyo, Japan (Volume 9/10, 2024–2025)
+* [Elisa Gonzalez Boix](https://soft.vub.ac.be/disco/elisa/), Vrije Universiteit Brussel, Belgium (Volume 9/10, 2024–2025)
 * [Manuel Serrano](http://www-sop.inria.fr/members/Manuel.Serrano/), Inria; University of Côte d'Azur, France (Volume 8, 2023–2024)
 * [Martin Rinard](https://people.csail.mit.edu/rinard/), MIT, United States (Volume 8, 2023–2024)
 * [Robert Hirschfeld](https://www.hpi.uni-potsdam.de/swa/people/hirschfeld/), HPI, University of Potsdam, Germany (Volume 7, 2022–2023)
@@ -47,9 +47,12 @@ The role of the advisory board is to guide and support the work of the editorial
 **Members**
 
 * Shigeru Chiba, The University of Tokyo, Japan
-* Richard P. Gabriel, Dream Songs, Inc., California & HPI, Germany
 * Robert Hirschfeld, HPI, University of Potsdam, Germany
 * Theo D'Hondt, Vrije Universiteit Brussel, Belgium
 * Cristina V. Lopes, University of California, Irvine, California
 * Wolfgang De Meuter, Vrije Universiteit Brussel, Belgium
 * Mario Südholt, École de Mines de Nantes, France
+
+**Past Members**
+
+* Richard P. Gabriel, Dream Songs, Inc., California & HPI, Germany
