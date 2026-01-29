@@ -37,7 +37,7 @@ The absence of an abstract conforming to this specification is grounds for the r
 Submitted papers must present original work made by the authors, must not overlap significantly with the authors’ previously published work, and must not be under review for another journal or conference with published proceedings. For details of our ethical policies, see [this page](https://programming-journal.org/purpose/ethics.html).
 
 
-[submit]: https://programming26-111.hotcrp.com/paper/new
+[submit]: https://programming-30-26.hotcrp.com/paper/new
 [ccs]: https://dl.acm.org/ccs/ccs.cfm
 [latex template]: https://github.com/programming-journal/programming/releases
 [template package]: https://github.com/programming-journal/programming/releases/download/v8.1/programming-template_v8.1.zip
