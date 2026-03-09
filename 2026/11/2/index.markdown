@@ -21,6 +21,8 @@ authors:
     affiliation: "University of Tokyo, Japan"
     id: "0000-0002-3849-8639"
 
+arxiv: "2603.05645"
+file: "https://arxiv.org/pdf/2603.05645v1.pdf"
 excerpt: |
     CHERI (Capability Hardware Enhanced RISC Instructions) is a novel hardware
     designed to address memory safety issues. By replacing traditional pointers with
@@ -57,7 +59,7 @@ The Art, Science, and Engineering of Programming, 2026, Vol. 11, Issue 1, Articl
 Submission date: 2025-10-02  
 Publication date: 2026-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/11/2>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2603.05645v1.pdf)  
 
 
 ### Abstract

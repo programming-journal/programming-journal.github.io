@@ -26,6 +26,8 @@ authors:
     affiliation: "Hasso Plattner Institute, Germany / University of Potsdam, Germany"
     id: "0000-0002-4249-6003"
 
+arxiv: "2603.05644"
+file: "https://arxiv.org/pdf/2603.05644v1.pdf"
 excerpt: |
     In programming, better tools often yield better results. For that, modern programming environments offer mechanisms to allow for their extensibility. The closer those tools are to the code, the easier it is for programmers to map the information provided by a tool to the code this information is about.
     
@@ -47,7 +49,7 @@ The Art, Science, and Engineering of Programming, 2026, Vol. 11, Issue 1, Articl
 Submission date: 2025-10-01  
 Publication date: 2026-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/11/1>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2603.05644v1.pdf)  
 
 
 ### Abstract

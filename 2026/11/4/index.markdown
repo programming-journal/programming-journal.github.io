@@ -33,6 +33,8 @@ authors:
     affiliation: "Gran Sasso Science Institute, Italy"
     id: "0000-0002-7032-3281"
 
+arxiv: "2603.05648"
+file: "https://arxiv.org/pdf/2603.05648v1.pdf"
 excerpt: |
     *Join patterns* are a high-level programming construct for message-passing
     applications. They offer an intuitive and declarative approach for specifying
@@ -93,7 +95,7 @@ The Art, Science, and Engineering of Programming, 2026, Vol. 11, Issue 1, Articl
 Submission date: 2025-10-02  
 Publication date: 2026-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/11/4>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2603.05648v1.pdf)  
 
 
 ### Abstract

@@ -4,7 +4,7 @@ category: "Issues"
 order: -11001
 type: "issue"
 id: "urn:doi:10.22152%2Fprogramming-journal.org%2F2026%2F11%2Fissue1"
-date: "2026-03-05"
+date: "2026-03-09"
 ---
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/11/issue1>
 

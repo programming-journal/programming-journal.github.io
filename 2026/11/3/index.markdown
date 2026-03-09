@@ -25,6 +25,8 @@ authors:
     affiliation: "University of Tokyo, Japan"
     id: "0000-0002-1058-5941"
 
+arxiv: "2603.05649"
+file: "https://arxiv.org/pdf/2603.05649v1.pdf"
 excerpt: |
     Gradual typing has gained popularity as a design choice for
     integrating static and dynamic typing within a single language.
@@ -75,7 +77,7 @@ The Art, Science, and Engineering of Programming, 2026, Vol. 11, Issue 1, Articl
 Submission date: 2025-10-02  
 Publication date: 2026-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/11/3>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2603.05649v1.pdf)  
 
 
 ### Abstract

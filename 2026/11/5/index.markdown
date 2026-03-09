@@ -21,6 +21,8 @@ authors:
     affiliation: "University of Toronto, USA"
     id: "0000-0002-3739-2269"
 
+arxiv: "2603.05646"
+file: "https://arxiv.org/pdf/2603.05646v1.pdf"
 excerpt: |
     Large-Language Models (LLMs) are changing the way learners acquire knowledge outside the classroom setting. Previous studies have shown that LLMs seem effective in generating to short and simple questions in introductory CS courses using high-resource programming languages such as Java or Python.
     
@@ -38,7 +40,7 @@ The Art, Science, and Engineering of Programming, 2026, Vol. 11, Issue 1, Articl
 Submission date: 2025-10-02  
 Publication date: 2026-02-15  
 DOI: <https://doi.org/10.22152/programming-journal.org/2026/11/5>  
-Full text: *t.b.a*  
+Full text: [PDF](https://arxiv.org/pdf/2603.05646v1.pdf)  
 
 
 ### Abstract
