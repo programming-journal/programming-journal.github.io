@@ -16,11 +16,13 @@ order: 500
 
 **Associate Editors**
 
-* [Philipp Haller](https://people.kth.se/~phaller/), KTH Royal Institute of Technology, Sweden (Volume 10/11, 2025–2026)
-* [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Institute of Science Tokyo, Japan (Volume 10/11, 2025–2026)
+* [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/), Delft University of Technology, Netherlands (Volume 11/12, 2026–2027)
+* [Tomas Petricek](http://tomasp.net/), Charles University, Czech Republic (Volume 11/12, 2026–2027)
 
 **Past Associate Editors**
 
+* [Philipp Haller](https://people.kth.se/~phaller/), KTH Royal Institute of Technology, Sweden (Volume 10/11, 2025–2026)
+* [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Institute of Science Tokyo, Japan (Volume 10/11, 2025–2026)
 * [Shigeru Chiba](https://www.csg.ci.i.u-tokyo.ac.jp/en/), The University of Tokyo, Japan (Volume 9/10, 2024–2025)
 * [Elisa Gonzalez Boix](https://soft.vub.ac.be/disco/elisa/), Vrije Universiteit Brussel, Belgium (Volume 9/10, 2024–2025)
 * [Manuel Serrano](http://www-sop.inria.fr/members/Manuel.Serrano/), Inria; University of Côte d'Azur, France (Volume 8, 2023–2024)
