@@ -1,5 +1,6 @@
 ---
 title: Use of Artificial Intelligence
+category: For Authors
 lead: Policy on the Use of Generative AI Tools by Authors and Reviewers
 
 ---

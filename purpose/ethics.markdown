@@ -1,5 +1,6 @@
 ---
 title: Ethics and Malpractice
+category: For Authors
 lead: Statement on Publication Ethics and Publication Malpractice 
 
 ---
