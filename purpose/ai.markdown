@@ -1,6 +1,7 @@
 ---
 title: Use of Artificial Intelligence
 category: For Authors
+order: 830
 lead: Policy on the Use of Generative AI Tools by Authors and Reviewers
 
 ---
